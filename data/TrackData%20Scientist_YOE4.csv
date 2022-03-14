@@ -1,0 +1,337 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+PepsiCo,C06,,130000,"New York, NY ",2022-03-07,1 , 4,130000 , N/A , N/A
+Peloton,L6,,190000,"New York, NY ",2022-03-05,3 , 4,140000 , 40000 , 10000
+ByteDance,2-1,Data,100000,"Los Angeles, CA ",2022-03-02,2 , 4,100000 , N/A , N/A
+Amazon,L5,SCOT,309000,"New York, NY ",2022-02-28,0 , 4,175000 , 75000 , 59000
+Quantiphi,L1,Data Science,108000,"Marlborough, MA ",2022-02-28,1 , 4,95000 , N/A , 13000
+Facebook,IC4,General,251000,"Burlingame, CA ",2022-02-25,1 , 4,163000 , 64000 , 24000
+,Senior,Data Science,150000,"San Francisco, CA ",2022-02-23,2 , 4,135000 , N/A , 15000
+Microsoft,62,General,180000,"Redmond, WA ",2022-02-20,0 , 4,149000 , 16000 , 15000
+PayPal,T24,General,220000,"San Francisco, CA ",2022-02-19,4 , 4,150000 , 50000 , 20000
+Uber,4,General,263000,"San Francisco, CA ",2022-02-18,0 , 4,160000 , 80000 , 23000
+IBM,Band 7,Data Scientist,140000,"Somerset, NJ ",2022-02-17,1 , 4,140000 , N/A , N/A
+NerdWallet,L3,Machine Learning,250000,"New York, NY ",2022-02-16,2 , 4,200000 , 50000 , N/A
+Amazon,L5,Alexa,335000,"San Francisco, CA ",2022-02-15,4 , 4,173000 , 157000 , 5000
+General Motors,L7,Data,120000,"Ontario, CA ",2022-02-15,4 , 4,104000 , N/A , 16000
+AT&T,L6,data,185000,"Seattle, WA ",2022-02-12,4 , 4,145000 , N/A , 40000
+Uber,3,hi,146000,"San Francisco, CA ",2022-02-11,0 , 4,125000 , 10000 , 11000
+Microsoft,62,Advertising,186000,"Bellevue, WA ",2022-02-11,1 , 4,136000 , 38000 , 12000
+Capital One,Principal Associate,Risk Modeling,173000,"New York, NY ",2022-02-10,2 , 4,164000 , N/A , 9000
+Zillow,P4,ML,267000,"Seattle, WA ",2022-02-09,4 , 4,180000 , 87000 , N/A
+Verizon,7,General,119000,"Basking Ridge, NJ ",2022-02-09,4 , 4,101000 , 5000 , 13000
+Intuit,Senior DS,AI/ML,234000,"Mountain View, CA ",2022-02-08,0 , 4,160000 , 50000 , 24000
+Charles Schwab,58,Data Science,160000,"San Francisco, CA ",2022-02-08,2 , 4,146000 , N/A , 14000
+LinkedIn,L3,marketing,197000,"Sunnyvale, CA ",2022-02-08,3 , 4,150000 , 37000 , 10000
+Discover,L5,General,129000,"Chicago, IL ",2022-02-07,0 , 4,120000 , N/A , 9000
+Amazon,L6,General,270000,"Seattle, WA ",2022-02-06,4 , 4,160000 , 110000 , N/A
+Fast,L4,ML,350000,"San Francisco, CA ",2022-02-02,0 , 4,170000 , 150000 , 30000
+Stitch Fix,L5,Data,480000,"New York, NY ",2022-02-02,4 , 4,220000 , 260000 , N/A
+Ernst and Young,Manager/Asst Director,"Predictive modelling, NLP",160000,"San Jose, CA ",2022-02-01,4 , 4,155000 , N/A , 5000
+Ernst and Young,Senior,DS / AI,167000,"New York, NY ",2022-01-29,0 , 4,147000 , N/A , 20000
+Walmart Global Tech,X4,ML,250000,"Sunnyvale, CA ",2022-01-27,1 , 4,175000 , 40000 , 35000
+Nielsen,L3,Meta Data,156000,"Emeryville, CA ",2022-01-27,2 , 4,142000 , N/A , 14000
+realtor.com,T2,Analytics,139000,"Santa Clara, CA ",2022-01-22,1 , 4,133000 , 5000 , 500
+JPMorgan Chase,602,Analytics,148000,"New York, NY ",2022-01-21,2 , 4,130000 , N/A , 18000
+Spotify,Mid level,Promotion,185000,"New York, NY ",2022-01-19,2 , 4,150000 , 35000 , N/A
+Amazon,L5,General,195000,"Seattle, WA ",2022-01-18,2 , 4,140000 , 30000 , 25000
+Goldman Sachs,Senior Analyst,CWM,124000,"Chicago, IL ",2022-01-18,2 , 4,113000 , N/A , 11000
+Gopuff,L6,General,210000,"New York, NY ",2022-01-13,0 , 4,150000 , 38000 , 23000
+Premera Blue Cross,4,DATA,169000,"Seattle, WA ",2022-01-13,3 , 4,147000 , N/A , 22000
+Lyft,T4,PRODUCT,345000,"New York, NY ",2022-01-12,1 , 4,170000 , 130000 , 45000
+Thermo Fisher Scientific,L5,General,120000,"Cambridge, MA ",2022-01-11,1 , 4,100000 , N/A , 20000
+Discover,pg7,General,120000,"Chicago, IL ",2022-01-09,2 , 4,113000 , N/A , 7000
+Deloitte,Senior Consultant,Analytics and Cognitive,158000,"Boston, MA ",2022-01-08,4 , 4,143000 , N/A , 15000
+Amazon,L5,ML,349000,"Seattle, WA ",2022-01-07,0 , 4,149000 , 50000 , 150000
+Etsy,IC2,Finance,127000,"New York, NY ",2022-01-07,2 , 4,115000 , N/A , 12000
+Microsoft,62,Azure,202000,"Seattle, WA ",2022-01-07,2 , 4,158000 , 21000 , 23000
+Amazon,L4,DS,160000,"Bellevue, WA ",2022-01-04,0 , 4,120000 , 4000 , 36000
+Google,L5,analytics,355000,"New York, NY ",2022-01-04,3 , 4,192000 , 123000 , 40000
+Amazon,L5,Forecasting,233000,"Seattle, WA ",2022-01-02,0 , 4,152000 , 50000 , 32000
+Goldman Sachs,Vice President,risk models,220000,"New York, NY ",2021-12-31,4 , 4,170000 , N/A , 50000
+Two Sigma,L3,ML,320000,"New York, NY ",2021-12-28,2 , 4,190000 , N/A , 130000
+Barclays,Vice President,Data science,260000,"New York, NY ",2021-12-26,0 , 4,210000 , N/A , 50000
+Amazon,L5,Maching learning,280000,"Seattle, WA ",2021-12-26,4 , 4,140000 , 140000 , N/A
+Google,L5,General,344000,"Mountain View, CA ",2021-12-24,3 , 4,190000 , 120000 , 34000
+Genentech,L3,General,150000,"South San Francisco, CA ",2021-12-16,3 , 4,120000 , 10000 , 20000
+Optum,28,Actuarial Science,138000,"New York, NY ",2021-12-15,1 , 4,125000 , N/A , 13000
+Splunk,Senior Software Engineer,ML,340000,"San Francisco, CA ",2021-12-14,2 , 4,225000 , 100000 , 15000
+Amazon,L5,economics,260000,"Seattle, WA ",2021-12-12,2 , 4,150000 , 50000 , 60000
+Amazon,L4,General,152000,"Seattle, WA ",2021-12-11,2 , 4,132000 , 20000 , N/A
+PayPal,T24,Risk,135000,"Chicago, IL ",2021-12-11,0 , 4,95000 , 30000 , 10000
+Amazon,L5,Devices,295000,"San Francisco, CA ",2021-12-09,2 , 4,175000 , 120000 , N/A
+Discover,PG06,General,107000,"Chicago, IL ",2021-12-09,1 , 4,102000 , N/A , 5000
+Spotify,2,General,174000,"Boston, MA ",2021-12-07,1 , 4,135000 , 39000 , N/A
+Albertsons,Senior,ML,220000,"Pleasanton, CA ",2021-11-28,1 , 4,200000 , N/A , 20000
+Verizon,Band 7,Data Science,119000,"Basking Ridge, NJ ",2021-11-28,4 , 4,101000 , 5000 , 13000
+IBM,Band 8,Marketing,190000,"New York, NY ",2021-11-26,3 , 4,180000 , 5000 , 5000
+Uber,L4,MLE - AI,325000,"San Francisco, CA ",2021-11-19,0 , 4,165000 , 125000 , 35000
+Amazon,L5,ML,400000,"Palo Alto, CA ",2021-11-19,0 , 4,185000 , 115000 , 100000
+IBM,Band 7,NLP,192000,"New York, NY ",2021-11-19,4 , 4,192000 , N/A , N/A
+Wolters Kluwer,T3,Machine Learning,160000,"Waltham, MA ",2021-11-16,2 , 4,145000 , N/A , 15000
+Liberty Mutual,16,General,140000,"Boston, MA ",2021-11-16,2 , 4,125000 , N/A , 15000
+Facebook,L5,Analytics,302000,"Menlo Park, CA ",2021-11-15,1 , 4,185000 , 90000 , 27000
+Snorkel AI,L4,General,355000,"San Francisco, CA ",2021-11-15,0 , 4,180000 , 175000 , N/A
+CVS Health,L3,Behavior Change,160000,"New York, NY ",2021-11-10,2 , 4,149000 , N/A , 11000
+Discover,Pg7,Credit risk,122000,"Chicago, IL ",2021-11-02,2 , 4,113000 , N/A , 9000
+Amazon,L4,machine learning,175000,"Seattle, WA ",2021-10-29,2 , 4,140000 , 10000 , 25000
+PathAI,L3,General,210000,"Boston, MA ",2021-10-26,1 , 4,150000 , 60000 , N/A
+OpenTable,Senior,NLP,245000,"San Francisco, CA ",2021-10-25,3 , 4,180000 , 40000 , 25000
+Amazon,L4,Data Science,117000,"Seattle, WA ",2021-10-24,2 , 4,103000 , 9000 , 5000
+Facebook,L4,Product Analytics,231000,"Menlo Park, CA ",2021-10-23,0 , 4,160000 , 55000 , 16000
+Synaptics,L4,"Deep learning, Machine larning",240000,"San Jose, CA ",2021-10-23,4 , 4,180000 , 42000 , 18000
+Visa,L6.5,Research,250000,"Palo Alto, CA ",2021-10-22,4 , 4,193000 , 28000 , 29000
+Discord,L2,Growth,218000,"San Francisco, CA ",2021-10-22,1 , 4,170000 , 48000 , N/A
+Discord,Senior Data Scientist,Growth,315000,"San Francisco, CA ",2021-10-19,1 , 4,200000 , 115000 , N/A
+Uber,L4,Research,217000,"San Francisco, CA ",2021-10-14,2 , 4,146000 , 62000 , 9000
+Amazon,L5,Data Science,200000,"Seattle, WA ",2021-10-11,2 , 4,146000 , 40000 , 14000
+Facebook,E4,Analytics,192000,"Austin, TX ",2021-10-11,0 , 4,138000 , 40000 , 14000
+Natera,L4,general,172000,"San Francisco, CA ",2021-10-09,1 , 4,150000 , 15000 , 7000
+Intuit,L4,Product,231000,"Mountain View, CA ",2021-10-09,2 , 4,145000 , 65000 , 21000
+Facebook,IC4,Research,250000,"Menlo Park, CA ",2021-10-07,1 , 4,155000 , 80000 , 15000
+Facebook,IC4,Research,250000,"Menlo Park, CA ",2021-10-07,1 , 4,155000 , 80000 , 15000
+Uber,L4,General,238000,"San Francisco, CA ",2021-10-05,3 , 4,145000 , 70000 , 23000
+Google,L4,Finance,199000,"San Jose, CA ",2021-10-04,1 , 4,138000 , 35000 , 26000
+Amazon,L5,General,240000,"Seattle, WA ",2021-10-02,1 , 4,155000 , 45000 , 40000
+JPMorgan Chase,Senior Associate,Data Science,105000,"Chicago, IL ",2021-10-01,2 , 4,95000 , N/A , 10000
+Apple,ICT4,General,362000,"Cupertino, CA ",2021-09-28,2 , 4,190000 , 150000 , 22000
+Tapestry,L4,Data Science,143000,"New York, NY ",2021-09-26,1 , 4,128000 , N/A , 15000
+Square,L5,General,251000,"San Francisco, CA ",2021-09-25,0 , 4,160000 , 75000 , 16000
+Microsoft,62,ML,199000,"Seattle, WA ",2021-09-20,2 , 4,146000 , 37000 , 16000
+American Express,B40,ML / AI,150000,"New York, NY ",2021-09-18,3 , 4,136000 , N/A , 14000
+FabFitFun,L3,"Exploratory Analysis, AB Testing",136000,"Los Angeles, CA ",2021-09-16,2 , 4,133000 , 3000 , N/A
+BCG,Associate,General,174000,"Chicago, IL ",2021-09-15,2 , 4,144000 , N/A , 30000
+Verizon,7,Data,145000,"New York, NY ",2021-09-15,0 , 4,125000 , 5000 , 15000
+Square,L5,financial services,270000,"San Francisco, CA ",2021-09-13,2 , 4,170000 , 100000 , N/A
+CVS Health,P2,General,142000,"New York, NY ",2021-09-13,2 , 4,132000 , N/A , 10000
+Microsoft,63,ML Data Scientist,207000,"Seattle, WA ",2021-09-13,4 , 4,161000 , 24000 , 22000
+,Senior Data Scientist,General,198000,"New York, NY ",2021-09-09,2 , 4,160000 , 18000 , 20000
+Tiger Analytics,L3,ML/Stats,200000,"Jersey City, NJ ",2021-09-09,0 , 4,175000 , N/A , 25000
+Tiger Analytics,L3,ML/Stats,200000,"Jersey City, NJ ",2021-09-09,0 , 4,175000 , N/A , 25000
+Tiger Analytics,L3,ML/Stats,200000,"Jersey City, NJ ",2021-09-09,0 , 4,175000 , N/A , 25000
+Netflix,Senior Software Engineer,Research,450000,"Los Gatos, CA ",2021-09-09,0 , 4,450000 , N/A , N/A
+Cigna,Band 4,Data,173000,"New York, NY ",2021-09-08,0 , 4,150000 , N/A , 23000
+Microsoft,61,ML/AI,204000,"Seattle, WA ",2021-09-05,4 , 4,136000 , 51000 , 18000
+Google,L5,ML/AI,434000,"Mountain View, CA ",2021-09-01,4 , 4,182000 , 211000 , 41000
+Nextdoor,L3,,186000,"San Francisco, CA ",2021-08-31,0 , 4,165000 , 21000 , N/A
+Google,L4,Finance,206000,"Sunnyvale, CA ",2021-08-31,1 , 4,138000 , 40000 , 28000
+Capital One,Principal Associate,General,173000,"New York, NY ",2021-08-20,0 , 4,155000 , N/A , 18000
+Facebook,IC4,General,203000,"San Francisco, CA ",2021-08-19,3 , 4,147000 , 40000 , 16000
+Google,4,Finance,213000,"Sunnyvale, CA ",2021-08-18,1 , 4,138000 , 50000 , 25000
+Rivian,R5,Demand Forecasting,191000,"Irvine, CA ",2021-08-18,0 , 4,163000 , 28000 , N/A
+Facebook,L5,General,334000,"New York, NY ",2021-08-12,2 , 4,182000 , 125000 , 27000
+IBM,Band 7,AI/ML,133000,"San Francisco, CA ",2021-08-12,4 , 4,132000 , N/A , 1000
+Ernst and Young,L3,NLP,120000,"Chicago, IL ",2021-08-11,2 , 4,112000 , N/A , 8000
+Spotify,Senior Engineer,Advertising,237000,"New York, NY ",2021-08-10,1 , 4,178000 , 59000 , N/A
+Netflix,Senior Data Scientist,General,400000,"Los Gatos, CA ",2021-08-07,0 , 4,400000 , N/A , N/A
+Grubhub,2,Data Engineering,172000,"New York, NY ",2021-08-06,0 , 4,140000 , 32000 , N/A
+Merck,P3,Data Scientist,148000,"San Francisco, CA ",2021-08-01,2 , 4,122000 , N/A , 27000
+Waymo,L5,Product,268000,"San Francisco, CA ",2021-07-23,2 , 4,190000 , 40000 , 38000
+Ibotta,N/A,Product analytics,90000,"Denver, CO ",2021-07-23,2 , 4,90000 , N/A , N/A
+Microsoft,62,E + D,200000,"Seattle, WA ",2021-07-21,4 , 4,150000 , 30000 , 20000
+Moveworks,L3,Presales,115000,"Austin, TX ",2021-07-21,1 , 4,105000 , 3000 , 8000
+Shopify,L6,Data,220000,"Boston, MA ",2021-07-20,0 , 4,180000 , 40000 , N/A
+Capital One,Principal Associate,Machine Learning,139000,"New York, NY ",2021-07-19,2 , 4,130000 , N/A , 9000
+Cisco,Grade 8,Big data,200000,"Milpitas, CA ",2021-07-16,0 , 4,155000 , 25000 , 20000
+Cisco,Grade 10,Security,245000,"New York, NY ",2021-07-13,0 , 4,195000 , 25000 , 25000
+Amazon,L5,General,180000,"Seattle, WA ",2021-07-09,2 , 4,128000 , 40000 , 12000
+Vectra AI,Entry,Cyber security,180000,"San Jose, CA ",2021-06-29,3 , 4,150000 , 30000 , N/A
+Microsoft,62,ML/AI,256000,"San Francisco, CA ",2021-06-26,0 , 4,160000 , 56000 , 40000
+Walmart Global Tech,X5,ML/AI,332000,"Sunnyvale, CA ",2021-06-24,2 , 4,186000 , 100000 , 41000
+Optum,28,Engineering,140000,"Basking Ridge, NJ ",2021-06-22,4 , 4,130000 , N/A , 10000
+ByteDance,2-2,Ads,283000,"Mountain View, CA ",2021-06-21,0 , 4,210000 , 48000 , 26000
+Itron,L3,Research,194000,"San Francisco, CA ",2021-06-18,4 , 4,156000 , 30000 , 8000
+Magic Leap,L2,General,150000,"San Francisco, CA ",2021-06-17,3 , 4,150000 , N/A , N/A
+Uber,L3,General,190000,"Sunnyvale, CA ",2021-06-16,0 , 4,130000 , 35000 , 25000
+Convoy,L4,Analytics,148000,"Seattle, WA ",2021-06-16,0 , 4,123000 , 25000 , N/A
+BCG,Project Leader,Data Science,270000,"Los Angeles, CA ",2021-06-16,4 , 4,210000 , 10000 , 50000
+Apple,L3,Analytics,225000,"Cupertino, CA ",2021-06-12,1 , 4,160000 , 50000 , 15000
+Intuit,Senior Data Scientist,Analytics,190000,"Mountain View, CA ",2021-06-08,0 , 4,140000 , 30000 , 20000
+Intuit,Software Engineer 2,Analytics,145000,"Mountain View, CA ",2021-06-08,1 , 4,120000 , 15000 , 10000
+Poshmark,L2,"SQL, Python",170000,"Redwood City, CA ",2021-06-08,2 , 4,140000 , 30000 , N/A
+Facebook,IC4,Analytics,242000,"New York, NY ",2021-06-07,0 , 4,165000 , 60000 , 17000
+Tiger Analytics,L3,ML/ AI,200000,"Jersey City, NJ ",2021-06-07,1 , 4,175000 , N/A , 25000
+Facebook,IC3,Integrity,167000,"Seattle, WA ",2021-06-06,3 , 4,122000 , 30000 , 15000
+Shopify,L6,Data,220000,"New York, NY ",2021-06-04,0 , 4,180000 , 40000 , N/A
+Discover,L3,Data science,120000,"Chicago, IL ",2021-06-02,2 , 4,113000 , N/A , 7000
+Walmart Global Tech,L5,Operations Research,322000,"Sunnyvale, CA ",2021-06-01,0 , 4,185000 , 100000 , 37000
+Instacart,L5,Product,395000,"San Francisco, CA ",2021-05-28,0 , 4,195000 , 200000 , N/A
+Oracle,IC-3,General,148000,"Denver, CO ",2021-05-28,4 , 4,132000 , 16000 , N/A
+Slack,G05,Analytics,477000,"San Francisco, CA ",2021-05-23,2 , 4,186000 , 263000 , 28000
+HBO,Senior,General,250000,"Los Angeles, CA ",2021-05-22,1 , 4,160000 , 75000 , 20000
+Grubhub,L4,General,168000,"New York, NY ",2021-05-21,4 , 4,143000 , 25000 , N/A
+Robinhood,L3,DS,426000,"Menlo Park, CA ",2021-05-17,0 , 4,220000 , 184000 , 22000
+Liberty Mutual,16,General,150000,"Boston, MA ",2021-05-11,2 , 4,120000 , N/A , 30000
+McKinsey,L4,General,135000,"San Francisco, CA ",2021-04-27,0 , 4,135000 , N/A , 5000
+Amazon,L6,Customer facing,339000,"New York, NY ",2021-04-27,2 , 4,185000 , 154000 , N/A
+ViacomCBS,L2,General,102000,"New York, NY ",2021-04-27,2 , 4,100000 , N/A , 2000
+Uber,L4,Economics,280000,"San Francisco, CA ",2021-04-21,3 , 4,150000 , 110000 , 15000
+eBay,24,General,205000,"Bellevue, WA ",2021-04-20,1 , 4,155000 , 35000 , 15000
+Square,L5,Product,235000,"San Francisco, CA ",2021-04-15,0 , 4,155000 , 70000 , 10000
+Facebook,IC6,General,420000,"Menlo Park, CA ",2021-04-11,3 , 4,212000 , 160000 , 52000
+Facebook,L5,experimentation,300000,"Seattle, WA ",2021-04-10,1 , 4,200000 , 80000 , 25000
+Amazon,L5,SCOT,231000,"Seattle, WA ",2021-04-09,0 , 4,157000 , 42000 , 32000
+Amazon,L5,General,214000,"Seattle, WA ",2021-04-01,4 , 4,144000 , 60000 , 10000
+Dell Technologies,I8,ML,142000,"Austin, TX ",2021-03-31,3 , 4,113000 , 20000 , 9000
+Chime,L3,General,222000,"San Francisco, CA ",2021-03-29,0 , 4,145000 , 63000 , 15000
+Facebook,IC5,General,310000,"Menlo Park, CA ",2021-03-28,2 , 4,210000 , 90000 , 10000
+Amazon,L5,Search,337000,"Seattle, WA ",2021-03-25,0 , 4,155000 , 112000 , 70000
+,L2,Data Analyst,120000,"New York, NY ",2021-03-23,1 , 4,110000 , N/A , 10000
+Lyft,4,Decisions,260000,"San Francisco, CA ",2021-03-10,1 , 4,150000 , 110000 , N/A
+Facebook,IC5,Product Data Scientist,291000,"New York, NY ",2021-03-05,3 , 4,183000 , 81000 , 27000
+Uber,L5,Product Analyst,251000,"San Francisco, CA ",2021-03-04,4 , 4,154000 , 77000 , 20000
+UBS,Associate,Quant,170000,"New York, NY ",2021-03-03,1 , 4,135000 , N/A , 35000
+Aetna,PR3,ML,140000,"Wellesley, MA ",2021-02-28,1 , 4,130000 , N/A , 10000
+Wish,L4,,225000,"San Francisco, CA ",2021-02-28,0 , 4,200000 , 25000 , N/A
+KAYAK,L1,general,150000,"Cambridge, MA ",2021-02-22,2 , 4,115000 , 25000 , 10000
+McAfee,L5,General,216000,"San Jose, CA ",2021-02-11,0 , 4,185000 , N/A , 30000
+Robinhood,L4,Data,550000,"Menlo Park, CA ",2021-02-11,4 , 4,250000 , 300000 , N/A
+Facebook,IC4,Analytics,214000,"Seattle, WA ",2021-01-28,0 , 4,154000 , 45000 , 15000
+Square,Level 4,Data,168000,"San Francisco, CA ",2021-01-22,0 , 4,132000 , 36000 , N/A
+Goldman Sachs,Executive Director / Vice-President,Quant,340000,"New York, NY ",2021-01-21,4 , 4,200000 , 20000 , 120000
+realtor.com,L5,Data,157000,"Santa Clara, CA ",2021-01-18,0 , 4,145000 , N/A , 12000
+CVS Health,p4,ML / AI,150000,"New York, NY ",2021-01-15,4 , 4,135000 , N/A , 15000
+Facebook,IC4,Data,225000,"New York, NY ",2021-01-05,0 , 4,155000 , 50000 , 20000
+Facebook,IC4,Data,185000,"San Francisco, CA ",2021-01-04,1 , 4,135000 , 20000 , 30000
+Facebook,IC5,Data,294000,"Seattle, WA ",2021-01-03,3 , 4,177000 , 90000 , 27000
+BCG,Data Scientist,ML / AI,140000,"New York, NY ",2020-12-30,1 , 4,120000 , N/A , 20000
+Peapod Digital Labs,L3,ML / AI,173000,"Boston, MA ",2020-12-27,1 , 4,173000 , N/A , N/A
+Apple,L3,iOS,264000,"Cupertino, CA ",2020-12-22,4 , 4,160000 , 90000 , 14000
+BlackRock,Associate,ML / AI,160000,"New York, NY ",2020-12-22,3 , 4,120000 , N/A , 35000
+DoorDash,L4,Data,240000,"San Francisco, CA ",2020-12-19,0 , 4,175000 , 65000 , N/A
+Square,5,Data,200000,"San Francisco, CA ",2020-12-17,0 , 4,150000 , 50000 , N/A
+Lyft,T5,ML / AI,410000,"San Francisco, CA ",2020-12-14,3 , 4,190000 , 220000 , N/A
+Netflix,Only one level across Netflix,ML / AI,400000,"Los Gatos, CA ",2020-12-14,2 , 4,400000 , N/A , N/A
+Roche,Senior scientist,ML / AI,180000,"Santa Clara, CA ",2020-12-08,3 , 4,152000 , 10000 , 18000
+Amazon,L5,ML / AI,217000,"Los Angeles, CA ",2020-12-08,3 , 4,130000 , 87000 , N/A
+Stitch Fix,L3,ML / AI,250000,"San Francisco, CA ",2020-12-04,2 , 4,190000 , 60000 , N/A
+Facebook,IC4,ML / AI,228000,"Menlo Park, CA ",2020-12-02,2 , 4,159000 , 52000 , 16000
+Pinterest,L4,Data,125000,"New York, NY ",2020-11-25,1 , 4,85000 , 27000 , 13000
+Facebook,IC4,Data,236000,"Menlo Park, CA ",2020-11-20,1 , 4,160000 , 60000 , 16000
+Amazon,L5,ML / AI,240000,"Seattle, WA ",2020-11-16,4 , 4,140000 , 100000 , N/A
+Microsoft,64,ML / AI,350000,"Oakland, CA ",2020-11-15,2 , 4,204000 , 112000 , 34000
+Apple,ICT4,Data,320000,"Cupertino, CA ",2020-11-14,2 , 4,200000 , 100000 , 25000
+Facebook,IC4,Data,198000,"Seattle, WA ",2020-11-13,1 , 4,144000 , 40000 , 14000
+Facebook,IC4,Data,235000,"Menlo Park, CA ",2020-11-13,4 , 4,160000 , 50000 , 25000
+Oscar Health,D2,Data,135000,"New York, NY ",2020-11-11,3 , 4,125000 , N/A , 10000
+BuzzFeed,5,ML / AI,161000,"New York, NY ",2020-11-08,2 , 4,145000 , 5000 , 11000
+Amazon,L5,Data,180000,"Seattle, WA ",2020-11-03,0 , 4,130000 , 25000 , 25000
+Microsoft,61,ML / AI,159000,"Redmond, WA ",2020-10-28,1 , 4,130000 , 14000 , 15000
+Twitter,L6,Data,330000,"San Francisco, CA ",2020-10-27,2 , 4,175000 , 120000 , 35000
+Microsoft,62,ML / AI,230000,"Redmond, WA ",2020-10-20,0 , 4,150000 , 38000 , 42000
+Liberty Mutual,16,ML / AI,150000,"Boston, MA ",2020-10-14,4 , 4,137000 , N/A , 13000
+Amazon,L5,Data,150000,"Seattle, WA ",2020-10-08,1 , 4,120000 , 30000 , N/A
+Zillow,P3,Data,185000,"Seattle, WA ",2020-10-08,2 , 4,140000 , 45000 , N/A
+,L3,Data,120000,"San Francisco, CA ",2020-10-03,4 , 4,120000 , N/A , N/A
+eBay,L5,ML / AI,237000,"New York, NY ",2020-10-03,0 , 4,170000 , 42000 , 25000
+Facebook,E4,Data,290000,"Menlo Park, CA ",2020-10-01,1 , 4,150000 , 100000 , 40000
+Twitter,L6,Data,330000,"San Francisco, CA ",2020-09-27,2 , 4,175000 , 120000 , 35000
+Apple,ICT3,Research,240000,"Cupertino, CA ",2020-09-20,4 , 4,145000 , 75000 , 20000
+Indeed,L2,Data,138000,"Austin, TX ",2020-09-13,4 , 4,121000 , N/A , 17000
+Wayfair,L4,ML / AI,180000,"Boston, MA ",2020-09-06,2 , 4,135000 , 35000 , 10000
+Lyft,L5,ML / AI,387000,"Seattle, WA ",2020-09-03,2 , 4,187000 , 200000 , N/A
+Adobe,L4,Analytics,210000,"San Francisco, CA ",2020-08-31,1 , 4,175000 , 18000 , 18000
+IBM,Band 7,ML / AI,110000,"Denver, CO ",2020-08-19,4 , 4,110000 , N/A , 1000
+Apple,ICT4,ML / AI,407000,"Cupertino, CA ",2020-08-18,3 , 4,182000 , 200000 , 25000
+Morgan Stanley,Vice President,Quant,350000,"New York, NY ",2020-08-17,4 , 4,200000 , N/A , 150000
+Bird,L2,ML / AI,180000,"Santa Monica, CA ",2020-08-10,1 , 4,180000 , N/A , N/A
+Aetna,p4,Data,176000,"San Francisco, CA ",2020-08-05,3 , 4,160000 , N/A , 16000
+Zillow,L4,Product,270000,"San Francisco, CA ",2020-08-01,2 , 4,170000 , 100000 , N/A
+T-Mobile,L8,ML / AI,195000,"Seattle, WA ",2020-07-31,2 , 4,155000 , 10000 , 30000
+Stripe,L3,ML / AI,385000,"San Francisco, CA ",2020-07-25,0 , 4,195000 , 158000 , 33000
+JUUL Labs,L3,Distributed Systems (Back-End),160000,"San Francisco, CA ",2020-07-24,1 , 4,160000 , N/A , N/A
+eBay,Applied Researcher 2,ML / AI,220000,"San Jose, CA ",2020-07-14,0 , 4,170000 , 30000 , 20000
+Asana,L4,ML / AI,170000,"San Francisco, CA ",2020-07-13,0 , 4,147000 , 23000 , N/A
+Amazon,L4,ML / AI,220000,"New York, NY ",2020-07-13,1 , 4,155000 , 50000 , 20000
+Uber,L3,ML / AI,160000,"San Francisco, CA ",2020-07-13,2 , 4,115000 , 25000 , 20000
+Amazon,L4,ML / AI,185000,"Sunnyvale, CA ",2020-07-10,0 , 4,140000 , 40000 , 5000
+Microsoft,62,Data science,220000,"Bellevue, WA ",2020-07-06,2 , 4,150000 , 60000 , 10000
+Salesforce,6,ML / AI,150000,"Bellevue, WA ",2020-07-01,2 , 4,130000 , 7000 , 13000
+Zillow,Senior,Data Science,222000,"Seattle, WA ",2020-07-01,1 , 4,149000 , 53000 , 20000
+Yahoo,IC3,Data scientist,180000,"Sunnyvale, CA ",2020-06-28,0 , 4,140000 , 30000 , 10000
+Poshmark,Base,ML / AI,125000,"Redwood City, CA ",2020-06-19,1 , 4,115000 , 5000 , 5000
+Amazon,L4,DS,220000,"New York, NY ",2020-06-18,0 , 4,155000 , 45000 , 20000
+Twitter,Data Scientist II,Ad tech,280000,"San Francisco, CA ",2020-06-17,1 , 4,168000 , 89000 , 25000
+Amazon,4,ML / AI,250000,"Seattle, WA ",2020-06-12,0 , 4,152000 , 48000 , 50000
+Amazon,L4,ML / AI,210000,"Palo Alto, CA ",2020-06-12,1 , 4,150000 , 30000 , 30000
+Adobe,L3,General,168000,"San Francisco, CA ",2020-06-10,1 , 4,135000 , 20000 , 13000
+Accenture,Consultant,ML / AI,150000,"San Francisco, CA ",2020-06-10,1 , 4,150000 , N/A , N/A
+Uber,L5A,ML / AI,328000,"San Francisco, CA ",2020-06-10,4 , 4,170000 , 125000 , 33000
+Bird,Senior,Full Stack,165000,"Santa Monica, CA ",2020-06-04,2 , 4,165000 , N/A , N/A
+Google,L4,ML / AI,270000,"Sunnyvale, CA ",2020-06-03,2 , 4,160000 , 80000 , 30000
+Adobe,IC3,Other,200000,"San Francisco, CA ",2020-06-03,1 , 4,168000 , 15000 , 17000
+Amazon,L5,ML / AI,216000,"Palo Alto, CA ",2020-06-01,3 , 4,156000 , 60000 , N/A
+Capital One,Principal Associate,Modeler,150000,"New York, NY ",2020-05-31,3 , 4,138000 , N/A , 12000
+Boeing,L4,Analytics,142000,"Seattle, WA ",2020-05-26,4 , 4,136000 , N/A , 6000
+Atlassian,P5,Analytics,237000,"San Francisco, CA ",2020-05-25,1 , 4,165000 , 47000 , 25000
+Google,L4,Analytics,220000,"San Francisco, CA ",2020-05-21,0 , 4,140000 , 60000 , 21000
+Numerator,2,ML / AI,136000,"Chicago, IL ",2020-05-08,1 , 4,130000 , 1000 , 5000
+Morgan Stanley,Associate,Web Development (Front-End),190000,"New York, NY ",2020-04-30,4 , 4,150000 , N/A , 40000
+Zulily,Senior,ML / AI,206000,"Seattle, WA ",2020-04-28,1.5 , 4,170000 , 21000 , 15000
+Adobe,DS3,ML / AI,250000,"Emeryville, CA ",2020-04-27,3 , 4,145000 , 90000 , 15000
+Bird,Senior,ML / AI,165000,"Los Angeles, CA ",2020-04-19,1 , 4,165000 , N/A , N/A
+WeWork,L4,Data Engineer,192000,"New York, NY ",2020-04-17,1 , 4,175000 , N/A , 17000
+Airbnb,L4,Inference,296000,"San Francisco, CA ",2020-04-13,2 , 4,176000 , 120000 , N/A
+Amazon,L5,ML / AI,191000,"Palo Alto, CA ",2020-04-13,3 , 4,144000 , 47000 , N/A
+Lyft,T5,ML / AI,450000,"San Francisco, CA ",2020-04-13,4 , 4,190000 , 260000 , N/A
+Wayfair,L3,ML / AI,207000,"Boston, MA ",2020-04-09,1 , 4,145000 , 48000 , 14000
+Twitter,L6,data science,266000,"Boulder, CO ",2020-04-06,3 , 4,151000 , 85000 , 30000
+Expedia,M,ML / AI,220000,"Seattle, WA ",2020-03-26,4 , 4,150000 , 44000 , 26000
+Twitter,II,ML / AI,279000,"San Francisco, CA ",2020-03-15,2 , 4,164000 , 90000 , 25000
+Lyft,T4,Data Science,256000,"San Francisco, CA ",2020-02-25,2 , 4,156000 , 100000 , N/A
+JPMorgan Chase,Senior Associate,ML / AI,190000,"New York, NY ",2020-02-19,1 , 4,140000 , N/A , 50000
+PayPal,T25,ML / AI,205000,"San Jose, CA ",2020-02-09,2 , 4,175000 , 20000 , 10000
+Wayfair,L2,ML / AI,156000,"Boston, MA ",2020-01-25,1 , 4,130000 , 13000 , 13000
+Amazon,L5,ML / AI,270000,"New York, NY ",2020-01-23,0 , 4,175000 , 95000 , N/A
+Walmart Global Tech,X6,ML / AI,370000,"Sunnyvale, CA ",2020-01-20,4 , 4,225000 , 90000 , 55000
+Amobee,2,ML / AI,220000,"San Francisco, CA ",2020-01-19,2 , 4,185000 , N/A , 35000
+Atlassian,P5,analytics,230000,"Mountain View, CA ",2020-01-12,0 , 4,165000 , 37000 , 25000
+LinkedIn,Senior,ML / AI,270000,"San Francisco, CA ",2020-01-02,0 , 4,180000 , 72000 , 18000
+Stripe,L2,ML / AI,250000,"San Francisco, CA ",2019-12-10,1.5 , 4,158000 , 77000 , 15000
+GE Digital,Senior,ML / AI,142000,"San Ramon, CA ",2019-11-29,0 , 4,130000 , N/A , 12000
+LinkedIn,Senior Software Engineer,Analytics,260000,"Sunnyvale, CA ",2019-11-14,1 , 4,180000 , 62000 , 18000
+LinkedIn,Senior,Analytics,256000,"San Francisco, CA ",2019-11-05,1 , 4,170000 , 86000 , N/A
+Target,L6,ML / AI,250000,"Sunnyvale, CA ",2019-10-12,2 , 4,185000 , 50000 , 15000
+Apple,ICT4,ML / AI,290000,"Cupertino, CA ",2019-10-04,2 , 4,180000 , 90000 , 20000
+Netflix,Senior,ML / AI,450000,"Los Angeles, CA ",2019-09-11,2 , 4,425000 , 25000 , N/A
+Apple,ICT4,Sensing,258000,"Cupertino, CA ",2019-09-11,4 , 4,158000 , 80000 , 20000
+Bank of America Merrill Lynch,Associate,ML / AI,110000,"New York, NY ",2019-09-10,2 , 4,100000 , N/A , 10000
+Microsoft,64,ML / AI,213000,"Seattle, WA ",2019-09-04,19 , 4,168000 , 24000 , 21000
+Amazon,L5,ML / AI,300000,"Seattle, WA ",2019-09-04,1 , 4,150000 , 50000 , 100000
+T-Mobile,L7,ML / AI,190000,"Bellevue, WA ",2019-08-11,1 , 4,145000 , 15000 , 30000
+Intuit,Staff,ML / AI,318000,"Mountain View, CA ",2019-08-07,0 , 4,200000 , 78000 , 40000
+Microsoft,61,ML / AI,162000,"Bellevue, WA ",2019-07-27,4 , 4,130000 , 12000 , 20000
+Amazon,L5,ML / AI,180000,"Seattle, WA ",2019-07-09,0 , 4,,,
+Microsoft,62,Data Science,165000,"Redmond, WA ",2019-06-26,4 , 4,139000 , 12000 , 14000
+Lyft,T4,Data Science,280000,"San Francisco, CA ",2019-06-25,2 , 4,150000 , 130000 , N/A
+Apple,ICT3,Hardware Technology,212000,"Cupertino, CA ",2019-06-17,4 , 4,136000 , 60000 , 16000
+Facebook,IC4,Analytics,210000,"Menlo Park, CA ",2019-06-05,1 , 4,150000 , 30000 , 30000
+Amazon,L5,ML / AI,181000,"New York, NY ",2019-05-27,2 , 4,151000 , 21000 , 9000
+Amazon,L5,ML / AI,204000,"New York, NY ",2019-05-19,2 , 4,152000 , 13000 , 29000
+Oracle,IC-3,ML / AI,119000,"Denver, CO ",2019-05-15,2 , 4,106000 , 13000 , N/A
+Microsoft,63,ML / AI,270000,"Redmond, WA ",2019-05-11,0 , 4,165000 , 50000 , 55000
+LinkedIn,Staff Software Engineer,Data science,330000,"San Francisco, CA ",2019-05-03,2 , 4,208000 , 91000 , 31000
+Facebook,IC4,Analytics,206000,"Menlo Park, CA ",2019-04-26,1 , 4,150000 , 41000 , 15000
+Uber,4,ML / AI,310000,"San Francisco, CA ",2019-04-17,0 , 4,160000 , 120000 , 30000
+Apple,ICT3,ML / AI,150000,"Cupertino, CA ",2019-04-15,4 , 4,120000 , 30000 , 6000
+Amazon,L5,ML / AI,185000,"Palo Alto, CA ",2019-04-08,2 , 4,152000 , 20000 , 13000
+Amazon,L5,ML / AI,210000,"Seattle, WA ",2019-04-04,4 , 4,132000 , 38000 , 40000
+ASML,9,ML / AI,190000,"San Jose, CA ",2019-03-30,1 , 4,150000 , 15000 , 25000
+Uber,4,ML / AI,312000,"San Francisco, CA ",2019-03-27,2.5 , 4,155000 , N/A , 17000
+Google,L4,Data science,225000,"Mountain View, CA ",2019-03-25,4 , 4,144000 , 58000 , 23000
+Dropbox,IC3,Full Stack,215000,"San Francisco, CA ",2019-03-22,2 , 4,,,
+Intuit,Staff Data Scientist,ML / AI,276000,"Mountain View, CA ",2019-03-19,1.5 , 4,180000 , 60000 , 36000
+,Specialist,ML / AI,200000,"San Francisco, CA ",2019-02-24,2 , 4,160000 , N/A , 40000
+Amazon,L5,ML / AI,181000,"Palo Alto, CA ",2019-02-06,1 , 4,145000 , 6000 , 30000
+Facebook,E5,Security,350000,"San Francisco, CA ",2019-01-30,4 , 4,,,
+Fair,Senior,ML / AI,140000,"Santa Monica, CA ",2019-01-26,2 , 4,140000 , N/A , N/A
+Airbnb,L3,Analytics,283000,"San Francisco, CA ",2019-01-21,0 , 4,165000 , 93000 , 25000
+Amazon,L5,Alexa,187000,"Seattle, WA ",2019-01-18,1 , 4,,,
+Amazon,L5,ML / AI,154000,"Seattle, WA ",2019-01-08,1 , 4,125000 , 7000 , 22000
+LinkedIn,senior,analytics,250000,"Mountain View, CA ",2019-01-02,3 , 4,,,
+Amazon,L5,ML,196000,"Irvine, CA ",2018-12-20,1 , 4,,,
+Microsoft,60,ML / AI,145000,"Sunnyvale, CA ",2018-11-05,3 , 4,,,
+Microsoft,62,ML / AI,190000,"Redmond, WA ",2018-11-02,3 , 4,150000 , 22000 , 18000
+DigitalOcean,L2,ML / AI,160000,"New York, NY ",2018-10-31,1 , 4,150000 , N/A , 5000
+,II,ML / AI,187000,"New York, NY ",2018-06-26,1 , 4,,,
+Twitter,Staff,ML / AI,500000,"San Francisco, CA ",2018-06-10,4 , 4,,,
+LinkedIn,Senior,Data Analysis,233000,"San Francisco, CA ",2018-06-05,0 , 4,,,

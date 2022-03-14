@@ -1,0 +1,56 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Amazon,L6,,324000,"Bellevue, WA ",2022-03-05,0 , 13,171000 , 75000 , 78000
+Tata Consultancy Services,L3,Program manager,132000,"Bellevue, WA ",2022-02-27,13 , 13,122000 , N/A , 10000
+Salesforce,L5,General,419000,"Chicago, IL ",2022-02-22,2 , 13,230000 , 120000 , 69000
+Egnyte,L4,General,155000,"Austin, TX ",2022-02-18,0 , 13,155000 , N/A , N/A
+Apple,ICT4,EPM,248000,"Cupertino, CA ",2022-02-18,0 , 13,180000 , 50000 , 18000
+Amazon,L5,TPM,210000,"Seattle, WA ",2022-02-02,2 , 13,145000 , 5000 , 60000
+Snap,L4,general,396000,"Los Angeles, CA ",2022-01-03,2 , 13,190000 , 19000 , 187000
+Google,L6,Engineering,347000,"Sunnyvale, CA ",2021-12-15,8 , 13,213000 , 91000 , 43000
+Microsoft,65,General,293000,"Seattle, WA ",2021-12-06,4 , 13,192000 , 63000 , 38000
+Google,L4,GCP,241000,"Sunnyvale, CA ",2021-11-27,0 , 13,151000 , 67000 , 23000
+Salesforce,L9,Customer Success,420000,"New York, NY ",2021-10-26,1 , 13,225000 , 150000 , 45000
+Amazon,L5,General,190000,"Seattle, WA ",2021-10-25,1 , 13,150000 , 40000 , N/A
+Microsoft,63,Security Training and communications,197000,"Redmond, WA ",2021-09-29,8 , 13,158000 , 22000 , 17000
+Facebook,IC6,Product,426000,"Seattle, WA ",2021-09-13,0 , 13,230000 , 150000 , 46000
+Tesla,P4,Cybersecurity,268000,"Fremont, CA ",2021-08-26,3 , 13,175000 , 93000 , N/A
+Dell Technologies,IC9,Program Management,176000,"Austin, TX ",2021-08-19,2 , 13,153000 , N/A , 23000
+Google,L6,Youtube Music,308000,"New York, NY ",2021-08-19,10 , 13,192000 , 72000 , 44000
+Microsoft,62,Program Manager II,187000,"Redmond, WA ",2021-08-16,1 , 13,156000 , 16000 , 15000
+Amazon,L6,Payments,259000,"Seattle, WA ",2021-08-15,0 , 13,160000 , 53000 , 46000
+Amazon,L6,General,257000,"Austin, TX ",2021-08-14,2 , 13,158000 , 49000 , 50000
+Facebook,IC5,infrastructure,322000,"Menlo Park, CA ",2021-08-06,0 , 13,200000 , 92000 , 30000
+Microsoft,63,Engineering,203000,"Redmond, WA ",2021-07-24,9 , 13,159000 , 22000 , 22000
+Facebook,IC5,Infrastructure,321000,"Menlo Park, CA ",2021-07-15,0 , 13,200000 , 91000 , 30000
+Facebook,IC5,Product,327000,"New York, NY ",2021-07-02,0 , 13,205000 , 88000 , 35000
+Amazon,L7,ai/ml,550000,"Seattle, WA ",2021-07-02,13 , 13,160000 , 390000 , N/A
+Amazon,L6,General,194000,"Boston, MA ",2021-07-01,0 , 13,169000 , 25000 , N/A
+Microsoft,65,Hardware,410000,"Seattle, WA ",2021-06-21,2 , 13,190000 , 180000 , 40000
+Microsoft,64,Azure Data,268000,"Los Angeles, CA ",2021-06-16,2 , 13,175000 , 38000 , 55000
+DocuSign,P5,Technology,319000,"San Francisco, CA ",2021-06-07,4 , 13,194000 , 100000 , 25000
+,62,Software Engineer,180000,"Seattle, WA ",2021-05-26,6 , 13,145000 , 15000 , 20000
+Amazon,L7,Supply Chain,322000,"Seattle, WA ",2021-04-28,13 , 13,160000 , 160000 , N/A
+Google,L6,Program Manager,380000,"Mountain View, CA ",2021-03-04,1 , 13,205000 , 135000 , 41000
+Facebook,M2,Infra,490000,"Menlo Park, CA ",2021-03-03,4 , 13,250000 , 180000 , 60000
+Tesla,P5,,830000,"San Francisco, CA ",2021-02-28,1 , 13,230000 , 600000 , N/A
+Google,L5,Data Analytics,350000,"Sunnyvale, CA ",2021-02-22,2 , 13,192000 , 123000 , 36000
+GE Digital,SPB,General,255000,"San Francisco, CA ",2021-01-30,9 , 13,200000 , 15000 , 40000
+IBM,L9,SAP,280000,"New York, NY ",2021-01-07,1 , 13,260000 , N/A , 20000
+Google,L5,Security,302000,"Mountain View, CA ",2020-12-22,4 , 13,157000 , 113000 , 32000
+Apple,ICT4,Data,227000,"Cupertino, CA ",2020-11-19,1 , 13,170000 , 40000 , 17000
+Capgemini,C2,API Development (Back-End),132000,"Seattle, WA ",2020-11-11,7 , 13,125000 , N/A , 7000
+Edwards Lifesciences,Senior,Engineering,206000,"Irvine, CA ",2020-10-08,2 , 13,167000 , 10000 , 26000
+Amazon,L6,Operations Technology,190000,"New York, NY ",2020-10-07,2 , 13,130000 , 60000 , N/A
+Microsoft,64,Full Stack,185000,"Redmond, WA ",2020-09-23,13 , 13,145000 , 20000 , 20000
+Microsoft,64,Security,328000,"Redmond, WA ",2020-09-23,5 , 13,183000 , 88000 , 58000
+Google,L4,ML / AI,285000,"Sunnyvale, CA ",2020-09-14,3 , 13,165000 , 87000 , 33000
+EPAM Systems,L4,Product Management,130000,"Irvine, CA ",2020-08-23,2 , 13,120000 , N/A , 10000
+,65,Data,315000,"Redmond, WA ",2020-08-11,13 , 13,200000 , 70000 , 45000
+Microsoft,64,ML / AI,231000,"Redmond, WA ",2020-08-10,8 , 13,173000 , 29000 , 30000
+Microsoft,63,Full Stack,185000,"Redmond, WA ",2020-07-22,3 , 13,157000 , 10000 , 18000
+Amazon,L5,API Development (Back-End),160000,"Seattle, WA ",2020-06-15,9 , 13,124000 , 36000 , N/A
+Google,L5,Search,285000,"Mountain View, CA ",2020-05-28,1 , 13,170000 , 90000 , 25000
+Amazon,L7,API Development (Back-End),460000,"Los Angeles, CA ",2020-05-20,8 , 13,160000 , 300000 , N/A
+Oracle,IC-3,Security,225000,"Seattle, WA ",2020-04-17,0 , 13,150000 , 75000 , N/A
+Snap,L7,Security,750000,"Los Angeles, CA ",2020-04-09,2 , 13,215000 , 535000 , N/A
+Amazon,L6,Networking,275000,"Seattle, WA ",2020-03-05,1 , 13,160000 , 15000 , 100000

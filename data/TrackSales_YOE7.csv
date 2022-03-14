@@ -1,0 +1,36 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Amazon,L5,SI partners,375000,"New York, NY ",2022-02-08,4 , 7,120000 , 55000 , 200000
+Blend,M3,General,215000,"San Francisco, CA ",2022-02-03,2 , 7,165000 , N/A , 50000
+Google,L4,Retail,168000,"Seattle, WA ",2022-01-10,3 , 7,102000 , 26000 , 40000
+,G5,General,220000,"San Francisco, CA ",2022-01-04,0 , 7,120000 , 20000 , 80000
+Walmart,X6,Operations,275000,"San Bruno, CA ",2021-12-24,1 , 7,180000 , 50000 , 45000
+Facebook,IC4,Sales,177000,"New York, NY ",2021-12-24,4 , 7,120000 , 17000 , 40000
+ServiceNow,IC4,Operations,194000,"Waltham, MA ",2021-12-09,1 , 7,145000 , 27000 , 22000
+Google,L4,Sales,244000,"New York, NY ",2021-12-09,3 , 7,142000 , 45000 , 57000
+Accenture,8,Adobe,120000,"Chicago, IL ",2021-12-08,7 , 7,108000 , N/A , 12000
+Oracle,Manager,Account Manager,150000,"New York, NY ",2021-12-07,0 , 7,75000 , N/A , 75000
+Dropbox,L4,Solutions Architecture,180000,"San Francisco, CA ",2021-11-30,5 , 7,130000 , 15000 , 35000
+Genpact,L2,Tech,336000,"Seattle, WA ",2021-11-23,1 , 7,220000 , 50000 , 66000
+GitHub,9,Sales Operation,255000,"San Francisco, CA ",2021-11-08,3 , 7,180000 , 50000 , 25000
+Google,L4,enterprise,213000,"San Francisco, CA ",2021-10-12,0 , 7,130000 , 31000 , 52000
+Twilio,P3,Solutions Engineering,228000,"Denver, CO ",2021-10-06,0 , 7,150000 , 60000 , 18000
+Amazon,L5,Aws,124000,"Irvine, CA ",2021-09-26,0 , 7,110000 , 4000 , 10000
+Facebook,L4,Partnerships,160000,"San Francisco, CA ",2021-09-20,0 , 7,145000 , 15000 , N/A
+Google,L4,Ads,218000,"New York, NY ",2021-06-08,7 , 7,145000 , 15000 , 58000
+Google,L4,Technical,275000,"San Francisco, CA ",2020-12-01,0 , 7,140000 , 75000 , 60000
+Twitter,L4,Consumer,185000,"San Francisco, CA ",2020-11-20,1 , 7,120000 , 14000 , 51000
+AT&T,Retail Sales Consultant,Mobile (iOS + Android),60000,"Temecula, CA ",2020-11-02,5 , 7,60000 , N/A , N/A
+,P3,Display advertising,147000,"New York, NY ",2020-10-24,7 , 7,90000 , 4000 , 50000
+Oracle,IC1,Enterprise,170000,"Redwood City, CA ",2020-10-18,5 , 7,85000 , N/A , 85000
+Amazon,L6,iOS,180000,"Seattle, WA ",2020-10-04,0 , 7,120000 , 5000 , 55000
+Amazon,L5,IaaS,240000,"New York, NY ",2020-10-01,1 , 7,160000 , 20000 , 60000
+Amazon,l5,account manager,280000,"Seattle, WA ",2020-09-25,1 , 7,150000 , 65000 , 65000
+Cisco,Grade 9,Networking,160000,"New York, NY ",2020-09-21,6 , 7,120000 , N/A , 40000
+Amazon,L5,Cloud,240000,"Austin, TX ",2020-09-18,1 , 7,180000 , 60000 , N/A
+Pinterest,L3,Sales,204000,"San Francisco, CA ",2020-08-28,2 , 7,102000 , N/A , 102000
+google,3,Cloud,215000,"San Francisco, CA ",2020-08-25,2 , 7,105000 , 40000 , 70000
+Pinterest,L4,Sales,280000,"San Francisco, CA ",2020-08-12,5 , 7,125000 , 30000 , 125000
+Amazon,L5,Site Reliability (SRE),200000,"Seattle, WA ",2020-08-07,4 , 7,130000 , 70000 , N/A
+,L3,Mobile (iOS + Android),173000,"Los Angeles, CA ",2020-08-04,2 , 7,108000 , 15000 , 50000
+Microsoft,64,Cloud,280000,"San Jose, CA ",2020-07-27,5 , 7,170000 , 35000 , 75000
+Indeed,Manager,None,200000,"New York, NY ",2020-07-22,3 , 7,200000 , N/A , N/A

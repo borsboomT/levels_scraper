@@ -1,0 +1,20 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Amazon,L6,,253000,"San Francisco, CA ",2022-03-07,0 , 9,180000 , 36000 , 37000
+Expedia,L,Account Management,185000,"Seattle, WA ",2022-02-23,9 , 9,140000 , 10000 , 35000
+Oracle,IC,Oracle Advertising,200000,"Chicago, IL ",2022-02-15,1 , 9,130000 , N/A , 70000
+Amazon,L6,Financial Services,277000,"Seattle, WA ",2022-02-01,5 , 9,136000 , 50000 , 91000
+Google,L5,Programmatic,330000,"New York, NY ",2022-01-12,8 , 9,165000 , 70000 , 95000
+Salesforce,7,General,250000,"New York, NY ",2022-01-07,7 , 9,125000 , N/A , 125000
+Google,L5,LCS,290000,"San Francisco, CA ",2022-01-05,5 , 9,150000 , 50000 , 90000
+Zillow,P4,Flex,201000,"New York, NY ",2022-01-01,2 , 9,125000 , 51000 , 25000
+Google,L5,Analytics,321000,"San Francisco, CA ",2021-12-31,0 , 9,163000 , 90000 , 68000
+Google,L5,General,291000,"New York, NY ",2021-12-14,2 , 9,186000 , 73000 , 32000
+Amazon,L5,AWS,261000,"San Francisco, CA ",2021-11-17,0 , 9,150000 , 65000 , 46000
+Google,L6,General,360000,"San Jose, CA ",2021-11-07,4 , 9,180000 , 60000 , 120000
+Amazon,L5,Advertising,163000,"New York, NY ",2021-10-13,0 , 9,130000 , 19000 , 14000
+Amazon,L6,Retail,243000,"Seattle, WA ",2021-09-23,4 , 9,144000 , 99000 , N/A
+Microsoft,64,Sales,334000,"New York, NY ",2021-09-22,1 , 9,167000 , 30000 , 137000
+Amazon,6,Emerging technologies,400000,"Chicago, IL ",2021-05-27,4 , 9,140000 , 200000 , 60000
+Dell,L3,Enterprise,204000,"Boston, MA ",2021-01-14,4 , 9,123000 , N/A , 82000
+Salesforce,L5,SaaS,160000,"Seattle, WA ",2020-09-21,3 , 9,80000 , N/A , 80000
+Amazon,L6,Sales,260000,"Seattle, WA ",2020-02-26,3 , 9,125000 , 80000 , 55000

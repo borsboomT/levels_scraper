@@ -1,0 +1,91 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Facebook,IC3,Technical,138000,"Brooklyn, NY ",2022-02-28,0 , 5,99000 , 29000 , 10000
+Databricks,L6,Sales,240000,"Seattle, WA ",2022-02-25,0 , 5,180000 , 40000 , 20000
+Amazon,L5,Operations,140000,"San Francisco, CA ",2022-02-25,0 , 5,110000 , 15000 , 15000
+Airtable,L5,Sales,204000,"Seattle, WA ",2022-02-24,1 , 5,150000 , 50000 , 4000
+Bloomberg,Senior,Technical,150000,"New York, NY ",2022-02-21,3 , 5,130000 , N/A , 20000
+Amazon,L5,Technical,150000,"Seattle, WA ",2022-02-20,5 , 5,110000 , 20000 , 20000
+Stripe,l2,Technical,200000,"Los Angeles, CA ",2022-02-17,1 , 5,140000 , 30000 , 30000
+Google,L4,People operations,173000,"New York, NY ",2022-02-11,1 , 5,133000 , 20000 , 20000
+GitHub,L2,Technical,125000,"San Francisco, CA ",2022-02-09,3 , 5,100000 , 20000 , 5000
+Facebook,IC5,Technical,198000,"Austin, TX ",2022-02-05,0 , 5,150000 , 25000 , 23000
+Google,L4,Technical,200000,"San Francisco, CA ",2022-02-04,2 , 5,130000 , 45000 , 25000
+Google,L4,Operations,165000,"New York, NY ",2022-01-28,2 , 5,125000 , 20000 , 20000
+Medallia,L4,Sales,180000,"San Francisco, CA ",2022-01-20,1 , 5,140000 , 40000 , N/A
+Amazon,L5,Technical,125000,"Seattle, WA ",2022-01-15,3 , 5,81000 , 11000 , 33000
+Coinbase,IC4,Technical,156000,"New York, NY ",2022-01-14,1 , 5,120000 , 30000 , 6000
+Facebook,IC3,Technical,116000,"Los Angeles, CA ",2022-01-13,2 , 5,98000 , 10000 , 8000
+Twitter,L5,Technical,163000,"Denver, CO ",2022-01-08,0 , 5,125000 , 19000 , 19000
+Twitter,L5,R4R,158000,"San Francisco, CA ",2021-12-17,1 , 5,120000 , 20000 , 18000
+Twitter,L5,G&A,185000,"San Francisco, CA ",2021-12-17,3 , 5,145000 , 20000 , 20000
+ViacomCBS,Senior,Technical,130000,"Los Angeles, CA ",2021-12-03,2 , 5,130000 , N/A , N/A
+Amazon,L5,Technical,150000,"Seattle, WA ",2021-11-30,3 , 5,100000 , 50000 , N/A
+Yext,1,HR,127000,"New York, NY ",2021-11-10,1 , 5,115000 , 12000 , N/A
+Box,L5,Sales,116000,"Austin, TX ",2021-11-04,2 , 5,95000 , 21000 , N/A
+Amazon,L5,Technical,130000,"New York, NY ",2021-11-02,2 , 5,100000 , 30000 , N/A
+Amazon,L5,Sourcing,117000,"Seattle, WA ",2021-10-26,2 , 5,80000 , 27000 , 10000
+"Toast, Inc.",p3,Leadership,116000,"Boston, MA ",2021-10-14,1 , 5,105000 , N/A , 11000
+Facebook,L3,Technical,123000,"Menlo Park, CA ",2021-10-12,3 , 5,103000 , 10000 , 10000
+Stripe,L2,Technical,171000,"Los Angeles, CA ",2021-09-02,0 , 5,125000 , 33000 , 13000
+Dropbox,L4,Technical,215000,"San Francisco, CA ",2021-08-31,3 , 5,146000 , 39000 , 29000
+Robinhood,L1,Technical,90000,"New York, NY ",2021-08-24,1 , 5,90000 , N/A , N/A
+,2-1,Technical,152000,"Los Angeles, CA ",2021-08-18,0 , 5,115000 , 8000 , 29000
+Google,L4,Technical,195000,"Mountain View, CA ",2021-08-13,3 , 5,135000 , 40000 , 20000
+PayPal,T23,Technical,130000,"Los Angeles, CA ",2021-08-04,1 , 5,100000 , 20000 , 10000
+Facebook,IC4,Leadership,153000,"Los Angeles, CA ",2021-07-15,0 , 5,125000 , 15000 , 13000
+Checkr,L3,Technical,150000,"San Francisco, CA ",2021-07-12,1 , 5,130000 , 20000 , N/A
+Amazon,L6,Technical,184000,"Seattle, WA ",2021-07-01,3 , 5,123000 , 56000 , 5000
+ByteDance,2-1,Technical,128000,"Mountain View, CA ",2021-06-28,1 , 5,102000 , N/A , 26000
+Facebook,L4,Technical,194000,"Redmond, WA ",2021-06-03,3 , 5,131000 , 37000 , 26000
+Sisense,L1,Recruiting,85000,"San Francisco, CA ",2021-06-03,3 , 5,85000 , 3000 , N/A
+Robinhood,L3,Technical,145000,"Menlo Park, CA ",2021-06-01,1 , 5,145000 , N/A , N/A
+Indeed,L2,Technical,135000,"Austin, TX ",2021-05-18,2 , 5,98000 , 17000 , 20000
+Clever,L#,Technical,125000,"San Francisco, CA ",2021-04-14,1 , 5,120000 , N/A , N/A
+Facebook,IC4,Recruiting,164000,"Los Angeles, CA ",2021-04-01,1 , 5,130000 , 19000 , 15000
+Facebook,L4,Technical,126000,"Austin, TX ",2021-03-20,1 , 5,108000 , 8000 , 10000
+Uber,L4,Technical,148000,"San Francisco, CA ",2021-03-14,4 , 5,112000 , 20000 , 13000
+Color,L3,Technical,148000,"Burlingame, CA ",2021-03-10,1 , 5,135000 , 13000 , N/A
+Amazon,L5,Technical,107000,"Seattle, WA ",2021-03-04,3 , 5,95000 , 6000 , 5000
+Amazon,L5,Technical,135000,"Seattle, WA ",2021-01-27,5 , 5,85000 , 50000 , N/A
+Facebook,E5,Technical,230000,"San Francisco, CA ",2021-01-13,1 , 5,150000 , 50000 , 30000
+RingCentral,5,Recruiting,158000,"San Mateo, CA ",2020-12-23,4 , 5,97000 , 50000 , 9000
+Segment,L3,Technical,250000,"San Francisco, CA ",2020-12-07,2 , 5,155000 , 100000 , N/A
+Facebook,L4,Technical,143000,"Austin, TX ",2020-12-01,3 , 5,117000 , 11000 , 15000
+Spotify,Recruiter,Technical,130000,"New York, NY ",2020-11-25,3 , 5,115000 , 15000 , N/A
+LiveRamp,L2,Sales,118000,"San Francisco, CA ",2020-11-23,3 , 5,105000 , 13000 , N/A
+Amazon,L4,Full Stack,110000,"Seattle, WA ",2020-11-18,5 , 5,65000 , 45000 , N/A
+Facebook,IC4,Full Stack,131000,"Seattle, WA ",2020-11-13,2 , 5,110000 , 10000 , 11000
+MathWorks,L2,Technical,88000,"Natick, MA ",2020-11-10,2 , 5,82000 , N/A , 6000
+Cruise,L3,Distributed Systems (Back-End),155000,"San Francisco, CA ",2020-11-01,2 , 5,125000 , 15000 , 15000
+Snap,L2,Distributed Systems (Back-End),137000,"Los Angeles, CA ",2020-10-22,2 , 5,107000 , 20000 , 11000
+Facebook,E3,Technical,134000,"San Francisco, CA ",2020-10-20,1 , 5,100000 , 12000 , 22000
+Netflix,Senior,Technical,189000,"Los Gatos, CA ",2020-10-15,4 , 5,180000 , 9000 , N/A
+Grainger,1,Full Stack,110000,"Lake Forest, IL ",2020-10-09,2 , 5,95000 , N/A , 15000
+Salesforce,L6,Technical,149000,"San Francisco, CA ",2020-10-08,1 , 5,135000 , N/A , 14000
+Instacart,Tech recruiter 2,Technical,83000,"Los Angeles, CA ",2020-10-07,1 , 5,83000 , N/A , N/A
+Google,L3,Design,115000,"Mountain View, CA ",2020-10-07,1 , 5,115000 , N/A , N/A
+,L2,Business Recruiting,75000,"Austin, TX ",2020-09-25,0 , 5,75000 , N/A , N/A
+Adobe,L3,Sales,182000,"San Francisco, CA ",2020-09-22,3 , 5,120000 , 50000 , 12000
+Lyft,6,Distributed Systems (Back-End),170000,"San Francisco, CA ",2020-09-15,2 , 5,130000 , 40000 , N/A
+Audible,L5,Technical,150000,"Newark, NJ ",2020-09-15,1 , 5,90000 , 60000 , N/A
+Audible,L5,Technical,130000,"Newark, NJ ",2020-09-11,2 , 5,100000 , 30000 , N/A
+Google,L4,Networking,170000,"San Francisco, CA ",2020-09-07,2 , 5,120000 , 40000 , 10000
+Coinbase,L4,Recruiter,135000,"San Francisco, CA ",2020-09-03,1 , 5,120000 , 15000 , N/A
+Amazon,L5,Technical,99000,"Seattle, WA ",2020-09-02,1 , 5,99000 , N/A , N/A
+Verizon,7T,Sales,97000,"Walnut Creek, CA ",2020-08-30,2 , 5,88000 , 5000 , 9000
+Netflix,Senior,Engineering,250000,"Los Gatos, CA ",2020-08-28,4 , 5,250000 , N/A , N/A
+Amazon,L4,UX Design,101000,"Palo Alto, CA ",2020-08-20,1 , 5,85000 , N/A , 15000
+Facebook,E4,Technical,157000,"San Francisco, CA ",2020-08-20,0 , 5,121000 , 20000 , 16000
+Facebook,IC3,Distributed Systems (Back-End),116000,"Seattle, WA ",2020-08-17,3 , 5,97000 , 10000 , 9000
+Facebook,IC4,ML / AI,138000,"Seattle, WA ",2020-08-13,2 , 5,118000 , 10000 , 10000
+Google,L3,Business,173000,"San Francisco, CA ",2020-08-07,3 , 5,113000 , 40000 , 20000
+CoreLogic,Senior,Recruiting,130000,"Irvine, CA ",2020-08-01,2 , 5,130000 , N/A , N/A
+,Senior Recruiter,recruiter,136000,"New York, NY ",2020-07-21,1 , 5,115000 , 6000 , 15000
+Coinbase,IC4,Recruiter,135000,"San Francisco, CA ",2020-07-20,1 , 5,120000 , 15000 , N/A
+Google,L3,Product Design,130000,"Austin, TX ",2020-07-17,3 , 5,90000 , 25000 , 15000
+Facebook,IC4,ML / AI,141000,"Seattle, WA ",2020-07-07,2 , 5,119000 , 10000 , 12000
+Indeed,Senior,Product/UX,125000,"Austin, TX ",2020-07-07,2 , 5,108000 , 5000 , 15000
+,Recruiting Manager,Recruiting,122000,"Newark, NJ ",2020-07-07,1 , 5,110000 , N/A , 12000
+Autodesk,Grade 10,Business,110000,"San Francisco, CA ",2020-06-30,5 , 5,93000 , 7000 , 7000
+Facebook,L2,R4R,182000,"New York, NY ",2020-06-30,0 , 5,150000 , 20000 , 12000
+Google,L4,People management,150000,"Palo Alto, CA ",2020-05-16,5 , 5,100000 , 20000 , 30000

@@ -1,0 +1,13 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Microsoft,63,,320000,"San Francisco, CA ",2022-03-05,7 , 16,153000 , 22000 , 145000
+Microsoft,65,partners,368000,"Seattle, WA ",2022-02-25,3 , 16,188000 , 40000 , 140000
+Mentor Graphics,S08,Technical Sales,250000,"Boston, MA ",2022-02-23,16 , 16,200000 , N/A , 50000
+Google,L6,General,400000,"New York, NY ",2022-01-24,3 , 16,220000 , 105000 , 75000
+Plaid,L5,General,266000,"San Francisco, CA ",2021-11-30,0 , 16,184000 , 36000 , 46000
+Twilio,IC4,Sales,375000,"San Francisco, CA ",2021-10-22,3 , 16,300000 , 75000 , N/A
+Google,L6,General,489000,"New York, NY ",2021-07-03,7 , 16,209000 , 100000 , 180000
+SAP,T5,Sales,320000,"Palo Alto, CA ",2021-06-08,16 , 16,220000 , 50000 , 50000
+Dell Technologies,L4,Enterprise,285000,"Irvine, CA ",2021-01-20,6 , 16,135000 , N/A , 150000
+Amazon,L7,Infrastructure,480000,"Chicago, IL ",2021-01-07,2 , 16,160000 , 280000 , 40000
+Microsoft,L5,Technical,286000,"Boston, MA ",2020-12-15,14 , 16,194000 , 46000 , 46000
+Samsung,8,Enterprise,350000,"San Jose, CA ",2020-10-01,0 , 16,220000 , N/A , 130000

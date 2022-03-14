@@ -1,0 +1,13 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Amazon,L6,Data Engineer,247000,"Seattle, WA ",2022-02-07,4 , 16,152000 , 95000 , N/A
+Expedia,L,Database Administration Operations,150000,"Seattle, WA ",2022-02-07,13 , 16,142000 , N/A , 8000
+Facebook,M2,Product Data Science,700000,"Menlo Park, CA ",2021-08-13,2 , 16,255000 , 375000 , 70000
+BigCommerce,L6,General,217000,"San Francisco, CA ",2021-08-12,3 , 16,213000 , 4000 , N/A
+Facebook,IC5,Analytics,272000,"Seattle, WA ",2021-06-09,0 , 16,180000 , 65000 , 27000
+Instacart,L9,Data,1000000,"San Francisco, CA ",2021-05-23,1 , 16,300000 , 700000 , N/A
+Stitch Fix,L6,General,580000,"San Francisco, CA ",2021-05-01,3 , 16,280000 , 300000 , N/A
+Capital One,Master Software Eng,ML/AI,198000,"New York, NY ",2021-03-23,2 , 16,184000 , N/A , 14000
+Microsoft,66,ML / AI,400000,"Redmond, WA ",2020-09-07,4 , 16,220000 , 120000 , 60000
+Morgan Stanley,Executive Director,ML / AI,250000,"New York, NY ",2020-08-27,6 , 16,180000 , N/A , 70000
+Uber,L5B,ML / AI,471000,"San Francisco, CA ",2020-06-09,3 , 16,211000 , 220000 , 40000
+Uber,5b,Analytics,360000,"San Francisco, CA ",2019-12-14,0 , 16,195000 , 135000 , 30000

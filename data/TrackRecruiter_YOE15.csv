@@ -1,0 +1,34 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Apixio,L7,Leadership,280000,"San Mateo, CA ",2022-02-07,1 , 15,190000 , 50000 , 40000
+Upstart,N/A,Technical,210000,"Boulder, CO ",2022-01-10,0 , 15,150000 , 40000 , 20000
+Rivian,RIV 7,Technical,315000,"Palo Alto, CA ",2021-12-20,1 , 15,200000 , 75000 , 40000
+The Voleon Group,L5,Technical,210000,"Berkeley, CA ",2021-11-03,5 , 15,130000 , N/A , 80000
+,L6,Technical,250000,"San Francisco, CA ",2021-10-06,1 , 15,205000 , 30000 , 15000
+Databricks,L6,Technical,352000,"San Francisco, CA ",2021-10-01,1 , 15,185000 , 137000 , 30000
+Electronic Arts,Senior SE 2,Technical,180000,"San Francisco, CA ",2021-09-14,1 , 15,140000 , 25000 , 15000
+Amazon,L6,Technical,204000,"Seattle, WA ",2021-09-08,6 , 15,145000 , 28000 , 31000
+,Lead Recruiter,Recruiting,169000,"New York, NY ",2021-09-07,1 , 15,135000 , 20000 , 14000
+Amazon,L6,Leadership,197000,"Austin, TX ",2021-09-01,2 , 15,143000 , 54000 , N/A
+Amazon,L6,Technical,272000,"Austin, TX ",2021-08-27,5 , 15,151000 , 121000 , N/A
+Airbus,3,Technical,204000,"Sunnyvale, CA ",2021-08-18,3 , 15,185000 , N/A , 19000
+Google,L5,Technical,207000,"Austin, TX ",2021-07-30,3 , 15,132000 , 55000 , 20000
+Raytheon,M4,staffin,153000,"Boston, MA ",2021-06-15,5 , 15,142000 , N/A , 11000
+Facebook,IC6,Leadership,265000,"Menlo Park, CA ",2021-06-08,4 , 15,190000 , 35000 , 38000
+WeWork,Director,Leadership,255000,"San Francisco, CA ",2021-06-03,2 , 15,225000 , 1000 , 30000
+Facebook,L5,Technical,220000,"Menlo Park, CA ",2021-05-14,4 , 15,165000 , 40000 , 20000
+Western Governors University,L3,Sales,90000,"Seattle, WA ",2021-04-28,5 , 15,90000 , N/A , 2000
+amazon,L6,Technical,180000,"Seattle, WA ",2021-01-29,6 , 15,116000 , 64000 , N/A
+Amazon,L5,Technical,146000,"New York, NY ",2021-01-28,2 , 15,95000 , 41000 , 10000
+Amazon,L6,Technical,260000,"San Francisco, CA ",2021-01-27,6 , 15,175000 , 85000 , N/A
+Palo Alto Networks,L2,Technical,201000,"Santa Clara, CA ",2021-01-25,1 , 15,160000 , 25000 , 16000
+Infor,Senior,Other,190000,"San Francisco, CA ",2020-11-11,12 , 15,173000 , N/A , 17000
+Apple,ICT5,API Development (Back-End),328000,"San Francisco, CA ",2020-10-28,10 , 15,190000 , 100000 , 38000
+Amazon,L5,Recruiter,120000,"Seattle, WA ",2020-10-27,2 , 15,90000 , 30000 , N/A
+Unity,L6,ML / AI,200000,"Seattle, WA ",2020-10-23,7 , 15,175000 , 20000 , 5000
+Facebook,IC5,Leadership,240000,"Menlo Park, CA ",2020-10-12,4 , 15,170000 , 45000 , 25000
+Bumble,L5,ALL,105000,"Austin, TX ",2020-10-09,1 , 15,95000 , N/A , 10000
+Apple,IC5,Design,343000,"Cupertino, CA ",2020-10-06,15 , 15,193000 , 100000 , 50000
+Facebook,IC5,Data Center,240000,"Menlo Park, CA ",2020-08-27,3 , 15,170000 , 35000 , 35000
+Netflix,Senior,Marketing,300000,"Los Angeles, CA ",2020-08-20,4 , 15,240000 , 60000 , N/A
+Amazon,L7,Core Tech,410000,"Seattle, WA ",2020-07-24,9 , 15,160000 , 250000 , N/A
+Facebook,IC6,Software,269000,"Menlo Park, CA ",2020-07-22,2 , 15,180000 , 53000 , 36000

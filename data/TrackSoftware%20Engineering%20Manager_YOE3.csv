@@ -1,0 +1,21 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Asana,L5,Full Stack,450000,"San Francisco, CA ",2022-02-28,1 , 3,245000 , 205000 , N/A
+WeWork,L3,Full Stack,154000,"New York, NY ",2022-02-11,3 , 3,135000 , 5000 , 14000
+Northrop Grumman,M1,"Application Development, Test Automation",120000,"Rolling Meadows, IL ",2021-12-18,3 , 3,119000 , N/A , 1000
+Betterment,L5,Full Stack,228000,"New York, NY ",2021-11-30,3 , 3,205000 , 8000 , 15000
+Perficient,L2,API Development (Back-End),115000,"Pleasanton, CA ",2021-07-02,1 , 3,110000 , N/A , 5000
+Wish,M0,ML / AI,400000,"San Francisco, CA ",2021-07-02,2 , 3,230000 , 170000 , N/A
+RBC,PL07,Data,195000,"Jersey City, NJ ",2021-05-02,3 , 3,165000 , 10000 , 20000
+Intuit,Senior Software Engineer,Distributed Systems (Back-End),251000,"Mountain View, CA ",2021-03-26,3 , 3,170000 , 55000 , 26000
+Hyperscience,L4,Machine Learning,250000,"New York, NY ",2021-03-17,1 , 3,200000 , 50000 , N/A
+Google,L4,ML / AI,266000,"Mountain View, CA ",2021-01-18,0 , 3,155000 , 87000 , 23000
+Microsoft,65,Full Stack,272000,"Redmond, WA ",2020-12-02,3 , 3,185000 , 60000 , 27000
+Google,L3,Mobile (iOS + Android),40000,"Santa Rosa, CA ",2020-11-07,3 , 3,40000 , N/A , N/A
+Google,L3,Android,40000,"San Francisco, CA ",2020-11-06,3 , 3,40000 , N/A , N/A
+Facebook,L5 Product Manager,ML / AI,320000,"San Francisco, CA ",2020-08-15,3 , 3,200000 , 100000 , 20000
+LinkedIn,Staff Software Engineer,API Development (Back-End),390000,"Sunnyvale, CA ",2020-05-25,0 , 3,215000 , 140000 , 35000
+Aetna,2,API Development (Back-End),180000,"Denver, CO ",2020-02-22,3 , 3,155000 , N/A , 25000
+Wayfair,3,DevOps,200000,"Boston, MA ",2019-11-04,3 , 3,132000 , 50000 , 13000
+wayfair,l3,Full Stack,180000,"Boston, MA ",2019-09-29,3 , 3,132000 , 35000 , 13000
+Amazon,L5 SDM,API Development (Back-End),184000,"Seattle, WA ",2019-09-13,2.5 , 3,135000 , 49000 , N/A
+Foursquare,Senior,Data,202000,"New York, NY ",2019-03-07,6 , 3,190000 , N/A , 12000

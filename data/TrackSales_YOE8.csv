@@ -1,0 +1,47 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Google,L5,,290000,"Austin, TX ",2022-03-03,6 , 8,120000 , 50000 , 120000
+Indeed,L2,"sales, cpc",143000,"Austin, TX ",2022-02-28,2 , 8,51000 , 2000 , 90000
+JPMorgan Chase,502,general,90000,"New York, NY ",2022-02-28,8 , 8,70000 , N/A , 20000
+BetterUp,L3,RevOps,158000,"Austin, TX ",2022-02-18,1 , 8,140000 , 8000 , 10000
+Expedia,N,Account Management,195000,"Seattle, WA ",2022-02-10,3 , 8,170000 , 25000 , N/A
+Amazon,L5,Amazon Busines,203000,"Austin, TX ",2022-02-09,2 , 8,92000 , 82000 , 29000
+,L1,General,300000,"Seattle, WA ",2022-02-08,2 , 8,150000 , N/A , 150000
+Facebook,IC5,General,200000,"New York, NY ",2022-02-08,4 , 8,160000 , 30000 , 10000
+Amazon,L6,Sales Operations,185000,"Seattle, WA ",2022-02-03,2 , 8,155000 , 30000 , N/A
+Adobe,Manager,Marketing,143000,"New York, NY ",2022-02-03,5 , 8,124000 , N/A , 19000
+Condé Nast,N/A,General,140000,"New York, NY ",2022-01-12,1 , 8,125000 , N/A , 15000
+Amazon,L6,Anaplan,215000,"Chicago, IL ",2022-01-05,1 , 8,150000 , 55000 , 10000
+Amazon,L5,General,224000,"Seattle, WA ",2022-01-03,4 , 8,88000 , 136000 , N/A
+Google,L6,Business Development,338000,"Mountain View, CA ",2022-01-02,0 , 8,221000 , 73000 , 44000
+Spotify,L4,Campaign Management,109000,"New York, NY ",2021-12-31,2 , 8,109000 , N/A , N/A
+Google,L3,Google Markerting Platform,212000,"New York, NY ",2021-12-21,0 , 8,134000 , 25000 , 54000
+Facebook,L4 Team Lead,Marketing,167000,"Austin, TX ",2021-12-15,4 , 8,130000 , 12000 , 25000
+Walgreens Boots Alliance,Store Manager,General,64000,"Denver, CO ",2021-12-07,8 , 8,60000 , N/A , 4000
+Google,L4,Platforms,220000,"New York, NY ",2021-11-18,3 , 8,145000 , 20000 , 55000
+Groupon,L6,Non-Local,120000,"Chicago, IL ",2021-11-12,7 , 8,65000 , N/A , 55000
+Bloomberg,Relationship Manager,General,130000,"New York, NY ",2021-11-01,8 , 8,120000 , N/A , 10000
+Flyhomes,5,General,250000,"Seattle, WA ",2021-10-18,2 , 8,155000 , 70000 , 25000
+Amazon,L5,SMB,215000,"Seattle, WA ",2021-09-15,2 , 8,167000 , 37000 , 11000
+Apple,Support 3,SMB,53000,"Austin, TX ",2021-09-07,2 , 8,51000 , 2000 , N/A
+Google,L4,Account Management,223000,"San Francisco, CA ",2021-08-25,2 , 8,128000 , 45000 , 50000
+Apple,Support 3,Sales,55000,"Austin, TX ",2021-08-04,4 , 8,54000 , 2000 , N/A
+JPMorgan Chase,Vice President,Wealth management,125000,"New York, NY ",2021-08-01,4 , 8,107000 , N/A , 18000
+TripAdvisor,L1,SMB,57000,"Boston, MA ",2021-07-20,1 , 8,40000 , 1000 , 16000
+JPMorgan Chase,603,Treasury Services,215000,"New York, NY ",2021-05-28,1 , 8,165000 , 2000 , 50000
+,L4,Sales,251000,"Seattle, WA ",2021-05-25,4 , 8,93000 , 130000 , 29000
+LinkedIn,L2,General,178000,"San Francisco, CA ",2021-03-16,4 , 8,100000 , 2000 , 76000
+Nutanix,L3,Distributed Systems (Back-End),250000,"Seattle, WA ",2020-11-05,6 , 8,235000 , 10000 , 5000
+Google,L5,Google cloud,271000,"Boston, MA ",2020-11-05,3 , 8,136000 , 80000 , 55000
+Amazon,L5,Enterprise,193000,"Seattle, WA ",2020-10-27,0 , 8,101000 , 60000 , 32000
+Google,L4,Analytic,220000,"Chicago, IL ",2020-10-26,3 , 8,103000 , 75000 , 42000
+Alteryx,L3,Data,220000,"Irvine, CA ",2020-10-12,7 , 8,130000 , N/A , 90000
+Google,4,App Promo Sales,200000,"Redwood City, CA ",2020-10-07,4 , 8,105000 , 45000 , 50000
+Salesforce,Senior,All,169000,"San Francisco, CA ",2020-10-04,1 , 8,153000 , N/A , 15000
+Stripe,L3,ACCOUNT MANAGEMENT,150000,"San Francisco, CA ",2020-09-17,3 , 8,125000 , N/A , 25000
+Turbonomic,L5,Enterprise,290000,"San Francisco, CA ",2020-08-28,6 , 8,140000 , 10000 , 140000
+Pinterest,L4,Sales,190000,"San Francisco, CA ",2020-08-28,2 , 8,102000 , 40000 , 48000
+Compass,Manager,Real estate,75000,"New York, NY ",2020-08-24,5 , 8,50000 , N/A , 25000
+Flexport,M3,None,270000,"San Francisco, CA ",2020-08-03,2 , 8,130000 , 50000 , 90000
+Twilio,L4,Sales,239000,"New York, NY ",2020-07-31,6 , 8,179000 , N/A , 60000
+Molex,Account Manager,Hardware manufacturing,175000,"Fremont, CA ",2020-07-26,4 , 8,130000 , N/A , 45000
+Cisco,Global account manager,Sales,280000,"New York, NY ",2019-08-14,8 , 8,,,

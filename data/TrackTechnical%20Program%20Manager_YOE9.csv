@@ -1,0 +1,60 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Amazon,L5,,200000,"Seattle, WA ",2022-03-04,2 , 9,130000 , 70000 , N/A
+Amazon,L6,Data Science,297000,"Chicago, IL ",2022-02-17,0 , 9,160000 , 37000 , 100000
+Amazon,L6,general,246000,"Seattle, WA ",2022-02-17,9 , 9,141000 , 105000 , N/A
+Microsoft,62,Supply Chain Engineering,189000,"Redmond, WA ",2022-02-16,7 , 9,158000 , 16000 , 15000
+Microsoft,64,Azure,223000,"Seattle, WA ",2022-02-11,9 , 9,178000 , 14000 , 31000
+Microsoft,63,Security,230000,"Redmond, WA ",2022-02-10,3 , 9,180000 , 20000 , 30000
+Amazon,L5,Tech,180000,"Seattle, WA ",2022-02-03,2 , 9,125000 , 55000 , N/A
+Amazon,L6,Aws,240000,"Seattle, WA ",2022-01-28,2 , 9,138000 , 102000 , N/A
+Protiviti,L4,Enterprise,180000,"Chicago, IL ",2022-01-26,2 , 9,160000 , N/A , 20000
+MongoDB,L3,Core Engineering,215000,"New York, NY ",2022-01-20,1 , 9,165000 , 50000 , N/A
+Google,L5,Focus Undisclosed,335000,"Sunnyvale, CA ",2022-01-12,0 , 9,188000 , 112000 , 35000
+Google,L5,Infrastructure,300000,"Mountain View, CA ",2021-12-30,9 , 9,200000 , 70000 , 30000
+LinkedIn,Staff Technical Program Manager,SRE,371000,"Sunnyvale, CA ",2021-12-28,1 , 9,225000 , 113000 , 34000
+Walmart Global Tech,L5,Tech Platforms,201000,"Seattle, WA ",2021-12-28,5 , 9,155000 , 15000 , 31000
+Cruise,L5,Program Manager,360000,"San Francisco, CA ",2021-12-28,0 , 9,200000 , 100000 , 60000
+Google,L5,ML,250000,"Sunnyvale, CA ",2021-12-01,3 , 9,167000 , 50000 , 33000
+Silicon Labs,Senior,PM,317000,"Boston, MA ",2021-11-18,0 , 9,170000 , 110000 , 37000
+Amazon,L6,TPM,243000,"Seattle, WA ",2021-11-15,4 , 9,148000 , 95000 , N/A
+Amazon,L6,ML,275000,"Seattle, WA ",2021-11-09,0 , 9,155000 , 120000 , N/A
+Rivian,L6,Thermal,235000,"Irvine, CA ",2021-11-02,1 , 9,160000 , 75000 , N/A
+Facebook,IC5,AR/VR,290000,"Seattle, WA ",2021-11-02,0 , 9,185000 , 78000 , 28000
+Amazon,L6,Program Management,207000,"New York, NY ",2021-10-30,0 , 9,150000 , 32000 , 24000
+Mozilla,P4,General,290000,"San Francisco, CA ",2021-10-05,9 , 9,215000 , N/A , 75000
+Amazon,L6,General,280000,"Denver, CO ",2021-09-10,0 , 9,160000 , 75000 , 45000
+Google,L4,General,219000,"Mountain View, CA ",2021-09-07,1 , 9,156000 , 40000 , 23000
+Amazon,L6,Sr. Program Manager,205000,"Seattle, WA ",2021-09-02,0 , 9,180000 , 25000 , N/A
+Google,L5,General,328000,"Austin, TX ",2021-08-20,0 , 9,165000 , 138000 , 25000
+Google,L5,"Trust & Safety, Policy & Risk",280000,"San Francisco, CA ",2021-08-03,9 , 9,160000 , 88000 , 32000
+Microsoft,63,Engineering,193000,"Redmond, WA ",2021-08-03,3 , 9,143000 , 40000 , 10000
+Google,L6,General,341000,"San Bruno, CA ",2021-07-23,5 , 9,192000 , 101000 , 48000
+Salesforce,L7,TPM,200000,"Seattle, WA ",2021-06-25,4 , 9,160000 , 15000 , 25000
+Google,L5,General,365000,"Mountain View, CA ",2021-06-04,0 , 9,185000 , 132000 , 48000
+,L5,MANAGEMENT,191000,"Foster City, CA ",2021-05-24,9 , 9,170000 , 21000 , N/A
+Google,L5,Cloud,319000,"Seattle, WA ",2021-05-24,2 , 9,159000 , 131000 , 29000
+Microsoft,65,Networking,349000,"Redmond, WA ",2021-04-07,9 , 9,209000 , 80000 , 60000
+Amazon,L6,ML/AI,300000,"Seattle, WA ",2021-04-03,0 , 9,152000 , 145000 , N/A
+Google,L4,Cloud,278000,"Seattle, WA ",2021-03-10,2 , 9,142000 , 110000 , 25000
+Facebook,E5,ARVR,251000,"Menlo Park, CA ",2021-02-13,0 , 9,184000 , 40000 , 27000
+,M2,"Software Engineering, Data Infrastructure",148000,"Florham Park, NJ ",2021-02-08,7 , 9,148000 , N/A , N/A
+Amazon,L5,General,163000,"Boston, MA ",2021-02-06,0 , 9,135000 , 19000 , 9000
+Facebook,IC5,Infrastructure,380000,"New York, NY ",2021-02-02,2 , 9,200000 , 150000 , 30000
+Apple,ICT5,DevOps,340000,"Cupertino, CA ",2021-01-09,2 , 9,220000 , 100000 , 20000
+Amazon,L4,Networking,132000,"Seattle, WA ",2020-12-30,1 , 9,105000 , 18000 , 9000
+Google,L4,compliance,224000,"New York, NY ",2020-12-04,1 , 9,144000 , 50000 , 30000
+Amazon,L6,ML / AI,235000,"Cambridge, MA ",2020-11-02,3 , 9,160000 , 75000 , N/A
+Walmart,L4,Na,190000,"Sunnyvale, CA ",2020-10-28,1 , 9,150000 , 10000 , 30000
+Cruise,Senior Software Engineer I,Full Stack,308000,"San Francisco, CA ",2020-09-11,1 , 9,195000 , 55000 , 58000
+Google,L4,Site Reliability (SRE),250000,"New York, NY ",2020-08-31,1 , 9,134000 , 95000 , 21000
+Facebook,L5,Distributed Systems (Back-End),335000,"Menlo Park, CA ",2020-08-12,2 , 9,200000 , 100000 , 35000
+Apple,ICT4,iOS,300000,"Cupertino, CA ",2020-07-21,1 , 9,170000 , 80000 , 50000
+Facebook,IC5,Distributed Systems (Back-End),350000,"New York, NY ",2020-07-11,2 , 9,200000 , 120000 , 30000
+Waymo,L5,ML / AI,261000,"Mountain View, CA ",2020-06-24,0 , 9,175000 , 60000 , 26000
+Google,L5,Customer Engineer,312000,"Sunnyvale, CA ",2020-06-23,0 , 9,167000 , 120000 , 25000
+Apple,ICT3,Hardware,266000,"Cupertino, CA ",2020-06-22,3 , 9,160000 , 81000 , 25000
+Facebook,IC5,Hardware,300000,"Menlo Park, CA ",2020-06-22,0 , 9,190000 , 81000 , 29000
+Oracle,IC-4,cloud,330000,"Seattle, WA ",2020-06-04,3 , 9,180000 , 150000 , N/A
+Nvidia,IC4,Distributed Systems (Back-End),311000,"Santa Clara, CA ",2020-05-20,3 , 9,184000 , 94000 , 33000
+Facebook,IC5,Hardware,338000,"Menlo Park, CA ",2020-05-09,1 , 9,198000 , 90000 , 50000
+Amazon,L5,Web Development (Front-End),200000,"Seattle, WA ",2020-03-20,0 , 9,150000 , 40000 , 10000
