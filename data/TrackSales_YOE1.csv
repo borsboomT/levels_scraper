@@ -1,0 +1,35 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Wish,L2,,90000,"San Francisco, CA ",2022-03-08,1 , 1,90000 , N/A , N/A
+,Entry,Software,45000,"New York, NY ",2022-02-24,1 , 1,45000 , N/A , N/A
+Amazon,L4,B2B,136000,"Seattle, WA ",2022-02-10,0 , 1,83000 , 32000 , 21000
+Dell Technologies,L1,General,82000,"Austin, TX ",2022-02-08,1 , 1,82000 , N/A , N/A
+Cisco,L8,Appdynamics Sales Engineer,151000,"New York, NY ",2022-02-07,1 , 1,113000 , N/A , 38000
+NetSuite,L2,Sales,120000,"Austin, TX ",2022-02-03,1 , 1,60000 , N/A , 60000
+Okta,L1,"sales,",67000,"Chicago, IL ",2022-01-18,1 , 1,40000 , 7000 , 20000
+NBCUniversal,1,General,42000,"New York, NY ",2022-01-06,1 , 1,42000 , N/A , N/A
+Google,L3,Looker,116000,"New York, NY ",2021-12-26,0 , 1,73000 , 11000 , 32000
+IBM,Band 6,Data & AI,123000,"New York, NY ",2021-12-23,1 , 1,95000 , N/A , 28000
+SAP,T1,General,120000,"San Francisco, CA ",2021-11-22,1 , 1,100000 , 10000 , 10000
+Amazon,L4,Demand Generation,121000,"Seattle, WA ",2021-11-15,1 , 1,75000 , 26000 , 20000
+Outreach,L2,Solutions Consultant,115000,"Seattle, WA ",2021-11-02,1 , 1,81000 , N/A , 35000
+Oracle,IC-2,SaaS,67000,"Santa Monica, CA ",2021-10-31,1 , 1,52000 , N/A , 15000
+Facebook,IC2,General,85000,"Austin, TX ",2021-09-16,0 , 1,60000 , 5000 , 20000
+Faire,L3,General,230000,"San Francisco, CA ",2021-09-15,1 , 1,130000 , 100000 , N/A
+Booking Holdings,L1,Account Management,55000,"New York, NY ",2021-08-20,1 , 1,55000 , N/A , N/A
+Amazon,L4,"Strategic Account Services, Retail",107000,"Seattle, WA ",2021-04-08,0 , 1,63000 , 31000 , 13000
+Oracle,L1,Sales,50000,"Redwood City, CA ",2021-04-05,1 , 1,45000 , N/A , 5000
+Highspot,1,Sales,40000,"Seattle, WA ",2020-11-21,1 , 1,40000 , N/A , N/A
+Ironclad,Business Development Representative (Entry Level Role),Sales,80000,"San Francisco, CA ",2020-11-16,1 , 1,80000 , N/A , N/A
+,L4,Cloud,121000,"Seattle, WA ",2020-11-03,0 , 1,75000 , 5000 , 41000
+Samsara,ADR II,Sales,100000,"San Francisco, CA ",2020-10-31,1 , 1,75000 , 3000 , 25000
+Oracle,L1,Consumer,50000,"Burlington, MA ",2020-10-29,1 , 1,50000 , N/A , N/A
+Headspace,BDR,Mobile (iOS + Android),83000,"Los Angeles, CA ",2020-09-29,1 , 1,60000 , 3000 , 20000
+Glassdoor,L1,Enterprise,57000,"Chicago, IL ",2020-09-28,1 , 1,57000 , N/A , N/A
+Oracle,SDR,Cloud,78000,"Santa Monica, CA ",2020-09-25,1 , 1,50000 , N/A , 23000
+Tipalti,SDR,Sales Development,85000,"San Mateo, CA ",2020-09-15,1 , 1,60000 , N/A , 25000
+ByteDance,L1,Operations,150000,"Seattle, WA ",2020-09-05,1 , 1,125000 , 25000 , N/A
+HubSpot,BDR,Sales,50000,"Cambridge, MA ",2020-08-27,0 , 1,50000 , 2000 , N/A
+Cloudflare,L1,Networking,93000,"San Francisco, CA ",2020-08-10,1 , 1,60000 , 10000 , 23000
+Amazon,L4,iOS,150000,"Seattle, WA ",2020-08-01,1 , 1,100000 , 50000 , N/A
+Check Point Software Technologies,Associate,Sales,97000,"San Francisco, CA ",2020-05-07,1 , 1,70000 , N/A , 27000
+Amazon,L4,Full Stack,130000,"Seattle, WA ",2020-02-24,1 , 1,80000 , 20000 , 30000

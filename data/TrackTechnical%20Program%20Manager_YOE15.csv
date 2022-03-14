@@ -1,0 +1,206 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Barclays,L3,,203000,"Whippany, NJ ",2022-03-08,4 , 15,178000 , N/A , 25000
+Facebook,E5,,655000,"San Francisco, CA ",2022-03-05,2 , 15,220000 , 400000 , 35000
+Google,l7,,542000,"San Francisco, CA ",2022-03-04,7 , 15,252000 , 230000 , 60000
+LinkedIn,IC4,,472000,"Sunnyvale, CA ",2022-03-02,2 , 15,187000 , 265000 , 20000
+Microsoft,63,Azure Devops,232000,"Redmond, WA ",2022-02-28,8 , 15,172000 , 30000 , 30000
+Oracle,IC,General,630000,"Seattle, WA ",2022-02-24,4 , 15,215000 , 400000 , 15000
+Microsoft,64,General,238000,"Redmond, WA ",2022-02-21,4 , 15,188000 , 30000 , 20000
+Microsoft,65,general,280000,"Seattle, WA ",2022-02-18,10 , 15,180000 , 50000 , 50000
+Facebook,IC5,ML,300000,"New York, NY ",2022-02-15,0 , 15,210000 , 60000 , 30000
+Square,L6,General,609000,"San Francisco, CA ",2022-02-09,1 , 15,190000 , 404000 , 15000
+Microsoft,65,General,440000,"Redmond, WA ",2022-02-08,0 , 15,215000 , 100000 , 125000
+Microsoft,66,Databases,304000,"Redmond, WA ",2022-02-07,11 , 15,204000 , 52000 , 48000
+,L5,Security,224000,"Boston, MA ",2022-02-05,8 , 15,160000 , 29000 , 35000
+Optum,31,PMO,155000,"Chicago, IL ",2022-02-04,3 , 15,145000 , N/A , 10000
+Amazon,L7,AWS,422000,"Seattle, WA ",2022-02-04,9 , 15,160000 , 262000 , N/A
+Facebook,IC5,Technical Program Management,340000,"Boston, MA ",2022-02-01,1 , 15,200000 , 100000 , 40000
+HashiCorp,l5,engineering,250000,"San Francisco, CA ",2022-01-31,1 , 15,175000 , 75000 , N/A
+Amazon,L7,Technical Program Manager,320000,"Seattle, WA ",2022-01-30,9 , 15,160000 , 160000 , N/A
+Nuro,5,SW,185000,"Mountain View, CA ",2022-01-29,2 , 15,185000 , N/A , N/A
+Audible,L6,General,260000,"Newark, NJ ",2022-01-22,0 , 15,160000 , 60000 , 40000
+Slalom,Principal,Product,190000,"Seattle, WA ",2022-01-20,5 , 15,190000 , N/A , N/A
+Capgemini,L4,Program Management,149000,"Seattle, WA ",2022-01-20,8 , 15,142000 , N/A , 7000
+Microsoft,64,Azure,239000,"Redmond, WA ",2022-01-19,11 , 15,170000 , 44000 , 25000
+Google,L7,Hardware,515000,"Mountain View, CA ",2022-01-12,6 , 15,245000 , 200000 , 70000
+Microsoft,63,Azure,219000,"Redmond, WA ",2022-01-10,3 , 15,162000 , 36000 , 21000
+Google,L7,AI,390000,"Los Angeles, CA ",2022-01-04,5 , 15,160000 , 200000 , 30000
+Facebook,IC6,General,400000,"Burlingame, CA ",2021-12-30,2 , 15,228000 , 100000 , 72000
+FactSet,L2,Agile,121000,"Norwalk, CT ",2021-12-30,2 , 15,120000 , N/A , 1000
+Amazon,L6,Ads,267000,"Boulder, CO ",2021-12-23,0 , 15,160000 , 65000 , 43000
+Google,L6,Security,388000,"Sunnyvale, CA ",2021-12-21,1 , 15,228000 , 120000 , 40000
+Amazon,L6,EC2,410000,"San Francisco, CA ",2021-12-21,0 , 15,185000 , 130000 , 95000
+Microsoft,66,Augmented Reality,425000,"Redmond, WA ",2021-12-21,8 , 15,225000 , 125000 , 75000
+Nvidia,M3,ESGio,400000,"San Jose, CA ",2021-12-20,4 , 15,250000 , 150000 , N/A
+Microsoft,64,Compliance,215000,"Redmond, WA ",2021-12-15,15 , 15,177000 , 18000 , 21000
+American Express,B40,Tech Delivery,288000,"New York, NY ",2021-12-15,3 , 15,180000 , N/A , 108000
+Logitech,M1,Hardware,245000,"San Francisco, CA ",2021-12-13,10 , 15,170000 , 40000 , 35000
+Google,L5,Networking,278000,"Austin, TX ",2021-12-13,0 , 15,158000 , 96000 , 24000
+Teradyne,L4,Program Management,200000,"North Reading, MA ",2021-12-11,5 , 15,135000 , 10000 , 55000
+Electronic Arts,23,People manager and program manager,280000,"Los Angeles, CA ",2021-12-10,2 , 15,200000 , 60000 , 20000
+Microsoft,64,Hardware,233000,"Redmond, WA ",2021-12-10,7 , 15,178000 , 27000 , 29000
+Akamai,L3,Planning,175000,"Cambridge, MA ",2021-12-01,8 , 15,125000 , 25000 , 25000
+Airbnb,L6,Infrastructure,445000,"San Francisco, CA ",2021-11-26,4 , 15,220000 , 175000 , 50000
+Twitter,L7,API,280000,"San Francisco, CA ",2021-11-18,7 , 15,200000 , 30000 , 50000
+Lawrence Livermore National Laboratory,SES.4,General,191000,"Livermore, CA ",2021-11-17,14 , 15,191000 , N/A , N/A
+Deloitte,SM,general,230000,"Chicago, IL ",2021-11-16,12 , 15,200000 , N/A , 30000
+Walgreens Boots Alliance,Facilitation,IT,160000,"Chicago, IL ",2021-11-16,1 , 15,150000 , N/A , 10000
+Intel,Grade 9,General,200000,"Santa Clara, CA ",2021-11-15,15 , 15,170000 , 10000 , 20000
+Microsoft,62,Finance,178000,"Seattle, WA ",2021-11-15,2 , 15,146000 , 16000 , 16000
+Salesforce,Director,Product Engineering,300000,"Burlington, MA ",2021-11-15,4 , 15,200000 , 60000 , 40000
+Amazon,L6,Security,250000,"Seattle, WA ",2021-11-15,3 , 15,150000 , 100000 , N/A
+Microsoft,64,#data #analytics,225000,"Redmond, WA ",2021-11-12,3 , 15,180000 , 25000 , 20000
+AMD,L9,Customer Program management,292000,"Austin, TX ",2021-11-10,4 , 15,182000 , 65000 , 45000
+Intuit,24,data,450000,"Mountain View, CA ",2021-11-01,2 , 15,200000 , 200000 , 50000
+Stripe,L3,General,366000,"Los Angeles, CA ",2021-10-28,0 , 15,198000 , 138000 , 30000
+Apple,ICT5,Product,516000,"Cupertino, CA ",2021-10-27,9 , 15,206000 , 260000 , 50000
+Oracle,L4,Cloud OCI,132000,"Redwood City, CA ",2021-10-08,8 , 15,132000 , N/A , N/A
+Microsoft,64,Engineering,275000,"Redmond, WA ",2021-10-05,0 , 15,185000 , 63000 , 28000
+Akamai,M1,Planning,215000,"Boston, MA ",2021-10-03,7 , 15,160000 , 30000 , 25000
+Electronic Arts,21,General,210000,"San Francisco, CA ",2021-10-02,2 , 15,170000 , 15000 , 25000
+Citi,C13,Loans,185000,"Jersey City, NJ ",2021-10-02,2 , 15,167000 , N/A , 18000
+Stripe,L3,Product,435000,"New York, NY ",2021-10-02,0 , 15,230000 , 170000 , 35000
+IBM,Band 10,Data,265000,"Austin, TX ",2021-09-30,5 , 15,250000 , 10000 , 5000
+VMware,Director,Cloud,293000,"Chicago, IL ",2021-09-24,3 , 15,245000 , N/A , 48000
+Amazon,L6,General,260000,"Seattle, WA ",2021-09-22,0 , 15,260000 , N/A , N/A
+OfferUp,L6,PMO,170000,"Seattle, WA ",2021-09-20,3 , 15,150000 , 20000 , N/A
+Cognizant,Senior Manager,Software,130000,"San Francisco, CA ",2021-09-18,5 , 15,120000 , 4000 , 6000
+Amazon,L6,Partner,240000,"Seattle, WA ",2021-09-18,1 , 15,155000 , 70000 , 15000
+Microsoft,66,industry engineering,450000,"Redmond, WA ",2021-09-15,5 , 15,226000 , 154000 , 70000
+Microsoft,65,Program Manager,295000,"Redmond, WA ",2021-09-14,11 , 15,195000 , 50000 , 50000
+Indeed,L3,PMO,200000,"Austin, TX ",2021-09-12,1 , 15,140000 , 38000 , 22000
+Amazon,L7,Data,380000,"Seattle, WA ",2021-09-11,1 , 15,160000 , 220000 , N/A
+Google,Manager (L6),TPM,500000,"San Francisco, CA ",2021-09-08,7 , 15,220000 , 230000 , 50000
+Hitachi,L5,pm,165000,"Los Angeles, CA ",2021-09-08,1 , 15,150000 , N/A , 15000
+VMware,L5,General,280000,"Palo Alto, CA ",2021-09-03,10 , 15,210000 , 35000 , 35000
+Google,L7,Hardware,526000,"San Francisco, CA ",2021-08-31,6 , 15,236000 , 220000 , 70000
+Virtusa,T1,General,130000,"Bridgewater, NJ ",2021-08-30,6 , 15,120000 , N/A , 10000
+Apple,IC4,New Product Introduction,155000,"Austin, TX ",2021-08-27,1 , 15,130000 , 15000 , 10000
+Google,L5,Customer Experience,265000,"Mountain View, CA ",2021-08-23,3 , 15,173000 , 67000 , 25000
+Waymo,L6,Hardware,330000,"Mountain View, CA ",2021-08-11,4 , 15,200000 , 100000 , 30000
+Google,L6,Hardware,420000,"Mountain View, CA ",2021-08-10,6 , 15,220000 , 150000 , 50000
+Blizzard Entertainment,Senior,Web & Mobile,120000,"Irvine, CA ",2021-08-04,10 , 15,120000 , N/A , N/A
+Microsoft,64,General,271000,"Seattle, WA ",2021-07-30,8 , 15,179000 , 47000 , 45000
+Bloomberg,Technical Program Manager,general,256000,"New York, NY ",2021-07-29,5 , 15,208000 , N/A , 48000
+Amazon,L6,catalog,287000,"Seattle, WA ",2021-07-28,2 , 15,150000 , 97000 , 40000
+Amazon,L5,Security,167000,"Seattle, WA ",2021-07-27,3 , 15,130000 , 37000 , N/A
+Amazon,L5,AwS,307000,"San Jose, CA ",2021-07-22,1 , 15,183000 , 14000 , 110000
+Amazon,L6,TPM,265000,"Seattle, WA ",2021-07-20,11 , 15,145000 , 120000 , N/A
+Broadcom,ICB 3,Program Management,209000,"San Jose, CA ",2021-07-15,7 , 15,126000 , 65000 , 18000
+Amazon,L6,General,244000,"Sunnyvale, CA ",2021-07-13,2 , 15,175000 , 69000 , N/A
+Nvidia,IC5,DFT engineer,372000,"Santa Clara, CA ",2021-07-12,3 , 15,232000 , 140000 , N/A
+Facebook,IC4,Infra,247000,"Menlo Park, CA ",2021-07-04,3 , 15,170000 , 60000 , 17000
+Amazon,L6,General,254000,"Seattle, WA ",2021-07-01,4 , 15,156000 , 80000 , 18000
+Amazon,L6,Advertising,220000,"Seattle, WA ",2021-06-30,5 , 15,150000 , 60000 , 10000
+Google,L5,Cloud,311000,"Sunnyvale, CA ",2021-06-27,15 , 15,180000 , 84000 , 47000
+Dell Technologies,L6,Product,260000,"Austin, TX ",2021-06-27,7 , 15,165000 , 45000 , 50000
+NVIDIA,L6,general,280000,"San Francisco, CA ",2021-06-18,6 , 15,240000 , 40000 , N/A
+Salesforce,Director,Software Development,323000,"San Francisco, CA ",2021-06-17,0 , 15,238000 , 38000 , 48000
+Microsoft,65,Online,254000,"Bellevue, WA ",2021-06-16,10 , 15,184000 , 36000 , 34000
+Dropbox,IC3,Platform,259000,"San Francisco, CA ",2021-06-14,1 , 15,189000 , 42000 , 28000
+Microsoft,62,General,180000,"Redmond, WA ",2021-06-07,3 , 15,145000 , 15000 , 20000
+Clever Devices,Director,System Engineering,155000,"New York, NY ",2021-06-02,5 , 15,145000 , N/A , 10000
+eBay,26,Software Engineer job family,250000,"San Jose, CA ",2021-06-01,4 , 15,185000 , 50000 , 20000
+Publicis Sapient,L5,Senior Architect,205000,"New York, NY ",2021-06-01,3 , 15,178000 , N/A , 27000
+VMware,P6,Cloud,307000,"Palo Alto, CA ",2021-05-28,2 , 15,210000 , 55000 , 42000
+Amazon,L7,grocery,365000,"Seattle, WA ",2021-05-10,11 , 15,160000 , 205000 , N/A
+Google,L6,Hardware,397000,"Los Angeles, CA ",2021-05-04,2 , 15,185000 , 170000 , 42000
+Nordstrom,L17,General,196000,"Seattle, WA ",2021-05-04,3 , 15,161000 , N/A , 35000
+Amazon,L6,AWS,277000,"Seattle, WA ",2021-05-02,0 , 15,160000 , 65000 , 48000
+Cisco,Grade 10,Information Technology,200000,"San Jose, CA ",2021-05-01,15 , 15,150000 , 25000 , 25000
+Microsoft,64,Azure,230000,"Redmond, WA ",2021-04-26,13 , 15,180000 , 24000 , 26000
+Amazon,L6,Engg.,225000,"Seattle, WA ",2021-04-25,2 , 15,160000 , 65000 , N/A
+Microsoft,63,Azure,178000,"Redmond, WA ",2021-04-15,5 , 15,156000 , 10000 , 14000
+Microsoft,64,Hardware,287000,"Redmond, WA ",2021-04-09,0 , 15,195000 , 63000 , 29000
+PayPal,Level 26,Payments,276000,"San Jose, CA ",2021-04-06,3 , 15,173000 , 60000 , 43000
+Square,L6,Software Development,590000,"San Francisco, CA ",2021-03-31,1 , 15,175000 , 400000 , 15000
+Dropbox,IC3,Hardware,259000,"San Francisco, CA ",2021-03-31,1 , 15,189000 , 42000 , 28000
+Facebook,L5,TPM,194000,"San Francisco, CA ",2021-03-30,1 , 15,139000 , 45000 , 10000
+Microsoft,64,ML/AI,300000,"Seattle, WA ",2021-03-20,9 , 15,191000 , 50000 , 59000
+Amazon,L6,General,243000,"Irvine, CA ",2021-03-10,0 , 15,154000 , 49000 , 40000
+Argo AI,L5,General,300000,"Palo Alto, CA ",2021-03-10,1 , 15,205000 , 65000 , 30000
+MongoDB,Senior Staff Software Engineer,Security,482000,"New York, NY ",2021-02-24,4 , 15,275000 , 180000 , 28000
+Johnson & Johnson,M1,Technology Manager,194000,"Raritan, NJ ",2021-02-23,5 , 15,150000 , 22000 , 22000
+PayPal,T26,General,275000,"San Jose, CA ",2021-02-20,1 , 15,185000 , 65000 , 25000
+Microsoft,64,Cloud Operations and Innovation,263000,"Seattle, WA ",2021-02-18,1 , 15,170000 , 80000 , 12000
+Facebook,M1,Software,510000,"Menlo Park, CA ",2021-02-17,3 , 15,215000 , 225000 , 70000
+Microsoft,64,Video Games,225000,"Seattle, WA ",2021-02-14,15 , 15,163000 , 32000 , 30000
+Amazon,L7,Supply chain optimization tech group,525000,"Seattle, WA ",2021-02-14,7 , 15,160000 , 365000 , N/A
+Microsoft,65,Cloud Engineering,303000,"Redmond, WA ",2021-02-05,5 , 15,210000 , 50000 , 43000
+Amazon,L6,TPM,264000,"Seattle, WA ",2021-01-28,11 , 15,144000 , 120000 , N/A
+Google,L5,ML / AI,344000,"Mountain View, CA ",2021-01-26,1 , 15,184000 , 130000 , 30000
+JPMorgan Chase,603,Production,163000,"Jersey City, NJ ",2021-01-20,5 , 15,133000 , N/A , 30000
+Microsoft,64,Security,259000,"Redmond, WA ",2021-01-15,4 , 15,175000 , 60000 , 24000
+Google,L6,Full Stack,386000,"Mountain View, CA ",2021-01-11,9 , 15,203000 , 133000 , 50000
+Comcast,PM5,Mobile (iOS + Android),290000,"Sunnyvale, CA ",2021-01-08,1 , 15,190000 , 50000 , 50000
+Qualtrics,L5,Data,280000,"Seattle, WA ",2020-12-30,1 , 15,200000 , 70000 , 10000
+Microsoft,62,Mix Reality,294000,"Mountain View, CA ",2020-12-30,0 , 15,170000 , 50000 , 74000
+Paypal,26,Product,288000,"San Jose, CA ",2020-12-25,3 , 15,172000 , 86000 , 30000
+Apple,ICT5,Other,360000,"Cupertino, CA ",2020-12-17,11 , 15,200000 , 150000 , 10000
+Google,L5,Evaluation and Metrics,285000,"Seattle, WA ",2020-12-16,4 , 15,165000 , 81000 , 39000
+Amazon,L6,Sales ops,300000,"Seattle, WA ",2020-12-12,1 , 15,160000 , 125000 , 15000
+Facebook,IC5,Hardware,292000,"Redmond, WA ",2020-12-03,2 , 15,190000 , 73000 , 29000
+Amazon,L6,Full Stack,300000,"Seattle, WA ",2020-11-25,5 , 15,160000 , 140000 , N/A
+Microsoft,64,Full Stack,290000,"Sunnyvale, CA ",2020-11-23,0 , 15,200000 , 60000 , 30000
+Microsoft,65,ML / AI,377000,"Seattle, WA ",2020-11-17,0 , 15,195000 , 81000 , 100000
+Intuit,Staff Software Engineer,Operations,268000,"Mountain View, CA ",2020-11-13,3 , 15,193000 , 35000 , 40000
+Oracle,IC-3,API Development (Back-End),295000,"Seattle, WA ",2020-11-06,1 , 15,165000 , 115000 , 20000
+Rally Health,M5,Production,220000,"San Francisco, CA ",2020-11-04,5 , 15,180000 , 20000 , 20000
+Uber,L5A,Full Stack,312000,"San Francisco, CA ",2020-11-02,4 , 15,195000 , 80000 , 37000
+Zendesk,M1,Data,300000,"San Francisco, CA ",2020-10-27,3 , 15,155000 , 145000 , N/A
+Google Inc.,L6,Networking,250000,"Mountain View, CA ",2020-10-22,8 , 15,200000 , N/A , 50000
+Argo AI,6,Other,400000,"Palo Alto, CA ",2020-10-18,1 , 15,250000 , 100000 , 50000
+PayPal,L26,Full Stack,238000,"San Jose, CA ",2020-10-16,3 , 15,172000 , 40000 , 26000
+,L3,IT,135000,"Hoboken, NJ ",2020-10-15,5 , 15,120000 , N/A , 15000
+Microsoft,63,Security,200000,"Redmond, WA ",2020-10-15,2 , 15,165000 , 20000 , 15000
+T-Mobile,L8,Networking,171000,"San Francisco, CA ",2020-10-14,15 , 15,140000 , 10000 , 21000
+Oracle,IC-4,DevOps,185000,"Seattle, WA ",2020-10-09,1 , 15,160000 , 25000 , N/A
+Microsoft,64,Data Center,216000,"Redmond, WA ",2020-10-08,8 , 15,176000 , 15000 , 25000
+MobileIron,L5,Program Management,285000,"Mountain View, CA ",2020-10-05,2 , 15,200000 , 35000 , 50000
+Box,L7,DevOps,250000,"Redwood City, CA ",2020-09-27,2 , 15,185000 , 65000 , N/A
+Expedia,N,API Development (Back-End),270000,"Seattle, WA ",2020-09-22,15 , 15,180000 , 60000 , 30000
+Infosys,6,Mobile (iOS + Android),151000,"Sunnyvale, CA ",2020-09-17,10 , 15,151000 , N/A , N/A
+Microsoft,62,Data,157000,"Redmond, WA ",2020-09-15,1 , 15,141000 , 4000 , 12000
+Microsoft,65,Cloud,312000,"Redmond, WA ",2020-09-09,2 , 15,195000 , 75000 , 43000
+Bank of America,VP,Project Management,130000,"Los Angeles, CA ",2020-09-09,10 , 15,125000 , 1000 , 3000
+Microsoft,64,Site Reliability (SRE),243000,"Redmond, WA ",2020-09-03,2 , 15,191000 , 24000 , 28000
+Facebook,L5 Product Manager,Full Stack,354000,"Seattle, WA ",2020-09-01,0 , 15,198000 , 81000 , 75000
+Microsoft,64,Production,221000,"Redmond, WA ",2020-08-25,2 , 15,172000 , 24000 , 25000
+Cisco,Grade 10,IT,190000,"San Jose, CA ",2020-08-23,12 , 15,148000 , 20000 , 22000
+Oracle,IC-4,Distributed Systems (Back-End),224000,"San Francisco, CA ",2020-08-22,2 , 15,164000 , 60000 , N/A
+Oracle,IC-4,Full Stack,224000,"San Francisco, CA ",2020-08-21,2 , 15,164000 , 60000 , N/A
+Oracle,IC4,Full Stack,224000,"San Francisco, CA ",2020-08-21,2 , 15,164000 , 60000 , N/A
+Amazon,L6 Manager,Manager,309000,"Seattle, WA ",2020-08-21,0 , 15,150000 , 22000 , 137000
+Microsoft,67,Security,392000,"Seattle, WA ",2020-08-19,13 , 15,232000 , 100000 , 60000
+Google,Manager (L6),Data,433000,"San Francisco, CA ",2020-08-18,14 , 15,213000 , 160000 , 60000
+Cognizant,Level1,PM,100000,"White Plains, NY ",2020-08-14,7 , 15,100000 , N/A , N/A
+Intel,Grade 9,Hardware,251000,"Santa Clara, CA ",2020-08-14,15 , 15,179000 , 35000 , 37000
+Microsoft,63,Data,190000,"Redmond, WA ",2020-08-12,8 , 15,151000 , 20000 , 19000
+Facebook,IC5,Distributed Systems (Back-End),310000,"Menlo Park, CA ",2020-08-07,0 , 15,200000 , 80000 , 30000
+Microsoft,66,Distributed Systems (Back-End),340000,"Redmond, WA ",2020-08-07,10 , 15,205000 , 90000 , 45000
+Google,T5,Android,370000,"Mountain View, CA ",2020-07-16,2 , 15,185000 , 150000 , 35000
+Microsoft,66,AR/VR,350000,"Redmond, WA ",2020-07-07,7 , 15,210000 , 100000 , 40000
+Facebook,M1,tpm,352000,"San Francisco, CA ",2020-07-07,3 , 15,215000 , 94000 , 43000
+Microsoft,63,Globalization,182000,"Redmond, WA ",2020-07-02,5 , 15,154000 , 13000 , 16000
+Google,5,ML / AI,300000,"Mountain View, CA ",2020-07-02,3 , 15,180000 , 93000 , 27000
+Salesforce,L8,Security,251000,"Bellevue, WA ",2020-07-02,1 , 15,203000 , 18000 , 30000
+Amazon,L6,Security,150000,"Seattle, WA ",2020-06-30,6 , 15,126000 , 24000 , N/A
+PwC,Director,Salesforce.com,275000,"San Jose, CA ",2020-06-27,10 , 15,255000 , N/A , 20000
+Unity,6,ML / AI,170000,"Bellevue, WA ",2020-06-26,1 , 15,170000 , 4000 , N/A
+Amazon,L6,ML / AI,240000,"Palo Alto, CA ",2020-06-23,5 , 15,180000 , 60000 , N/A
+Uber,5b,Hardware,682000,"San Francisco, CA ",2020-06-23,2 , 15,217000 , 420000 , 45000
+Amazon,L6,DevOps,266000,"Seattle, WA ",2020-06-01,4 , 15,160000 , 106000 , N/A
+Microsoft,62,Analytics,170000,"Redmond, WA ",2020-05-26,2 , 15,130000 , 20000 , 20000
+Intuit,Staff,Distributed Systems (Back-End),272000,"Mountain View, CA ",2020-05-22,1 , 15,182000 , 30000 , 60000
+Starbucks,27,API Development (Back-End),205000,"Seattle, WA ",2020-05-17,3 , 15,160000 , 30000 , 15000
+Google,L5,Distributed Systems (Back-End),405000,"Sunnyvale, CA ",2020-05-17,2 , 15,188000 , 171000 , 46000
+Expedia,M,Distributed Systems (Back-End),220000,"Seattle, WA ",2020-05-13,3 , 15,165000 , 30000 , 25000
+Microsoft,65,mixed reality,300000,"Redwood City, CA ",2020-05-08,7 , 15,210000 , 50000 , 40000
+Amazon,L6,Regional,248000,"Denver, CO ",2020-05-05,0 , 15,155000 , 82000 , 11000
+Expedia,M,Distributed Systems (Back-End),220000,"Seattle, WA ",2020-04-18,15 , 15,180000 , 20000 , 20000
+Salesforce,L8,Security,257000,"Bellevue, WA ",2020-04-08,1 , 15,202000 , 25000 , 30000
+Apple,ICT4,Security,218000,"Austin, TX ",2020-03-20,0 , 15,170000 , 36000 , 12000
+Microsoft,64,Distributed Systems (Back-End),300000,"Redmond, WA ",2020-03-13,0 , 15,180000 , 67000 , 53000
+Facebook,l5,Full Stack,300000,"Seattle, WA ",2020-03-08,2 , 15,200000 , 80000 , 20000
+Facebook,M1,Developers,660000,"Menlo Park, CA ",2020-03-03,1 , 15,240000 , 360000 , 60000
+Google,L5,Healthcare,269000,"Mountain View, CA ",2018-08-22,2 , 15,,,

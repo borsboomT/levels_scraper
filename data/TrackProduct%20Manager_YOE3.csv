@@ -1,0 +1,301 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Tekion,L1,Product,105000,"Pleasanton, CA ",2022-03-02,1 , 3,105000 , N/A , N/A
+GitHub,L3,Product,254000,"San Francisco, CA ",2022-03-01,2 , 3,167000 , 70000 , 17000
+Zendesk,Product Manager,Product,202000,"San Francisco, CA ",2022-02-28,1 , 3,165000 , 29000 , 8000
+ADP,Level 7,Enterprise,145000,"Parsippany, NJ ",2022-02-27,3 , 3,138000 , N/A , 7000
+Indeed,L3,Product,225000,"Austin, TX ",2022-02-24,3 , 3,115000 , 100000 , 10000
+Cvent,1,Product,90000,"Elgin, IL ",2022-02-23,1 , 3,85000 , N/A , 5000
+PayPal,T25,Consumer,170000,"San Jose, CA ",2022-02-22,3 , 3,150000 , 10000 , 10000
+Microsoft,61,Product,175000,"Cambridge, MA ",2022-02-22,3 , 3,139000 , 17000 , 19000
+Microsoft,61,Product,191000,"Seattle, WA ",2022-02-19,2 , 3,135000 , 45000 , 11000
+Albertsons,L1,Product,210000,"San Francisco, CA ",2022-02-18,3 , 3,175000 , N/A , 35000
+,5,Enterprise,263000,"San Francisco, CA ",2022-02-17,0 , 3,185000 , 50000 , 28000
+CrowdStrike,PM II,Technical,210000,"San Francisco, CA ",2022-02-16,0 , 3,150000 , 33000 , 27000
+SAP NS2,T2,Product,119000,"Boston, MA ",2022-02-15,2 , 3,100000 , N/A , 19000
+Peloton,L6,Enterprise,150000,"New York, NY ",2022-02-14,1 , 3,142000 , 8000 , N/A
+Microsoft,61,Product,173000,"Cambridge, MA ",2022-02-11,3 , 3,136000 , 16000 , 21000
+Microsoft,61,Internal,180000,"Seattle, WA ",2022-02-10,3 , 3,130000 , 35000 , 15000
+Plastiq,L2,Technical,175000,"San Francisco, CA ",2022-02-08,3 , 3,165000 , 10000 , N/A
+IBM,Associate Offering Manager,Product,133000,"Austin, TX ",2022-02-07,1 , 3,118000 , 5000 , 10000
+Apple,ICT3,Product,170000,"Cupertino, CA ",2022-02-07,0 , 3,140000 , 25000 , 5000
+Amazon,Product Manager,Technical,157000,"Los Angeles, CA ",2022-02-06,0 , 3,125000 , 19000 , 13000
+American Express,L30,Product,105000,"New York, NY ",2022-02-04,0 , 3,100000 , N/A , 5000
+GoDaddy,PM3,Product,164000,"Austin, TX ",2022-01-31,3 , 3,127000 , 25000 , 12000
+F5 Networks,3,Technical,153000,"Seattle, WA ",2022-01-29,3 , 3,126000 , 27000 , N/A
+Google,Product Manager 1,Product,225000,"Seattle, WA ",2022-01-27,1 , 3,150000 , 50000 , 25000
+Zillow,P3,Product,125000,"Seattle, WA ",2022-01-27,3 , 3,115000 , 10000 , N/A
+Guardian Life,2,Enterprise,94000,"New York, NY ",2022-01-24,3 , 3,92000 , N/A , 2000
+Redfin,PM 2,Product,200000,"Los Angeles, CA ",2022-01-23,0 , 3,180000 , 20000 , N/A
+Rivian,L4,Product,192000,"Palo Alto, CA ",2022-01-21,0 , 3,140000 , 38000 , 14000
+Google,Product Manager 2,Product,373000,"New York, NY ",2022-01-19,3 , 3,200000 , 128000 , 45000
+Yelp,IC3,Product,222000,"San Francisco, CA ",2022-01-17,2 , 3,155000 , 67000 , N/A
+GitHub,8,Product,175000,"Chicago, IL ",2022-01-16,3 , 3,143000 , 19000 , 12000
+Box,Product Manager II,Product,221000,"Redwood City, CA ",2022-01-13,0 , 3,163000 , 46000 , 12000
+Twitter,PM I,Product,219000,"San Francisco, CA ",2022-01-11,3 , 3,133000 , 80000 , 6000
+Zynga,L3,Product,179000,"San Francisco, CA ",2022-01-08,2 , 3,140000 , 15000 , 24000
+VMware,L3,Enterprise,193000,"Palo Alto, CA ",2022-01-07,0 , 3,155000 , 20000 , 18000
+SAP,T3,Product,135000,"San Francisco, CA ",2022-01-07,1 , 3,120000 , N/A , 15000
+15Five,L3,User Journey,133000,"New York, NY ",2022-01-05,3 , 3,130000 , 3000 , N/A
+Grainger,L2,Technical,193000,"Chicago, IL ",2022-01-05,2 , 3,148000 , 15000 , 30000
+Expedia,K,Product,160000,"Seattle, WA ",2022-01-03,1 , 3,135000 , N/A , 25000
+Visa,Associate Product Manager,Product,136000,"Foster City, CA ",2022-01-01,2 , 3,106000 , 15000 , 15000
+Chime,l4,Product,151000,"Austin, TX ",2021-12-31,1 , 3,138000 , 13000 , N/A
+Atlassian,P4,Security,210000,"Jersey City, NJ ",2021-12-30,0 , 3,140000 , 56000 , 14000
+Dell Technologies,L7,Product,135000,"Austin, TX ",2021-12-28,1 , 3,120000 , 5000 , 10000
+Capital One,Senior Associate,Product,136000,"New York, NY ",2021-12-28,0 , 3,130000 , N/A , 6000
+Capital One,Senior Associate,Product,109000,"New York, NY ",2021-12-27,3 , 3,104000 , N/A , 5000
+Affirm,L4,Product,160000,"San Francisco, CA ",2021-12-22,1 , 3,127000 , 25000 , 8000
+Spectrum,L5,Enterprise,135000,"Denver, CO ",2021-12-22,0 , 3,135000 , N/A , N/A
+Verizon,7V,Product,95000,"Basking Ridge, NJ ",2021-12-20,3 , 3,85000 , 2000 , 9000
+Twilio,L3,Technical,205000,"New York, NY ",2021-12-17,1 , 3,165000 , 40000 , N/A
+Macy's,L1,Product,156000,"New York, NY ",2021-12-16,1 , 3,142000 , N/A , 14000
+Walmart,L4,Enterprise,181000,"Sunnyvale, CA ",2021-12-15,2 , 3,140000 , 11000 , 29000
+Epsilon,L5,Product,115000,"Los Angeles, CA ",2021-12-15,3 , 3,105000 , N/A , 10000
+Nuro,L4,Technical,293000,"Mountain View, CA ",2021-12-15,0 , 3,180000 , 93000 , 20000
+,Product Management Specialist I,Product,100000,"New York, NY ",2021-12-14,3 , 3,96000 , N/A , 4000
+Amazon,L5,Technical,267000,"Seattle, WA ",2021-12-10,0 , 3,174000 , 53000 , 40000
+IHS Markit,L2,Product,87000,"New York, NY ",2021-12-08,3 , 3,75000 , 2000 , 10000
+Microsoft,61,Technical,191000,"Seattle, WA ",2021-12-07,3 , 3,137000 , 38000 , 16000
+Athenahealth,L5,Consumer,160000,"Austin, TX ",2021-12-07,0 , 3,130000 , N/A , 30000
+Confluent,L2,Technical,323000,"San Francisco, CA ",2021-12-03,1 , 3,180000 , 125000 , 18000
+Medly Pharmacy,L3,Product,145000,"New York, NY ",2021-12-02,0 , 3,145000 , N/A , N/A
+Athenahealth,L3,Growth,134000,"New York, NY ",2021-12-01,1 , 3,115000 , N/A , 19000
+Amazon,L5,Operations,144000,"Seattle, WA ",2021-11-28,1 , 3,110000 , 20000 , 14000
+Microsoft,60,Operations,165000,"Redmond, WA ",2021-11-24,2 , 3,125000 , 30000 , 10000
+Google,L4,Technical,280000,"Menlo Park, CA ",2021-11-22,1 , 3,180000 , 90000 , 10000
+Oscar Health,P2,Product,220000,"New York, NY ",2021-11-22,0 , 3,150000 , 48000 , 22000
+NBCUniversal,N/A,Product,132000,"Los Angeles, CA ",2021-11-22,3 , 3,125000 , N/A , 7000
+Yahoo,IC3,Consumer,172000,"San Francisco, CA ",2021-11-22,3 , 3,140000 , 12000 , 20000
+The New York Times Company,Product Manager 2,Product,138000,"New York, NY ",2021-11-19,3 , 3,125000 , N/A , 13000
+IBM,Band 7,Analytic,125000,"Boston, MA ",2021-11-18,0 , 3,125000 , N/A , N/A
+Amazon,L5,Product,143000,"Austin, TX ",2021-11-16,3 , 3,103000 , 40000 , N/A
+Facebook,L5 Product Manager,Product,341000,"Seattle, WA ",2021-11-12,3 , 3,200000 , 111000 , 30000
+Twilio,L3,Product,218000,"San Francisco, CA ",2021-11-10,0 , 3,160000 , 58000 , N/A
+Walmart Global Tech,L4,Product,190000,"Sunnyvale, CA ",2021-11-08,3 , 3,142000 , 20000 , 28000
+Squarespace,L4,Product,190000,"New York, NY ",2021-11-05,1 , 3,165000 , 25000 , N/A
+Snap,L3,Product,277000,"New York, NY ",2021-11-01,0 , 3,165000 , 95000 , 17000
+,L6,Consumer,224000,"Seattle, WA ",2021-10-29,0 , 3,144000 , 8000 , 72000
+Startups.com,Product Manager,Enterprise,140000,"San Francisco, CA ",2021-10-28,1 , 3,130000 , 10000 , N/A
+Wayfair,L3,Product,140000,"Boston, MA ",2021-10-28,2 , 3,110000 , 20000 , 10000
+Collective Health,L2,Product,115000,"San Francisco, CA ",2021-10-27,3 , 3,115000 , N/A , N/A
+Microsoft,60,Product,177000,"Redmond, WA ",2021-10-26,1 , 3,120000 , 45000 , 12000
+Spotify,L4,Product,205000,"New York, NY ",2021-10-26,0 , 3,175000 , 30000 , N/A
+Pandora,L4,Analytic,220000,"Oakland, CA ",2021-10-21,3 , 3,140000 , 60000 , 20000
+Microsoft,61,Technical,177000,"Redmond, WA ",2021-10-19,2 , 3,133000 , 30000 , 14000
+IBM,Band 7,Product,144000,"San Jose, CA ",2021-10-16,0 , 3,144000 , N/A , N/A
+Capital One,Product Manager,Product,147000,"New York, NY ",2021-10-11,3 , 3,132000 , 5000 , 10000
+Global Payments,L1,Product,91000,"New York, NY ",2021-10-09,1 , 3,82000 , N/A , 8000
+Grubhub,PM1,Consumer,130000,"New York, NY ",2021-10-07,1 , 3,120000 , 10000 , N/A
+eBay,24,Technical,183000,"San Jose, CA ",2021-10-06,1 , 3,152000 , 17000 , 15000
+Cisco,Grade 10,Product,200000,"San Jose, CA ",2021-10-05,3 , 3,150000 , 25000 , 25000
+Amazon,L6,Product,237000,"Seattle, WA ",2021-09-30,1 , 3,157000 , 50000 , 30000
+HubSpot,L3,N/A,125000,"Boston, MA ",2021-09-28,0 , 3,115000 , 10000 , N/A
+Remitly,1,Product,106000,"Seattle, WA ",2021-09-26,2 , 3,106000 , N/A , N/A
+Cruise,L3,Technical,240000,"San Francisco, CA ",2021-09-23,1 , 3,160000 , 40000 , 40000
+BlackRock,Analyst,Product,127000,"New York, NY ",2021-09-17,3 , 3,97000 , N/A , 30000
+Facebook,L5 Product Manager,Product,307000,"Seattle, WA ",2021-09-13,0 , 3,180000 , 100000 , 27000
+Citi,Vice President,Product,130000,"New York, NY ",2021-09-10,3 , 3,125000 , N/A , 5000
+Dave,Mid,Product,150000,"Los Angeles, CA ",2021-09-10,2 , 3,150000 , N/A , N/A
+Highspot,L30,Product,108000,"Seattle, WA ",2021-08-27,2 , 3,108000 , N/A , N/A
+VMware,P3,Product,133000,"Boston, MA ",2021-08-26,2 , 3,114000 , 5000 , 14000
+Pinterest,L4,Growth,400000,"San Francisco, CA ",2021-08-20,2 , 3,175000 , 225000 , N/A
+Microsoft,61,Enterprise,182000,"New York, NY ",2021-08-18,3 , 3,140000 , 24000 , 18000
+Aurora,P5,Product,260000,"Mountain View, CA ",2021-08-17,0 , 3,162000 , 70000 , 28000
+Uber,L4,Product,288000,"San Francisco, CA ",2021-08-13,0 , 3,160000 , 105000 , 23000
+Amazon,L5,Product,168000,"Seattle, WA ",2021-08-11,0 , 3,135000 , 21000 , 13000
+PTC,N/A,Product,110000,"Boston, MA ",2021-08-10,3 , 3,100000 , 5000 , 5000
+Amazon,L6,Product,226000,"Seattle, WA ",2021-08-10,0 , 3,154000 , 50000 , 22000
+BlackRock,Associate,Product,158000,"New York, NY ",2021-08-09,3 , 3,118000 , N/A , 40000
+DoorDash,M2,Operations,268000,"New York, NY ",2021-07-30,0 , 3,210000 , 58000 , N/A
+Google,L3,Product,170000,"San Francisco, CA ",2021-07-28,2 , 3,120000 , 40000 , 10000
+Visa,L4,Product,133000,"San Francisco, CA ",2021-07-24,3 , 3,123000 , N/A , 10000
+Capsule,L2,Internal,150000,"New York, NY ",2021-07-23,1 , 3,150000 , N/A , N/A
+Amazon,L6,Technical,280000,"Seattle, WA ",2021-07-23,3 , 3,143000 , 137000 , N/A
+ByteDance,2-1,Operations,198000,"Mountain View, CA ",2021-07-21,0 , 3,145000 , 17000 , 36000
+Shopify,L5,Product,126000,"New York, NY ",2021-07-20,3 , 3,116000 , 10000 , N/A
+BNY Mellon,Lead Analyst,Operations,83000,"New York, NY ",2021-07-12,3 , 3,75000 , N/A , 8000
+Splunk,P3,Product,236000,"San Francisco, CA ",2021-07-12,0 , 3,162000 , 58000 , 16000
+ADP,Product Manager,Product,140000,"Los Angeles, CA ",2021-07-12,0 , 3,130000 , N/A , 10000
+IBM,Advisory Offering Manager,Product,101000,"Poughkeepsie, NY ",2021-07-08,3 , 3,101000 , N/A , N/A
+Coinbase,L4,Product,240000,"San Francisco, CA ",2021-07-07,0 , 3,160000 , 75000 , 8000
+Microsoft,61,Technical,187000,"Redmond, WA ",2021-07-06,0 , 3,137000 , 30000 , 20000
+Experian,Product Manager 2,Product,125000,"Costa Mesa, CA ",2021-07-03,1 , 3,109000 , N/A , 16000
+Microsoft,61,Product,174000,"Redmond, WA ",2021-07-01,0 , 3,131000 , 18000 , 25000
+Microsoft,61,Product,180000,"Seattle, WA ",2021-06-29,3 , 3,130000 , 30000 , 20000
+Poshmark,Associate Product Manager,Product,135000,"Redwood City, CA ",2021-06-22,3 , 3,110000 , 25000 , N/A
+IBM,Band 7,Product,105000,"New York, NY ",2021-06-14,3 , 3,105000 , N/A , N/A
+Wayfair,L2,Product,110000,"Boston, MA ",2021-06-10,2 , 3,92000 , 9000 , 9000
+AT&T,L2,Technical,122000,"New York, NY ",2021-06-09,3 , 3,102000 , N/A , 20000
+GoDaddy,L3,Product,140000,"Seattle, WA ",2021-06-08,2 , 3,110000 , 20000 , 11000
+Silicon Valley Bank,L3,Product,186000,"San Francisco, CA ",2021-06-07,1 , 3,155000 , N/A , 31000
+Macy's,L1,Analytic,113000,"New York, NY ",2021-05-30,1 , 3,110000 , N/A , 3000
+Amazon,Senior Product Manager,Enterprise,180000,"Seattle, WA ",2021-05-27,0 , 3,130000 , 24000 , 26000
+Walmart Global Tech,x3,Product,156000,"Hoboken, NJ ",2021-05-21,3 , 3,117000 , 20000 , 19000
+Microsoft,61,Product,177000,"Seattle, WA ",2021-05-19,3 , 3,135000 , 27000 , 15000
+Flatiron Health,L3,Internal,204000,"New York, NY ",2021-05-14,1 , 3,162000 , 18000 , 24000
+Visa,Associate Software Engineer,Product,108000,"San Francisco, CA ",2021-05-14,3 , 3,88000 , 15000 , 5000
+Capital One,Sr Associate,Consumer,137000,"New York, NY ",2021-05-13,3 , 3,130000 , N/A , 7000
+PayPal,L24,Product,158000,"Chicago, IL ",2021-05-10,2 , 3,120000 , 26000 , 12000
+Splunk,P2,Product,174000,"San Francisco, CA ",2021-05-07,3 , 3,140000 , 20000 , 14000
+Microsoft,62,Product,215000,"Redmond, WA ",2021-05-06,0 , 3,150000 , 45000 , 20000
+PayPal,L24,Product,157000,"Chicago, IL ",2021-05-03,2 , 3,120000 , 25000 , 12000
+SAP,L2,Product,168000,"Palo Alto, CA ",2021-05-02,2 , 3,150000 , 1000 , 17000
+The Washington Post,N/A,Technical,149000,"Los Angeles, CA ",2021-04-30,1 , 3,135000 , N/A , 14000
+Amazon,Product Manager,Technical,159000,"San Francisco, CA ",2021-04-22,3 , 3,138000 , 21000 , N/A
+PayPal,T25,Technical,242000,"San Jose, CA ",2021-04-21,2 , 3,157000 , 70000 , 15000
+Workday,P3,Product,181000,"Pleasanton, CA ",2021-04-14,3 , 3,131000 , 50000 , 5000
+Wayfair,L2,Technical,107000,"Boston, MA ",2021-04-14,2 , 3,78000 , 21000 , 8000
+Microsoft,61,Product,200000,"Seattle, WA ",2021-04-14,3 , 3,132000 , 50000 , 18000
+Amazon,L6,Product,195000,"Seattle, WA ",2021-04-02,3 , 3,145000 , 25000 , 25000
+Goldman Sachs,Analyst,Product,120000,"Chicago, IL ",2021-04-01,0 , 3,110000 , N/A , 10000
+Flexport,Product Manager II,Product,260000,"San Francisco, CA ",2021-03-31,0 , 3,145000 , 100000 , 15000
+VMware,P3,Product,188000,"Palo Alto, CA ",2021-03-31,0 , 3,150000 , 20000 , 18000
+Microsoft,62,Technical,173000,"Redmond, WA ",2021-03-30,0 , 3,130000 , 30000 , 13000
+SAP,T3,Product,175000,"San Ramon, CA ",2021-03-28,3 , 3,140000 , 15000 , 20000
+Microsoft,60,Product,145000,"Redmond, WA ",2021-03-23,3 , 3,120000 , 9000 , 16000
+Facebook,L5 Product Manager,Product,361000,"San Francisco, CA ",2021-03-23,0 , 3,210000 , 121000 , 30000
+KPMG,Senior Associate,Product,90000,"New York, NY ",2021-03-16,3 , 3,82000 , N/A , 8000
+Amazon,L6,Product,211000,"San Francisco, CA ",2021-03-16,3 , 3,161000 , 32000 , 19000
+Mixpanel,L3,Product,176000,"San Francisco, CA ",2021-03-14,3 , 3,160000 , N/A , 16000
+ByteDance,2-1,Product,197000,"Mountain View, CA ",2021-03-13,0 , 3,145000 , 16000 , 36000
+Workday,P3,Product,205000,"Pleasanton, CA ",2021-03-10,3 , 3,130000 , 70000 , 5000
+JPMorgan Chase,601,Product,120000,"New York, NY ",2021-03-09,3 , 3,105000 , N/A , 15000
+Amazon,L5,Product,170000,"Seattle, WA ",2021-03-09,1 , 3,140000 , 30000 , N/A
+Rubrik,L6,Enterprise,155000,"Palo Alto, CA ",2021-03-08,3 , 3,130000 , 12000 , 13000
+Flatiron Health,L3,Internal,207000,"New York, NY ",2021-02-27,1 , 3,160000 , 27000 , 20000
+Google,L5,Consumer,305000,"Mountain View, CA ",2021-02-25,3 , 3,173000 , 99000 , 34000
+Ancestry,L2,Product,175000,"San Francisco, CA ",2021-02-24,3 , 3,145000 , 14000 , 16000
+15Five,L1,Product,100000,"San Francisco, CA ",2021-02-20,2 , 3,94000 , 2000 , N/A
+Microsoft,SDE II,Consumer,130000,"Seattle, WA ",2021-02-16,1 , 3,100000 , 20000 , 10000
+Microsoft,60,Product,170000,"Redmond, WA ",2021-02-04,1 , 3,118000 , 40000 , 12000
+Facebook,IC4,Product,294000,"Menlo Park, CA ",2021-02-01,1 , 3,165000 , 112000 , 17000
+Adobe,L4,Product,228000,"San Francisco, CA ",2021-01-26,3 , 3,165000 , 40000 , 20000
+Salesforce,Senior Product Manager,Product,293000,"San Francisco, CA ",2021-01-26,1 , 3,215000 , 45000 , 32000
+Reddit,L3,Monetization,221000,"New York, NY ",2021-01-25,1 , 3,150000 , 71000 , N/A
+,Product Manager,Product,90000,"Bellevue, WA ",2021-01-24,2 , 3,82000 , N/A , 8000
+Microsoft,62,Enterprise,225000,"Seattle, WA ",2021-01-22,3 , 3,145000 , 55000 , 25000
+Eightfold,L4,Enterprise,215000,"Mountain View, CA ",2021-01-21,1 , 3,165000 , 30000 , 20000
+TripActions,Product Manager II,Enterprise,227000,"Palo Alto, CA ",2021-01-16,0 , 3,170000 , 40000 , 17000
+Mastercard,L7,Product,133000,"Purchase, NY ",2021-01-14,3 , 3,111000 , 3000 , 19000
+IBM,Senior Offering Manager,Enterprise,157000,"Austin, TX ",2021-01-13,3 , 3,157000 , N/A , 2000
+Spotify,Product Manager,Mobile (iOS + Android),187000,"New York, NY ",2021-01-12,0 , 3,168000 , 19000 , N/A
+Oracle,IC-4,Product,138000,"Denver, CO ",2021-01-07,1 , 3,130000 , 8000 , N/A
+Cisco,9,Product,187000,"San Jose, CA ",2021-01-05,0 , 3,160000 , 17000 , 10000
+Grubhub,Senior Product Manager,Product,145000,"Chicago, IL ",2021-01-03,3 , 3,130000 , 15000 , N/A
+LinkedIn,Associate Product Manager,Enterprise,200000,"San Francisco, CA ",2020-12-29,3 , 3,145000 , 40000 , 15000
+Uber,L3,Product,185000,"San Francisco, CA ",2020-12-23,1 , 3,130000 , 40000 , 15000
+,L5,Product,122000,"New York, NY ",2020-12-12,1 , 3,100000 , 22000 , N/A
+Microsoft,61,Product,150000,"Redmond, WA ",2020-12-07,3 , 3,127000 , 7000 , 15000
+Google,L4,Enterprise,211000,"New York, NY ",2020-12-03,1 , 3,142000 , 48000 , 21000
+Square,Level 5,Growth,228000,"San Francisco, CA ",2020-11-25,0 , 3,160000 , 63000 , 5000
+Adobe,L3,iOS,230000,"San Francisco, CA ",2020-11-21,2 , 3,147000 , 60000 , 23000
+Laserfiche,2,Product,90000,"Long Beach, CA ",2020-11-17,3 , 3,90000 , N/A , 1000
+Sema4,L2,Enterprise,114000,"New York, NY ",2020-11-17,2 , 3,104000 , N/A , 10000
+Alibaba,P5,Growth,126000,"New York, NY ",2020-10-29,1 , 3,84000 , N/A , 42000
+Google,L4,Technical,236000,"Mountain View, CA ",2020-10-23,2 , 3,143000 , 72000 , 21000
+Ebay,L2,Product,120000,"San Jose, CA ",2020-10-20,3 , 3,120000 , N/A , 4000
+Google,L4,Product,235000,"San Bruno, CA ",2020-10-19,3 , 3,140000 , 68000 , 27000
+Mastercard,Senior Specialist,Product,140000,"New York, NY ",2020-10-17,1 , 3,120000 , N/A , 20000
+Microsoft,L61,Consumer,172000,"Sunnyvale, CA ",2020-10-12,1 , 3,140000 , 5000 , 28000
+Movable Ink,Senior,Product,160000,"New York, NY ",2020-10-11,3 , 3,160000 , N/A , N/A
+Microsoft,62,Product,185000,"Redmond, WA ",2020-09-30,1 , 3,143000 , 25000 , 18000
+Cisco,Grade 10,Product,214000,"San Jose, CA ",2020-09-27,0 , 3,160000 , 30000 , 24000
+Microsoft,59,Product,228000,"Redmond, WA ",2020-09-18,0 , 3,110000 , 43000 , 75000
+,Senior Product Manager,Product,212000,"New York, NY ",2020-09-17,1 , 3,150000 , 40000 , 22000
+Salesforce,Senior Product Manager,Product,223000,"Seattle, WA ",2020-09-16,0 , 3,180000 , 16000 , 27000
+IBM,Band 8,Technical,148000,"Austin, TX ",2020-09-02,3 , 3,148000 , N/A , N/A
+Goldman Sachs,Analyst,Product,121000,"Chicago, IL ",2020-08-30,0 , 3,110000 , N/A , 11000
+Adobe,L5,Product,286000,"San Francisco, CA ",2020-08-25,1 , 3,176000 , 84000 , 26000
+Microsoft,62,Product,200000,"Redmond, WA ",2020-08-21,3 , 3,145000 , 28000 , 27000
+BCG Digital Ventures,Product Manager,Product,127000,"New York, NY ",2020-08-20,1 , 3,120000 , 3000 , 5000
+Amazon,L6,Technical,225000,"Seattle, WA ",2020-08-19,3 , 3,145000 , 80000 , N/A
+Microsoft,60,Technical,165000,"Redmond, WA ",2020-08-19,1 , 3,120000 , 34000 , 12000
+Google,L3,Product,160000,"San Francisco, CA ",2020-08-19,3 , 3,120000 , 20000 , 20000
+WarnerMedia,L4,Consumer,154000,"New York, NY ",2020-08-18,0 , 3,140000 , N/A , 14000
+Two Sigma,L2,Data,265000,"New York, NY ",2020-08-04,1 , 3,180000 , N/A , 85000
+Facebook,L5 Product Manager,Specialist,295000,"San Francisco, CA ",2020-08-01,0 , 3,188000 , 80000 , 27000
+Amazon,L5,Supply Chain,145000,"Seattle, WA ",2020-07-24,3 , 3,100000 , 30000 , 15000
+NerdWallet,Product Manager,Full Stack,178000,"San Francisco, CA ",2020-07-20,0 , 3,160000 , 8000 , 10000
+Microsoft,L62,ML / AI,210000,"Redmond, WA ",2020-07-10,0 , 3,145000 , 38000 , 30000
+Amazon,L6,Product,193000,"Seattle, WA ",2020-07-06,2 , 3,133000 , 20000 , 40000
+Amazon,L6,Networking,193000,"Seattle, WA ",2020-07-05,2 , 3,133000 , 20000 , 40000
+Cisco,9,Networking,235000,"San Jose, CA ",2020-07-02,3 , 3,150000 , 55000 , 30000
+IBM,8,Systems,148000,"Austin, TX ",2020-06-29,3 , 3,148000 , N/A , N/A
+Vimeo,Senior,Full Stack,145000,"New York, NY ",2020-06-29,3 , 3,136000 , N/A , 9000
+Amazon,L5,Operations,150000,"Seattle, WA ",2020-06-28,0 , 3,122000 , 4000 , 24000
+Google,L4,Full Stack,237000,"Mountain View, CA ",2020-06-18,0 , 3,147000 , 68000 , 22000
+Facebook,IC4,Full Stack,233000,"San Francisco, CA ",2020-06-16,2 , 3,159000 , 58000 , 16000
+Blue Origin,L3,Full Stack,125000,"Kent, WA ",2020-06-02,2 , 3,125000 , N/A , N/A
+Facebook,IC5,Generalist,334000,"Menlo Park, CA ",2020-05-18,0 , 3,198000 , 106000 , 30000
+Uber,L4,ML / AI,140000,"San Francisco, CA ",2020-05-14,3 , 3,120000 , 10000 , 10000
+Autodesk,Product Manager,Analytics,206000,"San Francisco, CA ",2020-05-13,0 , 3,155000 , 25000 , 21000
+Lyft,L5,ML / AI,520000,"New York, NY ",2020-05-07,3 , 3,196000 , 324000 , N/A
+Citrix,IC2,Product Manager,141000,"Santa Clara, CA ",2020-05-05,2 , 3,121000 , 20000 , N/A
+Bird,PM,Growth,145000,"Los Angeles, CA ",2020-05-04,1 , 3,120000 , 20000 , 10000
+Google,L4,DevOps,192000,"New York, NY ",2020-05-04,0 , 3,137000 , 35000 , 20000
+App Annie,L4,Full Stack,190000,"San Francisco, CA ",2020-04-22,3 , 3,160000 , 15000 , 15000
+HubSpot,Product manager,N/A,135000,"Boston, MA ",2020-04-10,1 , 3,115000 , 20000 , N/A
+Expedia,L,Mobile (iOS + Android),145000,"Seattle, WA ",2020-03-31,1 , 3,130000 , N/A , 15000
+,PM1,API Development (Back-End),143000,"New York, NY ",2020-03-28,0.5 , 3,125000 , N/A , 18000
+IBM,Associate Offering Manager,Research,116000,"New York, NY ",2020-03-21,1 , 3,110000 , N/A , 6000
+Spotify,Senior PM,ML / AI,225000,"New York, NY ",2020-03-19,3 , 3,170000 , 45000 , 10000
+Sema4,L3,Full Stack,111000,"New York, NY ",2020-03-09,1.5 , 3,104000 , N/A , 7000
+Microsoft,60,Web Development (Front-End),140000,"Redmond, WA ",2020-02-29,3 , 3,120000 , 5000 , 15000
+Amazon,6,Last Mile,216000,"Seattle, WA ",2020-02-16,3 , 3,126000 , 90000 , N/A
+BlackRock,Associate,Technical Product Manager,130000,"New York, NY ",2020-02-07,1 , 3,120000 , N/A , 10000
+,Product Manager,Android,165000,"New York, NY ",2020-01-25,2 , 3,140000 , 30000 , N/A
+LinkedIn,IC3,Other,260000,"Sunnyvale, CA ",2020-01-25,1 , 3,164000 , 75000 , 20000
+DoorDash,P4,Mobile (iOS + Android),325000,"San Francisco, CA ",2020-01-23,1.5 , 3,175000 , 150000 , N/A
+Workday,Associate Product Manager,Tools,130000,"Pleasanton, CA ",2020-01-17,1 , 3,110000 , 15000 , 5000
+Facebook,IC4,,216000,"Menlo Park, CA ",2020-01-16,1 , 3,155000 , 45000 , 16000
+Salesforce,Senior Product Manager,Full Stack,200000,"New York, NY ",2020-01-09,6 , 3,180000 , N/A , 20000
+Google,PM1,Privacy,200000,"Sunnyvale, CA ",2020-01-06,3 , 3,150000 , 20000 , 30000
+Bridgewater Associates,APM,Product,145000,"Westport, CT ",2019-12-31,2 , 3,130000 , N/A , 15000
+Bloomberg,Software Engineer,Web Development (Front-End),135000,"New York, NY ",2019-12-23,5 , 3,135000 , N/A , N/A
+Amazon,L5,API Development (Back-End),185000,"Seattle, WA ",2019-12-16,2 , 3,122000 , 63000 , N/A
+Amazon,L5,Marketing,130000,"Seattle, WA ",2019-12-10,3 , 3,88000 , 42000 , N/A
+Uber,L3,Web Development (Front-End),255000,"San Francisco, CA ",2019-12-06,3 , 3,135000 , 100000 , 20000
+HubSpot,Product Manager,Security,145000,"Boston, MA ",2019-12-02,5 , 3,120000 , 25000 , N/A
+MassMutual,Mid,Product,140000,"New York, NY ",2019-11-28,3 , 3,100000 , N/A , 40000
+Walmart Global Tech,Associate Product Manager (X2),Full Stack,125000,"San Francisco, CA ",2019-11-24,1 , 3,105000 , 5000 , 15000
+Indeed,L2,ML / AI,180000,"Austin, TX ",2019-11-15,3 , 3,130000 , 30000 , 20000
+Facebook,L4 Product Manager,Full Stack,220000,"Menlo Park, CA ",2019-11-06,0 , 3,155000 , 50000 , 15000
+,L3,Mobile (iOS + Android),135000,"New York, NY ",2019-11-06,2 , 3,110000 , 7000 , 14000
+Visa,L3,API Development (Back-End),150000,"Foster City, CA ",2019-11-05,1 , 3,120000 , 18000 , 12000
+Amazon,L6,eCommerce,200000,"Seattle, WA ",2019-11-04,5 , 3,110000 , 90000 , N/A
+Amazon,L5,ML / AI,155000,"Seattle, WA ",2019-10-31,2 , 3,110000 , 25000 , 20000
+Apple,ICT4,ML / AI,280000,"Cupertino, CA ",2019-10-25,2 , 3,170000 , 90000 , 20000
+Netflix,Metadata Manager,Metadata,168000,"Los Gatos, CA ",2019-10-24,2 , 3,160000 , 8000 , N/A
+IBM,Product Manager,ML / AI,145000,"New York, NY ",2019-10-01,3 , 3,145000 , N/A , 2000
+Microsoft,61,Full Stack,163000,"Bellevue, WA ",2019-09-17,3 , 3,136000 , 9000 , 18000
+IBM,8,Offering management,146000,"New York, NY ",2019-09-13,3 , 3,142000 , N/A , 4000
+Goldman Sachs,Analyst,Cloud products,140000,"New York, NY ",2019-09-13,3 , 3,115000 , N/A , 25000
+Facebook,L5 Product Manager,Distributed Systems (Back-End),250000,"San Francisco, CA ",2019-08-14,0.5 , 3,,,
+Google,L4,ML / AI,196000,"Mountain View, CA ",2019-08-13,0 , 3,140000 , 35000 , 21000
+Microsoft,61,Full Stack,135000,"Redmond, WA ",2019-08-07,3 , 3,120000 , 4000 , 11000
+Zillow,P3,Web Development (Front-End),122000,"Seattle, WA ",2019-07-12,3 , 3,105000 , 20000 , N/A
+HubSpot,Product Manager,Prefer not to Say,105000,"Cambridge, MA ",2019-06-23,1 , 3,,,
+Google,L4,ML / AI,235000,"Mountain View, CA ",2019-06-14,0 , 3,147000 , 66000 , 22000
+Square,Level 5,Full Stack,268000,"San Francisco, CA ",2019-06-09,5 , 3,168000 , 100000 , N/A
+Google,L4,Cloud,190000,"Sunnyvale, CA ",2019-05-04,1 , 3,135000 , 35000 , 20000
+Amazon,L6,Full Stack,198000,"San Francisco, CA ",2019-04-01,1 , 3,,,
+Google,PM 3,Web Development (Front-End),500000,"Mountain View, CA ",2019-03-29,3 , 3,230000 , 220000 , 50000
+Google,L6,Other,500000,"Mountain View, CA ",2019-03-29,4 , 3,230000 , 200000 , 70000
+Addepar,PM,Full Stack,155000,"New York, NY ",2019-03-06,2 , 3,145000 , 10000 , N/A
+eBay,25,Product Management,230000,"Sunnyvale, CA ",2019-03-02,3 , 3,155000 , 60000 , 15000
+eBay,MTS 1,Product Management,230000,"Sunnyvale, CA ",2019-03-02,3 , 3,155000 , 60000 , 15000
+Snap,L3,Product Management,125000,"Los Angeles, CA ",2019-02-04,3 , 3,100000 , 23000 , 2000
+Microsoft,62,ML / AI,253000,"Berkeley, CA ",2019-01-18,0 , 3,154000 , 55000 , 45000
+Groupon,PM 2,Mobile (iOS + Android),150000,"Palo Alto, CA ",2019-01-15,3 , 3,,,
+Amazon,L6,DevOps,177000,"Seattle, WA ",2018-12-25,3 , 3,123000 , 54000 , N/A
+Tableau Software,Product Manager,Full Stack,220000,"Seattle, WA ",2018-12-18,3 , 3,120000 , 88000 , 12000
+Facebook,L4 Product Manager,Generalist,216000,"Menlo Park, CA ",2018-12-12,0 , 3,160000 , N/A , 160000
+NerdWallet,Product Manager,Product,160000,"San Francisco, CA ",2018-10-25,3 , 3,140000 , 20000 , N/A
+Foursquare,PM L2,Mobile (iOS + Android),105000,"New York, NY ",2018-10-10,4 , 3,105000 , N/A , N/A
+Workday,P2,Full Stack,120000,"Pleasanton, CA ",2018-10-04,1.5 , 3,120000 , 30000 , N/A
+,Staff,Distributed Systems (Back-End),103000,"New York, NY ",2018-10-01,1 , 3,103000 , N/A , N/A
+Amazon,L6,Product,180000,"Seattle, WA ",2018-09-29,0 , 3,,,
+Salesforce,Senior Product Manager,Product,210000,"San Francisco, CA ",2018-09-28,1 , 3,,,
+Wayfair,L2,Distributed Systems (Back-End),94000,"Boston, MA ",2018-09-24,1 , 3,80000 , 6000 , 8000
+Amazon,L6,User experience,200000,"Seattle, WA ",2018-09-11,1 , 3,142000 , 30000 , N/A
+Microsoft,61,Security,155000,"Seattle, WA ",2018-09-09,3 , 3,,,

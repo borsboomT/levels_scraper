@@ -1,0 +1,251 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Etsy,M3,ML / AI,479000,"New York, NY ",2022-03-09,4 , 12,243000 , 200000 , 36000
+Discovery,III,Full Stack,400000,"Seattle, WA ",2022-03-05,3 , 12,250000 , 100000 , 50000
+Tinder,M2,Distributed Systems (Back-End),606000,"San Francisco, CA ",2022-03-04,5 , 12,255000 , 300000 , 51000
+Salesforce,Director,Full Stack,361000,"San Francisco, CA ",2022-03-04,4 , 12,263000 , 45000 , 53000
+Amazon,L6,Distributed Systems (Back-End),450000,"Seattle, WA ",2022-03-04,10 , 12,240000 , 210000 , N/A
+Square,L6,Full Stack,471000,"Boston, MA ",2022-03-03,3 , 12,221000 , 250000 , N/A
+Microsoft,Principal EM,ML / AI,440000,"Seattle, WA ",2022-03-01,6 , 12,200000 , 150000 , 90000
+Facebook,M2,Infrastructure,980000,"Menlo Park, CA ",2022-02-26,6 , 12,295000 , 600000 , 85000
+Wayfair,L4,Full Stack,330000,"Mountain View, CA ",2022-02-25,0 , 12,200000 , 100000 , 30000
+Tesla,M3,Production,400000,"Fremont, CA ",2022-02-25,2 , 12,200000 , 150000 , 50000
+Grubhub,L4,Full Stack,300000,"Boston, MA ",2022-02-20,8 , 12,240000 , 60000 , N/A
+Lyft,T6,Full Stack,575000,"New York, NY ",2022-02-20,0 , 12,250000 , 275000 , 50000
+Twilio,L5,Distributed Systems (Back-End),542000,"Austin, TX ",2022-02-17,5 , 12,192000 , 350000 , N/A
+Microsoft,66,Full Stack,357000,"Redmond, WA ",2022-02-16,10 , 12,206000 , 96000 , 55000
+Flatiron Health,E5,Full Stack,330000,"New York, NY ",2022-02-15,3 , 12,210000 , 90000 , 30000
+Amazon,L6 SDM,ML / AI,350000,"Seattle, WA ",2022-02-14,10 , 12,160000 , 190000 , N/A
+Uber,EM 2,Full Stack,580000,"San Francisco, CA ",2022-02-11,6 , 12,230000 , 300000 , 50000
+Facebook,M2,Distributed Systems (Back-End),999000,"New York, NY ",2022-02-10,0 , 12,299000 , 625000 , 75000
+Goldman Sachs,Vice President,Cloud,280000,"New York, NY ",2022-02-09,9 , 12,165000 , 15000 , 100000
+Wise,L3,Distributed Systems (Back-End),225000,"New York, NY ",2022-02-08,3 , 12,195000 , 30000 , N/A
+Bloomberg,L1,API Development (Back-End),400000,"New York, NY ",2022-02-04,12 , 12,300000 , N/A , 100000
+Miro,65,Full Stack,280000,"Seattle, WA ",2022-02-04,8 , 12,200000 , 40000 , 40000
+Bloomberg,1,Data,275000,"New York, NY ",2022-02-03,6 , 12,225000 , N/A , 50000
+CrowdStrike,M2,Distributed Systems (Back-End),330000,"Seattle, WA ",2022-01-31,5 , 12,210000 , 100000 , 20000
+Marqeta,M3,Data,836000,"Oakland, CA ",2022-01-27,1 , 12,310000 , 425000 , 101000
+Microsoft,Senior Director,Full Stack,720000,"Redmond, WA ",2022-01-27,10 , 12,230000 , 380000 , 110000
+Zillow,Senior SDM,Security,258000,"Seattle, WA ",2022-01-27,2 , 12,183000 , 75000 , N/A
+Publicis Sapient,L5,Web Development (Front-End),196000,"Boston, MA ",2022-01-25,1 , 12,176000 , N/A , 20000
+Blink Health,M7,Full Stack,275000,"New York, NY ",2022-01-22,3 , 12,250000 , N/A , 25000
+Amazon,L6 SDM,DevOps,420000,"Boston, MA ",2022-01-22,0 , 12,160000 , 143000 , 117000
+Nvidia,IC5,Production,400000,"Seattle, WA ",2022-01-21,12 , 12,220000 , 180000 , N/A
+Teladoc Health,Sr. Engineering Manager,Full Stack,247000,"Purchase, NY ",2022-01-21,0 , 12,180000 , 40000 , 27000
+Expedia,M,API Development (Back-End),243000,"Seattle, WA ",2022-01-19,10 , 12,201000 , 42000 , N/A
+Bloomberg,Engineering Manager,Distributed Systems (Back-End),450000,"New York, NY ",2022-01-17,11 , 12,350000 , N/A , 100000
+Chegg,NA,Full Stack,252000,"Santa Clara, CA ",2022-01-15,5 , 12,192000 , 60000 , N/A
+Affirm,L8,Full Stack,630000,"Seattle, WA ",2022-01-13,0 , 12,240000 , 350000 , 40000
+Stripe,M1,Distributed Systems (Back-End),825000,"Seattle, WA ",2022-01-13,0 , 12,280000 , 414000 , 131000
+Salesforce,Senior Manager,DevOps,374000,"San Francisco, CA ",2022-01-05,7 , 12,230000 , 120000 , 24000
+Twilio,M4 (L5),Engineering,330000,"Denver, CO ",2022-01-01,2 , 12,180000 , 150000 , N/A
+Facebook,M1,Distributed Systems (Back-End),800000,"New York, NY ",2021-12-29,2 , 12,245000 , 500000 , 55000
+WarnerMedia,Senior Director,Full Stack,500000,"New York, NY ",2021-12-28,2 , 12,275000 , 150000 , 75000
+Amazon,L6 SDM,Full Stack,270000,"Seattle, WA ",2021-12-22,2 , 12,147000 , 51000 , 72000
+Cognizant,Manager,Full Stack,155000,"Jersey City, NJ ",2021-12-21,0 , 12,148000 , N/A , 7000
+Capital One,Senior Manager,Distributed Systems (Back-End),259000,"San Francisco, CA ",2021-12-16,1 , 12,234000 , N/A , 25000
+Altruist,Manager,API Development (Back-End),200000,"New York, NY ",2021-12-14,1 , 12,200000 , N/A , N/A
+Amazon,L7,Full Stack,550000,"Boston, MA ",2021-12-08,5 , 12,160000 , 390000 , N/A
+Indeed,L4,Full Stack,388000,"Austin, TX ",2021-12-02,4 , 12,190000 , 170000 , 28000
+Twilio,M5,Distributed Systems (Back-End),665000,"San Francisco, CA ",2021-12-01,7 , 12,265000 , 400000 , N/A
+Airbnb,M2,Data,770000,"San Francisco, CA ",2021-11-30,2 , 12,285000 , 400000 , 85000
+TripAdvisor,Senior Engineering Manager,Mobile (iOS + Android),360000,"Needham, MA ",2021-11-26,2 , 12,195000 , 140000 , 25000
+Walmart,Senior Manager 2,Full Stack,313000,"New York, NY ",2021-11-16,2 , 12,230000 , 25000 , 58000
+Facebook,M2,Distributed Systems (Back-End),1088000,"New York, NY ",2021-11-16,0 , 12,310000 , 700000 , 78000
+Amazon,L6,Full Stack,430000,"Seattle, WA ",2021-11-14,10 , 12,155000 , 275000 , N/A
+98point6,L4,Production,295000,"Seattle, WA ",2021-11-12,5 , 12,200000 , 95000 , N/A
+Microsoft,65,ML / AI,402000,"Seattle, WA ",2021-11-04,5 , 12,197000 , 150000 , 55000
+Visa,P2,Web,222000,"Foster City, CA ",2021-11-03,6 , 12,179000 , 12000 , 31000
+Carta,M6,API Development (Back-End),400000,"San Francisco, CA ",2021-11-02,0 , 12,250000 , 150000 , N/A
+Tempus,L3,Full Stack,185000,"Chicago, IL ",2021-11-02,4 , 12,145000 , 40000 , N/A
+Bazaarvoice,M9,Distributed Systems (Back-End),234000,"Austin, TX ",2021-10-29,2 , 12,195000 , N/A , 39000
+Amazon,L6 SDM,Distributed Systems (Back-End),338000,"Seattle, WA ",2021-10-28,8 , 12,153000 , 185000 , N/A
+Altimetrik,L5,Solution Architecture,160000,"Santa Clara, CA ",2021-10-22,5 , 12,150000 , 10000 , N/A
+IBM,Band 9,Testing (SDET),220000,"Austin, TX ",2021-10-20,4 , 12,190000 , 20000 , 10000
+Twilio,Director of Engineering (L6),Distributed Systems (Back-End),750000,"San Francisco, CA ",2021-10-17,7 , 12,270000 , 480000 , N/A
+Squarespace,L5,API Development (Back-End),218000,"New York, NY ",2021-10-07,4 , 12,210000 , 8000 , N/A
+Oracle,M3,Distributed Systems (Back-End),475000,"Seattle, WA ",2021-10-05,3 , 12,185000 , 280000 , 10000
+Goldman sachs,Managing director,Distributed Systems (Back-End),650000,"New York, NY ",2021-09-25,12 , 12,230000 , 200000 , 220000
+Microsoft,65,Cloud,281000,"Redmond, WA ",2021-09-24,2 , 12,198000 , 45000 , 38000
+Varian Medical Systems,M,Full Stack,173000,"Palo Alto, CA ",2021-09-24,9 , 12,160000 , 10000 , 3000
+IBM,Band 9,DevOps,202000,"New York, NY ",2021-09-24,2 , 12,202000 , N/A , N/A
+Facebook,M2,Distributed Systems (Back-End),970000,"Seattle, WA ",2021-09-20,0 , 12,280000 , 525000 , 165000
+Deloitte,Manager,Full Stack,140000,"Seattle, WA ",2021-09-19,6 , 12,125000 , N/A , 15000
+Square,L6,Full Stack,485000,"San Francisco, CA ",2021-09-14,0 , 12,235000 , 250000 , N/A
+Accenture,Associate Manager,Testing (SDET),118000,"San Francisco, CA ",2021-09-07,12 , 12,114000 , 2000 , 2000
+Salesforce,Director,Full Stack,380000,"San Francisco, CA ",2021-09-06,6 , 12,235000 , 100000 , 45000
+Nielsen,L7,Distributed Systems (Back-End),217000,"Boston, MA ",2021-09-04,5 , 12,175000 , 15000 , 27000
+Expedia,M,ML / AI,222000,"Seattle, WA ",2021-09-03,7 , 12,172000 , 50000 , N/A
+Amazon,6,Operating Systems,330000,"Seattle, WA ",2021-09-01,5 , 12,160000 , 170000 , N/A
+Oracle,M2,Web Development (Front-End),293000,"Redwood City, CA ",2021-08-23,10 , 12,180000 , 113000 , N/A
+Apple,M2,AR/VR,570000,"Sunnyvale, CA ",2021-08-21,8 , 12,220000 , 300000 , 50000
+Amazon,L6 SDM,Distributed Systems (Back-End),400000,"Seattle, WA ",2021-08-17,1 , 12,160000 , 135000 , 105000
+Amazon,L5 SDM,Full Stack,240000,"Seattle, WA ",2021-08-02,4 , 12,145000 , 95000 , N/A
+Twitter,Staff SWE,Site Reliability (SRE),606000,"San Francisco, CA ",2021-08-02,1 , 12,265000 , 275000 , 66000
+Optum,29,Distributed Systems (Back-End),176000,"Austin, TX ",2021-07-31,3 , 12,156000 , 2000 , 18000
+Amazon,L6 SDM,Distributed Systems (Back-End),325000,"Seattle, WA ",2021-07-27,7 , 12,160000 , 165000 , N/A
+Facebook,M2,ML / AI,1098000,"Redmond, WA ",2021-07-26,2 , 12,278000 , 750000 , 70000
+Amazon,L5 SDM,Full Stack,340000,"Seattle, WA ",2021-07-24,1 , 12,160000 , 30000 , 150000
+Adobe,M3,Mobile (iOS + Android),340000,"San Jose, CA ",2021-07-23,10 , 12,210000 , 100000 , 30000
+KKR & Co,Principal,Full Stack,350000,"New York, NY ",2021-06-23,7 , 12,175000 , 70000 , 105000
+Cornerstone OnDemand,Associate Engineering Manager,Distributed Systems (Back-End),236000,"Santa Monica, CA ",2021-06-19,4 , 12,160000 , 60000 , 16000
+Microsoft,64,Full Stack,202000,"Redmond, WA ",2021-06-17,12 , 12,165000 , 7000 , 30000
+Indeed,L5,Other,730000,"Seattle, WA ",2021-06-14,3 , 12,280000 , 400000 , 50000
+Amazon,L6 SDM,Distributed Systems (Back-End),420000,"Austin, TX ",2021-06-11,0 , 12,160000 , 100000 , 160000
+Amazon,L6 SDM,API Development (Back-End),500000,"Seattle, WA ",2021-06-09,3 , 12,160000 , 340000 , N/A
+Oracle,M3,Full Stack,435000,"Seattle, WA ",2021-06-07,1 , 12,220000 , 215000 , N/A
+Netflix,Engineering Manager,Web Development (Front-End),600000,"Los Gatos, CA ",2021-06-04,1 , 12,600000 , N/A , N/A
+Brex,L5,Distributed Systems (Back-End),615000,"San Francisco, CA ",2021-05-19,0 , 12,300000 , 315000 , N/A
+TripAdvisor,L6,Android,289000,"Needham, MA ",2021-05-09,2 , 12,204000 , 50000 , 35000
+Microsoft,65,Data,311000,"Redmond, WA ",2021-05-07,12 , 12,181000 , 80000 , 50000
+Morgan Stanley,Vice President,Front end,260000,"New York, NY ",2021-05-06,4 , 12,180000 , N/A , 80000
+Argo AI,L6,Distributed Systems (Back-End),490000,"Palo Alto, CA ",2021-05-06,3 , 12,250000 , 190000 , 50000
+Salesforce,Senior Manager,Distributed Systems (Back-End),435000,"Seattle, WA ",2021-04-24,0 , 12,250000 , 150000 , 35000
+BlackRock,VP,Distributed Systems (Back-End),202000,"New York, NY ",2021-04-21,7 , 12,173000 , N/A , 29000
+Wayfair,L4,Full Stack,386000,"Boston, MA ",2021-04-21,2 , 12,170000 , 190000 , 26000
+Samsung,L6,Full Stack,216000,"Bellevue, WA ",2021-04-16,4 , 12,180000 , N/A , 36000
+Bloomberg,None,Full Stack,400000,"New York, NY ",2021-04-15,5 , 12,300000 , N/A , 100000
+Autodesk,M4,Web Development (Front-End),290000,"Austin, TX ",2021-04-13,6 , 12,220000 , 26000 , 45000
+Oracle,M2,Distributed Systems (Back-End),230000,"Redwood City, CA ",2021-04-12,3 , 12,170000 , 60000 , N/A
+Salesforce,6,Full Stack,284000,"Seattle, WA ",2021-04-11,6 , 12,209000 , 43000 , 32000
+Capital One,Master Software Eng,Distributed Systems (Back-End),215000,"New York, NY ",2021-04-09,5 , 12,180000 , 15000 , 20000
+Stripe,M1,Distributed Systems (Back-End),692000,"San Francisco, CA ",2021-04-06,0 , 12,281000 , 353000 , 57000
+Amazon,L6,ML / AI,480000,"Seattle, WA ",2021-03-31,8 , 12,160000 , 320000 , N/A
+MobileIron,M1,Full Stack,240000,"San Francisco, CA ",2021-03-30,4 , 12,200000 , 10000 , 30000
+Airbnb,L6,Security,605000,"San Francisco, CA ",2021-03-29,1 , 12,265000 , 295000 , 45000
+Facebook,M2,Distributed Systems (Back-End),965000,"Seattle, WA ",2021-03-23,3 , 12,260000 , 640000 , 65000
+Virtu Financial,Infra Manager,DevOps,205000,"Chicago, IL ",2021-03-10,5 , 12,150000 , N/A , 55000
+Salesforce,Manager,Full Stack,245000,"Bellevue, WA ",2021-03-10,6 , 12,200000 , 15000 , 30000
+Amazon,L6,API Development (Back-End),325000,"Austin, TX ",2021-03-03,1 , 12,160000 , 50000 , 115000
+Amazon,L6,Distributed Systems (Back-End),325000,"Austin, TX ",2021-03-03,1 , 12,160000 , 115000 , 50000
+Amazon,L6 SDM,Full Stack,386000,"Seattle, WA ",2021-02-28,0 , 12,160000 , 126000 , 100000
+Capital One,Lead Software Engineer,Full Stack,235000,"San Francisco, CA ",2021-02-19,5 , 12,208000 , 4000 , 25000
+Discovery,SDM2,Mobile (iOS + Android),217000,"New York, NY ",2021-02-01,3 , 12,180000 , 10000 , 27000
+JPMorgan Chase,603,Full Stack,196000,"New York, NY ",2021-01-19,12 , 12,161000 , N/A , 35000
+Bank of America Merrill Lynch,L6,Full Stack,330000,"New York, NY ",2021-01-18,7 , 12,250000 , 20000 , 60000
+Amazon,L6 SDM,Distributed Systems (Back-End),420000,"Sunnyvale, CA ",2021-01-15,10 , 12,170000 , 150000 , 100000
+Cornerstone OnDemand,Sr Development Manager,Full Stack,222000,"Santa Monica, CA ",2021-01-11,9 , 12,165000 , 40000 , 17000
+Amazon,L6 SDM,Distributed Systems (Back-End),394000,"San Francisco, CA ",2020-12-24,0 , 12,176000 , 121000 , 97000
+Google,Manager (L6),Web Development (Front-End),519000,"San Francisco, CA ",2020-12-15,0 , 12,223000 , 250000 , 46000
+Goldman Sachs,Executive Director / Vice-President,Full Stack,425000,"New York, NY ",2020-12-07,4 , 12,225000 , 100000 , 100000
+Amazon,L6 SDM,Distributed Systems (Back-End),380000,"Seattle, WA ",2020-11-30,2 , 12,160000 , 150000 , 72000
+Box,manager,Distributed Systems (Back-End),380000,"Redwood City, CA ",2020-11-23,3 , 12,250000 , 130000 , N/A
+Invitae,Director,Software,350000,"New York, NY ",2020-11-12,2 , 12,250000 , 100000 , N/A
+Okta,L5,Full Stack,380000,"San Francisco, CA ",2020-10-31,4 , 12,230000 , 115000 , 35000
+Adobe,M3,Full Stack,320000,"San Francisco, CA ",2020-10-25,9 , 12,192000 , 100000 , 28000
+UBER,L5B,Distributed Systems (Back-End),545000,"Seattle, WA ",2020-10-22,0 , 12,240000 , 260000 , 45000
+Wayfair,L3,Data,219000,"Boston, MA ",2020-10-14,1 , 12,155000 , 48000 , 16000
+Microsoft,66,Site Reliability (SRE),350000,"Seattle, WA ",2020-10-12,10 , 12,220000 , 80000 , 55000
+Cisco,Grade 12,Sales,300000,"Chicago, IL ",2020-10-12,5 , 12,195000 , 40000 , 65000
+Adobe,Engineering Manager 3,Full Stack,285000,"San Jose, CA ",2020-10-05,8 , 12,205000 , 50000 , 30000
+Opendoor,M3,Full Stack,440000,"San Francisco, CA ",2020-10-03,1 , 12,215000 , 225000 , N/A
+Facebook,M1,Mobile (iOS + Android),538000,"New York, NY ",2020-10-02,0 , 12,240000 , 250000 , 48000
+Cruise,Senior Engineering Manager,Security,586000,"Seattle, WA ",2020-09-24,0 , 12,240000 , 250000 , 96000
+Amazon,L6,Full Stack,285000,"Seattle, WA ",2020-09-23,6 , 12,145000 , 140000 , N/A
+bcg,L5,Full Stack,250000,"Seattle, WA ",2020-09-18,3 , 12,197000 , N/A , 53000
+Facebook,M1,Full Stack,557000,"Menlo Park, CA ",2020-09-10,0 , 12,235000 , 275000 , 47000
+Amazon,L6 SDM,Full Stack,336000,"Seattle, WA ",2020-09-07,1 , 12,153000 , 75000 , 108000
+Amazon,L6,Full Stack,359000,"Bellevue, WA ",2020-09-06,0 , 12,152000 , 22000 , 190000
+,M4,Full Stack,305000,"New York, NY ",2020-09-06,4 , 12,205000 , 40000 , 60000
+Nordstrom,18,Data,225000,"Seattle, WA ",2020-09-01,3 , 12,175000 , N/A , 50000
+Google,L5,Site Reliability (SRE),368000,"Sunnyvale, CA ",2020-08-28,1 , 12,189000 , 151000 , 28000
+Wayfair,L4,API Development (Back-End),393000,"Boston, MA ",2020-08-22,2 , 12,165000 , 204000 , 25000
+Autodesk,Sr. Principal Engineer/SW Architect,Full Stack,302000,"San Francisco, CA ",2020-08-21,0 , 12,210000 , 50000 , 42000
+Microsoft,66,Full Stack,422000,"Redmond, WA ",2020-08-19,12 , 12,208000 , 147000 , 67000
+Sojern,L4,Distributed Systems (Back-End),210000,"San Francisco, CA ",2020-08-18,3 , 12,180000 , N/A , 30000
+Microsoft,66,Full Stack,442000,"Seattle, WA ",2020-08-18,10 , 12,200000 , 188000 , 54000
+Twilio,L6,Full Stack,375000,"Denver, CO ",2020-08-17,3 , 12,175000 , 200000 , N/A
+Amazon,L7,DevOps,725000,"New York, NY ",2020-08-11,2 , 12,185000 , 340000 , 200000
+Adobe,L3,Customer Success Engineering,345000,"San Francisco, CA ",2020-08-05,9 , 12,192000 , 125000 , 28000
+AT&T,L2,Full Stack,200000,"Middletown, NJ ",2020-08-04,6 , 12,170000 , N/A , 30000
+Comcast,L6,Distributed Systems (Back-End),230000,"Denver, CO ",2020-08-03,3 , 12,185000 , 15000 , 30000
+Nvidia,M3,Distributed Systems (Back-End),330000,"Santa Clara, CA ",2020-07-23,9 , 12,250000 , 80000 , N/A
+Blizzard Entertainment,Technical Lead,Full Stack,130000,"Irvine, CA ",2020-07-17,12 , 12,115000 , N/A , 20000
+Nvidia,M4,Hardware,420000,"Santa Clara, CA ",2020-07-13,10 , 12,245000 , 175000 , N/A
+Unity Technologies,L7,Testing (SDET),194000,"Bellevue, WA ",2020-06-28,4 , 12,182000 , 12000 , N/A
+Workday,P5,Security,350000,"Pleasanton, CA ",2020-06-18,2 , 12,200000 , 130000 , 20000
+Google,L6,Full Stack,526000,"Mountain View, CA ",2020-06-16,0 , 12,230000 , 250000 , 46000
+Amazon,L6 SDM,Full Stack,320000,"San Francisco, CA ",2020-06-11,8 , 12,175000 , 145000 , N/A
+google,l4,Networking,260000,"San Francisco, CA ",2020-06-03,7 , 12,210000 , 30000 , 20000
+Amazon,L6,Distributed Systems (Back-End),343000,"Seattle, WA ",2020-05-28,4 , 12,160000 , 183000 , N/A
+Amazon,L6,Full Stack,350000,"Seattle, WA ",2020-05-28,1 , 12,158000 , 190000 , 1000
+Doximity,L3,Web Development (Front-End),150000,"San Francisco, CA ",2020-05-27,6 , 12,135000 , 5000 , 10000
+Microsoft,65,SAP,255000,"Redmond, WA ",2020-05-21,1 , 12,183000 , 36000 , 36000
+Twilio,L5,Distributed Systems (Back-End),270000,"Denver, CO ",2020-05-20,3 , 12,170000 , 100000 , N/A
+,Engineering Manager,Full Stack,230000,"Chicago, IL ",2020-05-19,8 , 12,160000 , 40000 , 30000
+Google,L7,Full Stack,700000,"Mountain View, CA ",2020-05-18,2 , 12,275000 , 350000 , 75000
+Circle,Senior,Distributed Systems (Back-End),200000,"New York, NY ",2020-05-12,3 , 12,195000 , 5000 , N/A
+Oracle,M3,Mobile (iOS + Android),175000,"Redwood City, CA ",2020-05-10,4 , 12,150000 , 25000 , N/A
+Amazon,L6,Android,373000,"Seattle, WA ",2020-05-06,0 , 12,160000 , 125000 , 88000
+DTCC,Associate Director,Risk Technology,185000,"Jersey City, NJ ",2020-04-26,2 , 12,140000 , N/A , 40000
+Expedia,Senior Software Development Manager,Distributed Systems (Back-End),238000,"Seattle, WA ",2020-04-25,1 , 12,177000 , 30000 , 31000
+Facebook,M1,API Development (Back-End),588000,"Menlo Park, CA ",2020-04-20,0 , 12,240000 , 300000 , 48000
+Facebook,E6,Full Stack,588000,"Menlo Park, CA ",2020-04-15,0 , 12,240000 , 300000 , 48000
+Morgan Stanley,Vice President,Security,170000,"New York, NY ",2020-04-02,7 , 12,145000 , N/A , 25000
+Microsoft,65,Full Stack,280000,"Seattle, WA ",2020-03-07,9 , 12,190000 , 48000 , 40000
+Amazon,L6 SDM,API Development (Back-End),340000,"Seattle, WA ",2020-02-20,5 , 12,160000 , 180000 , N/A
+McKinsey,Engagement Manager,Distributed Systems (Back-End),253000,"Boston, MA ",2020-02-18,3 , 12,165000 , N/A , 88000
+Salesforce,Senior Manager,Testing (SDET),270000,"Burlington, MA ",2020-02-15,5 , 12,196000 , 50000 , 25000
+Autodesk,Grade 13,DevOps,185000,"San Francisco, CA ",2020-02-05,4 , 12,133000 , 30000 , 19000
+Comcast,Director,DevOps,246000,"Denver, CO ",2020-02-03,2 , 12,195000 , 12000 , 39000
+Facebook,M1,API Development (Back-End),575000,"Seattle, WA ",2020-02-02,0 , 12,230000 , 300000 , 46000
+Linkedin,M1,Distributed Systems (Back-End),500000,"Sunnyvale, CA ",2020-01-22,3 , 12,230000 , 230000 , 40000
+Cisco,Senior Manager,Full Stack,260000,"Boston, MA ",2020-01-17,8 , 12,180000 , 30000 , 50000
+Google,L7,Distributed Systems (Back-End),676000,"Mountain View, CA ",2020-01-13,9 , 12,287000 , 280000 , 105000
+General Motors,L8,API Development (Back-End),190000,"Austin, TX ",2020-01-11,7 , 12,168000 , N/A , 22000
+Facebook,M1,VR,563000,"Redmond, WA ",2019-12-30,1 , 12,240000 , 275000 , 48000
+Amazon,L6 SDM,Distributed Systems (Back-End),360000,"Seattle, WA ",2019-12-24,1 , 12,160000 , 100000 , 100000
+Autodesk,Grade 14,Security,270000,"San Francisco, CA ",2019-12-15,4.5 , 12,178000 , 60000 , 32000
+,L5,SRE,195000,"San Francisco, CA ",2019-12-10,6 , 12,175000 , N/A , 20000
+Linkedin,Senior,Full Stack,650000,"Sunnyvale, CA ",2019-12-09,3 , 12,265000 , 330000 , 55000
+Uber,EM 2,Full Stack,520000,"San Francisco, CA ",2019-12-05,0 , 12,225000 , 255000 , 35000
+Microsoft,65,Full Stack,310000,"Seattle, WA ",2019-11-27,12 , 12,195000 , 55000 , 60000
+AT&T,Principal Member of Technical Staff,Full Stack,200000,"Middletown, NJ ",2019-11-16,4 , 12,170000 , N/A , 30000
+Microsoft,64,Full Stack,270000,"Redmond, WA ",2019-10-31,12 , 12,170000 , 70000 , 30000
+Amazon,Software Dev Manager,Distributed Systems (Back-End),280000,"Seattle, WA ",2019-10-04,5 , 12,160000 , 120000 , N/A
+Magic Leap,Director,ML / AI,780000,"Sunnyvale, CA ",2019-09-08,4 , 12,270000 , 350000 , 160000
+Microsoft,66,ML / AI,400000,"San Francisco, CA ",2019-09-08,0 , 12,235000 , 125000 , 40000
+Amazon,L5 SDM,API Development (Back-End),298000,"Sunnyvale, CA ",2019-08-24,3.5 , 12,178000 , 120000 , N/A
+Yahoo,IC5,Distributed Systems (Back-End),250000,"Sunnyvale, CA ",2019-08-15,5 , 12,180000 , 50000 , 20000
+PayPal,T26,Full Stack,301000,"San Jose, CA ",2019-08-10,2 , 12,210000 , 61000 , 30000
+Tesla,Engineering Manager,Emended,265000,"Palo Alto, CA ",2019-07-31,4 , 12,192000 , 75000 , N/A
+Amazon,L6 SDM,Distributed Systems (Back-End),425000,"Seattle, WA ",2019-07-19,7 , 12,160000 , 265000 , N/A
+Marqeta,Engineering Manager,API Development (Back-End),195000,"Oakland, CA ",2019-07-07,4 , 12,,,
+SAP Concur,SDM 3,Mobile (iOS + Android),230000,"Bellevue, WA ",2019-06-26,2 , 12,150000 , 60000 , 20000
+Microsoft,65,Distributed Systems (Back-End),250000,"Seattle, WA ",2019-06-23,3 , 12,175000 , 50000 , 25000
+JPMorgan Chase,Vice President,API Development (Back-End),161000,"Jersey City, NJ ",2019-06-16,5 , 12,151000 , N/A , 10000
+Salesforce,Senior Director,Full Stack,388000,"Bellevue, WA ",2019-06-15,2 , 12,230000 , 100000 , 58000
+Intel,Grade 7,Full Stack,190000,"Santa Clara, CA ",2019-06-11,5 , 12,160000 , 15000 , 12000
+Facebook,M1,Full Stack,514000,"New York, NY ",2019-06-11,1 , 12,220000 , 250000 , 44000
+Microsoft,65,ML / AI,250000,"Bellevue, WA ",2019-05-24,12 , 12,,,
+Grubhub,Director,Full Stack,350000,"Chicago, IL ",2019-05-21,2 , 12,200000 , 150000 , N/A
+LinkedIn,Senior Engineering Manager,Full Stack,700000,"Sunnyvale, CA ",2019-05-05,4.5 , 12,245000 , 405000 , 50000
+Microsoft,65,Distributed Systems (Back-End),325000,"Redmond, WA ",2019-04-26,10 , 12,183000 , 107000 , 35000
+VMware,Development Manager,Distributed Systems (Back-End),285000,"Palo Alto, CA ",2019-03-26,0 , 12,200000 , 50000 , 35000
+Pinterest,L6,Full Stack,840000,"San Francisco, CA ",2019-03-25,6 , 12,240000 , 600000 , N/A
+Google,L6,ML / AI,550000,"Mountain View, CA ",2019-03-21,5 , 12,210000 , 280000 , 60000
+Microsoft,65,DevOps,341000,"Seattle, WA ",2019-03-21,8 , 12,196000 , 85000 , 60000
+Microsoft,65,DevOps,340000,"Seattle, WA ",2019-03-21,8 , 12,195000 , 85000 , 60000
+Apple,ICT4,Distributed Systems (Back-End),250000,"Sunnyvale, CA ",2019-03-19,3.5 , 12,180000 , 60000 , 20000
+Amazon,L6 SDM,Distributed Systems (Back-End),385000,"Seattle, WA ",2019-03-17,5 , 12,160000 , 225000 , N/A
+Snap,LM,DevOps,230000,"Los Angeles, CA ",2019-02-05,3 , 12,,,
+Amazon,L6,Distributed Systems (Back-End),415000,"San Francisco, CA ",2019-01-26,4 , 12,175000 , 240000 , N/A
+Amazon,L6 SDM,Distributed Systems (Back-End),320000,"Seattle, WA ",2019-01-22,5 , 12,160000 , 160000 , N/A
+Microsoft,65,Web Development (Front-End),300000,"Bellevue, WA ",2019-01-11,12 , 12,200000 , 50000 , 50000
+Cisco,Grade 12,DevOps,275000,"San Jose, CA ",2019-01-11,10 , 12,175000 , 55000 , 45000
+Amazon,L6,Mobile (iOS + Android),325000,"San Francisco, CA ",2019-01-09,6 , 12,,,
+Workday,M2,Full Stack,220000,"Pleasanton, CA ",2018-12-27,4 , 12,180000 , 20000 , 20000
+Amazon,L6 SDM,Full Stack,240000,"Seattle, WA ",2018-12-17,3 , 12,180000 , 30000 , 30000
+Amazon,L6 SDM,Networking,390000,"Seattle, WA ",2018-11-28,5 , 12,160000 , 180000 , 40000
+T. Rowe Price,L5,Full Stack,260000,"New York, NY ",2018-11-18,2 , 12,200000 , N/A , 60000
+Dropbox,M4,Distributed Systems (Back-End),500000,"San Francisco, CA ",2018-11-12,3 , 12,207000 , 250000 , 45000
+Uber,6,Security,460000,"San Francisco, CA ",2018-11-10,2 , 12,,,
+T. Rowe Price,EM,Distributed Systems (Back-End),260000,"New York, NY ",2018-11-01,2 , 12,200000 , N/A , 60000
+Capital One,Senior Manager,API Development (Back-End),240000,"San Francisco, CA ",2018-10-31,3 , 12,,,
+Ticketmaster,Senior Director,DevOps,340000,"Los Angeles, CA ",2018-10-31,5 , 12,238000 , 44000 , 60000
+Facebook,M2,ML / AI,950000,"New York, NY ",2018-10-31,1 , 12,,,
+Netflix,Manager,Distributed Systems (Back-End),500000,"Los Gatos, CA ",2018-10-12,3 , 12,500000 , N/A , N/A
+Uber,5,Distributed Systems (Back-End),500000,"Palo Alto, CA ",2018-10-07,3 , 12,180000 , 300000 , 22000
+Apple,M2,API Development (Back-End),340000,"Cupertino, CA ",2018-09-29,4 , 12,180000 , 140000 , 20000
+eBay,MTS 2,Full Stack,360000,"San Jose, CA ",2018-09-29,8 , 12,210000 , 120000 , 30000
+Yahoo,M5,Distributed Systems (Back-End),463000,"Sunnyvale, CA ",2018-09-27,12 , 12,253000 , 150000 , 60000
+Yahoo,Director,Distributed Systems (Back-End),450000,"Sunnyvale, CA ",2018-09-27,12 , 12,250000 , 150000 , 50000

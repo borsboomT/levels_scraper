@@ -1,0 +1,60 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Amazon,L6,,237000,"Seattle, WA ",2022-03-08,3 , 10,128000 , 109000 , N/A
+Spotify,L4,General,105000,"New York, NY ",2022-02-23,4 , 10,105000 , N/A , N/A
+Google,L6,Partnership Manager,300000,"Sunnyvale, CA ",2022-02-21,5 , 10,200000 , 50000 , 50000
+Amazon,L5,Advertising,186000,"New York, NY ",2022-02-11,1 , 10,138000 , 38000 , 10000
+Amazon,L7,"Retail, e-commerce",300000,"Seattle, WA ",2022-02-11,4 , 10,160000 , 140000 , N/A
+Salesforce,L4,Tableau,220000,"San Francisco, CA ",2022-02-05,0 , 10,150000 , 5000 , 65000
+Facebook,IC5,In Market,260000,"New York, NY ",2022-02-04,5 , 10,170000 , 35000 , 55000
+Amazon,L7,Sales Operations,290000,"Seattle, WA ",2022-02-01,4 , 10,160000 , 130000 , N/A
+Amazon,L5,DSP,180000,"Palo Alto, CA ",2022-01-31,2 , 10,110000 , 50000 , 20000
+Amazon,L5,General,165000,"Seattle, WA ",2022-01-24,10 , 10,85000 , 40000 , 40000
+Google,L7,Cloud,480000,"Sunnyvale, CA ",2022-01-22,2 , 10,205000 , 70000 , 205000
+Google,L6,Google Cloud,388000,"New York, NY ",2021-12-19,3 , 10,187000 , 77000 , 124000
+Google,L6,Ad Sales,407000,"New York, NY ",2021-12-17,10 , 10,187000 , 80000 , 140000
+LinkedIn,L2,Advertising,254000,"San Francisco, CA ",2021-12-13,7 , 10,127000 , N/A , 127000
+Salesforce,L7,Pre-sales,243000,"Boston, MA ",2021-12-13,3 , 10,156000 , 20000 , 67000
+Amazon,L6,sales,352000,"San Francisco, CA ",2021-12-12,0 , 10,172000 , 50000 , 130000
+Google,L6,LCS,353000,"Boston, MA ",2021-12-08,8 , 10,147000 , 99000 , 107000
+Qualtrics,Director of Engineering,General,275000,"Chicago, IL ",2021-11-21,0 , 10,200000 , 25000 , 50000
+Google,L5,Programmatic/platforms,285000,"New York, NY ",2021-11-16,8 , 10,161000 , 31000 , 93000
+Microsoft,66,Account,560000,"Austin, TX ",2021-11-15,6 , 10,200000 , 110000 , 250000
+Google,L5,Cloud Sales,249000,"Seattle, WA ",2021-11-14,1 , 10,151000 , 75000 , 23000
+Google,L5,general,251000,"New York, NY ",2021-11-05,1 , 10,175000 , 50000 , 26000
+American Airlines,L4,Account Manager,91000,"Los Angeles, CA ",2021-11-02,3 , 10,86000 , N/A , 5000
+Amazon,L6,Account Management,208000,"Seattle, WA ",2021-11-02,4 , 10,101000 , 107000 , N/A
+Accenture,6,Market Development,235000,"Seattle, WA ",2021-11-01,0 , 10,195000 , 10000 , 30000
+,L5,Alliances,210000,"Seattle, WA ",2021-10-29,1 , 10,160000 , 12000 , 38000
+,M5,Sales,220000,"New York, NY ",2021-10-26,2 , 10,150000 , 50000 , 20000
+Cloudera,IC5,Big Data,298000,"Santa Clara, CA ",2021-10-22,7 , 10,169000 , 73000 , 56000
+LiveRamp,C4,General,177000,"New York, NY ",2021-10-12,2 , 10,140000 , 7000 , 30000
+Amazon,L6,General,226000,"Seattle, WA ",2021-09-23,3 , 10,114000 , 112000 , N/A
+Sift,IC4,Enterprise,300000,"San Francisco, CA ",2021-09-21,1 , 10,144000 , 95000 , 62000
+Amazon,L6,Enterprise,326000,"Chicago, IL ",2021-09-21,2 , 10,125000 , 143000 , 58000
+Apple,Support 3,Retail,42000,"Ontario, CA ",2021-09-09,6 , 10,40000 , 2000 , N/A
+Collective Health,L6,Strategy,500000,"San Francisco, CA ",2021-07-23,2 , 10,225000 , 50000 , 225000
+Salesforce,L7,General,260000,"Chicago, IL ",2021-07-23,1 , 10,130000 , N/A , 130000
+Adobe,L5,Sales,388000,"New York, NY ",2021-07-08,2 , 10,191000 , 75000 , 122000
+Amazon,L5,,116000,"Seattle, WA ",2021-06-30,1 , 10,94000 , 22000 , N/A
+LinkedIn,RM3,Software,260000,"San Francisco, CA ",2021-05-10,2 , 10,124000 , N/A , 140000
+Cisco,9,Sales,220000,"New York, NY ",2021-04-30,10 , 10,110000 , N/A , 110000
+Amazon,L7,Sales,405000,"Seattle, WA ",2021-04-14,4 , 10,135000 , 135000 , 135000
+Instacart,L1,Customer success,125000,"San Francisco, CA ",2021-03-26,0 , 10,105000 , 20000 , N/A
+Box,L3,Sales,290000,"Chicago, IL ",2021-03-16,2 , 10,130000 , 30000 , 130000
+Amazon,L7,Sales,450000,"San Francisco, CA ",2021-03-07,8 , 10,185000 , 142000 , 123000
+Renesas Electronics,L4,Strategic accounts,185000,"Milpitas, CA ",2021-03-05,4 , 10,110000 , 15000 , 60000
+,Senior Director,Mobile (iOS + Android),275000,"New York, NY ",2020-11-12,1 , 10,150000 , N/A , 125000
+Intel,10,Enterprise,310000,"Seattle, WA ",2020-11-09,6 , 10,190000 , 102000 , 17000
+SAP Concur,L2,sales,200000,"Bellevue, WA ",2020-11-04,10 , 10,100000 , 5000 , 100000
+Google,L7,Google cloud,420000,"Sunnyvale, CA ",2020-11-01,3 , 10,350000 , 50000 , 25000
+Google,L6,Data,345000,"Sunnyvale, CA ",2020-10-30,1 , 10,160000 , 25000 , 160000
+Synaptics,Senior Sales Manager,Technical,252000,"San Jose, CA ",2020-10-17,3 , 10,172000 , 8000 , 72000
+Microsoft,65,Consulting,500000,"Austin, TX ",2020-10-14,5 , 10,160000 , 60000 , 280000
+Amazon,L7,Strategic Sales,450000,"San Francisco, CA ",2020-10-12,6 , 10,185000 , 142000 , 123000
+Microsoft,63,Enterprise Sales,340000,"New York, NY ",2020-09-30,4 , 10,150000 , 30000 , 160000
+Amazon,L5,Sales,256000,"Seattle, WA ",2020-09-18,2 , 10,132000 , 52000 , 72000
+Compass,L3,Growth,260000,"San Francisco, CA ",2020-08-19,2 , 10,120000 , 20000 , 120000
+Google,L6,Sales,350000,"New York, NY ",2020-08-14,1 , 10,120000 , 50000 , 180000
+Google,L4,Cloud,224000,"New York, NY ",2020-08-02,3 , 10,180000 , 44000 , N/A
+Capgemini,D,Sales,215000,"New York, NY ",2020-07-30,7 , 10,145000 , 40000 , 30000
+Microsoft,65,ML / AI,320000,"Seattle, WA ",2020-07-16,6 , 10,160000 , 20000 , 140000

@@ -1,0 +1,46 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Uber,6,General,670000,"San Francisco, CA ",2022-02-16,3 , 12,220000 , 400000 , 50000
+Capital One,Senior manager,Model development,295000,"New York, NY ",2022-02-11,8 , 12,260000 , N/A , 35000
+Wayfair,L4,Analytics,208000,"Boston, MA ",2022-02-09,0 , 12,155000 , 30000 , 23000
+Relativity,L6,General,360000,"Chicago, IL ",2022-02-05,1 , 12,220000 , 120000 , 20000
+Amazon,L5,Machine Learning,256000,"Seattle, WA ",2022-02-04,3 , 12,156000 , 100000 , N/A
+LatentView Analytics,L4,General,185000,"San Francisco, CA ",2022-01-29,8 , 12,139000 , 33000 , 13000
+Microsoft,65,AI,311000,"Mountain View, CA ",2022-01-26,9 , 12,221000 , 45000 , 45000
+Experian,Senior,Data Analytics,150000,"Irvine, CA ",2021-12-23,11 , 12,130000 , N/A , 20000
+Amazon,L6,General,205000,"Seattle, WA ",2021-12-14,6 , 12,132000 , 73000 , N/A
+Roche,g5,analyst,156000,"Pleasanton, CA ",2021-11-10,2 , 12,139000 , N/A , 17000
+Amazon,L5,Data Engineer,244000,"San Francisco, CA ",2021-11-09,1 , 12,180000 , N/A , 64000
+Microsoft,66,Data Scientist,450000,"Redmond, WA ",2021-10-25,5 , 12,220000 , 160000 , 70000
+Lyft,T6,,570000,"New York, NY ",2021-09-30,0 , 12,230000 , 280000 , 60000
+Amazon,L6,machine learning,440000,"Los Angeles, CA ",2021-09-14,7 , 12,160000 , 175000 , 105000
+Microsoft,64,Engineering,266000,"Redmond, WA ",2021-08-26,12 , 12,189000 , 42000 , 35000
+Microsoft,65,Applied Scientist,460000,"Redmond, WA ",2021-08-19,9 , 12,200000 , 198000 , 62000
+Ernst and Young,Principal,General,290000,"New York, NY ",2021-07-20,10 , 12,260000 , N/A , 30000
+Twilio,L5,Data Science,415000,"San Francisco, CA ",2021-07-07,0 , 12,240000 , 175000 , N/A
+Google,L6,ML,570000,"Mountain View, CA ",2021-05-17,1 , 12,230000 , 300000 , 40000
+Microsoft,67,AI,513000,"Redmond, WA ",2021-01-28,3 , 12,230000 , 225000 , 58000
+Google,L5,Data,262000,"Mountain View, CA ",2021-01-04,7 , 12,175000 , 60000 , 27000
+Airbnb,L5,ML / AI,690000,"Seattle, WA ",2020-12-16,1 , 12,210000 , 438000 , 42000
+Salesforce,Director,ML / AI,800000,"San Francisco, CA ",2020-10-29,3 , 12,250000 , 500000 , 50000
+Dell Technologies,Senior Principal Engineer,Data,173000,"Austin, TX ",2020-10-21,4 , 12,150000 , N/A , 23000
+Roblox,Sr,Data,490000,"San Francisco, CA ",2020-10-15,0 , 12,270000 , 220000 , N/A
+Apple,ICT5,operations,232000,"Cupertino, CA ",2020-10-01,3 , 12,175000 , 43000 , 14000
+Amazon,l6,Data,212000,"Seattle, WA ",2020-08-18,4 , 12,130000 , N/A , 82000
+eBay,L27,Full Stack,346000,"San Jose, CA ",2020-08-02,2 , 12,208000 , 100000 , 38000
+Google,L6,Full Stack,489000,"Mountain View, CA ",2020-07-10,7 , 12,220000 , 219000 , 50000
+Facebook,IC5,Data,300000,"Seattle, WA ",2020-06-12,3 , 12,185000 , 100000 , 15000
+Lyft,7,ML / AI,730000,"San Francisco, CA ",2020-04-21,2 , 12,260000 , 470000 , N/A
+Uber,5b,ML / AI,451000,"Palo Alto, CA ",2020-04-15,5 , 12,212000 , 207000 , 32000
+Cisco,Grade 8,Data,145000,"San Jose, CA ",2020-02-27,0 , 12,130000 , N/A , 15000
+Google,L5,ML / AI,346000,"Seattle, WA ",2020-02-12,0 , 12,170000 , 150000 , 26000
+Aptiv,Senior Research Scientist,ML / AI,220000,"Boston, MA ",2020-01-23,3 , 12,185000 , N/A , 35000
+Amazon,IC5,data,215000,"Seattle, WA ",2020-01-21,0 , 12,150000 , 50000 , 15000
+Amazon,L6,ML / AI,340000,"Seattle, WA ",2020-01-02,0 , 12,160000 , 110000 , 70000
+,L,ML / AI,149000,"Seattle, WA ",2019-08-28,1 , 12,130000 , 4000 , 15000
+Amazon,L7,ML / AI,740000,"Seattle, WA ",2019-08-25,7 , 12,160000 , 430000 , N/A
+Goldman Sachs,Executive Director / Vice-President,ML / AI,210000,"Jersey City, NJ ",2019-08-15,3 , 12,170000 , 2000 , 40000
+Uber,Senior Software Engineer,Data Science,387000,"San Francisco, CA ",2019-08-01,1 , 12,,,
+Google,L5,Product Analytics,257000,"Mountain View, CA ",2019-06-17,11 , 12,156000 , 66000 , 35000
+Goldman Sachs,Executive Director / Vice-President,ML / AI,210000,"New York, NY ",2019-06-10,3 , 12,170000 , 2000 , 40000
+Facebook,IC6,Product Analytics,350000,"Menlo Park, CA ",2019-05-17,2 , 12,200000 , 110000 , 40000
+eBay,Distinguished MTS,ML / AI,900000,"San Jose, CA ",2019-02-08,2 , 12,300000 , 250000 , 350000

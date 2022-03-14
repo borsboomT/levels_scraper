@@ -1,0 +1,48 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Splunk,l3,sales,150000,"Boston, MA ",2022-02-23,1 , 4,125000 , N/A , 25000
+Amazon,L4,Global Sales,120000,"Seattle, WA ",2022-02-11,2 , 4,67000 , 36000 , 17000
+Criteo,2,General,125000,"New York, NY ",2022-02-09,3 , 4,100000 , N/A , 25000
+Amazon,L4,Consumables,103000,"Seattle, WA ",2022-02-08,1 , 4,80000 , 3000 , 20000
+Hulu,Senior Analyst,Inventory Analytics,112000,"Los Angeles, CA ",2022-02-08,0 , 4,88000 , 15000 , 9000
+Amazon,L6,Business Development,335000,"San Francisco, CA ",2022-02-07,4 , 4,185000 , 150000 , N/A
+MOLOCO,2,account managment,155000,"San Francisco, CA ",2022-02-07,1 , 4,110000 , 10000 , 35000
+,3,CPG,270000,"Los Angeles, CA ",2022-02-03,3 , 4,115000 , 40000 , 115000
+Atlassian,P6,General,159000,"Austin, TX ",2022-01-31,1 , 4,125000 , 15000 , 19000
+Microsoft,63,Partner,266000,"Chicago, IL ",2022-01-28,0 , 4,148000 , 19000 , 99000
+Google,L3,Programmatic Advertising (DV360),170000,"New York, NY ",2022-01-23,3 , 4,98000 , 34000 , 38000
+Google,L3,Retail,156000,"Seattle, WA ",2022-01-19,3 , 4,92000 , 32000 , 32000
+PepsiCo,L8,Energy,84000,"Denver, CO ",2022-01-13,1 , 4,84000 , N/A , N/A
+DocuSign,P3,General,185000,"San Francisco, CA ",2021-12-22,2 , 4,135000 , 50000 , N/A
+Facebook,IC3,general,148000,"New York, NY ",2021-12-15,4 , 4,104000 , 10000 , 34000
+Google,L4,Large customer sales,204000,"New York, NY ",2021-11-23,0 , 4,130000 , 22000 , 52000
+Google,L3,Ads,152000,"New York, NY ",2021-11-19,0 , 4,101000 , 16000 , 35000
+Atlassian,L6,Sales Ops,160000,"Austin, TX ",2021-10-18,1 , 4,125000 , 16000 , 19000
+Hyperscience,L4,Operations,141000,"New York, NY ",2021-10-06,1 , 4,125000 , 16000 , N/A
+LinkedIn,Associate Sales Ops,Operations,163000,"New York, NY ",2021-09-22,2 , 4,125000 , 25000 , 13000
+Intel,Grade 9,BizDev,225000,"Santa Clara, CA ",2021-09-16,2 , 4,145000 , 55000 , 25000
+Google,Manager,#operations,135000,"Los Angeles, CA ",2021-09-13,1 , 4,125000 , 10000 , N/A
+Oracle,IC-1,Hardware,140000,"Chicago, IL ",2021-08-23,4 , 4,70000 , N/A , 70000
+Google,L3,Sales,159000,"New York, NY ",2021-08-19,4 , 4,101000 , 39000 , 20000
+Amazon,L4,Sales,63000,"Seattle, WA ",2021-08-18,0 , 4,63000 , N/A , N/A
+Google,L3,Generalt,145000,"Seattle, WA ",2021-08-07,3 , 4,85000 , 30000 , 30000
+IBM,Band 8,,180000,"New York, NY ",2021-06-30,1 , 4,180000 , N/A , N/A
+Microsoft,60,Sales,140000,"Bellevue, WA ",2021-06-16,4 , 4,90000 , 10000 , 40000
+DocuSign,L3,Sales,240000,"Seattle, WA ",2021-05-17,3 , 4,80000 , 80000 , 80000
+Square,Level 5,Sales,210000,"San Francisco, CA ",2021-05-09,4 , 4,80000 , 50000 , 80000
+sweetgreen,3,Sales,130000,"Los Angeles, CA ",2021-02-28,2 , 4,70000 , 10000 , 50000
+Amazon,L4,Enterprise,161000,"Seattle, WA ",2021-01-29,1 , 4,95000 , 13000 , 53000
+Salesforce,L4,Consumer,139000,"New York, NY ",2021-01-04,3 , 4,78000 , N/A , 61000
+Elastic,L5,User Journey,168000,"New York, NY ",2020-11-25,4 , 4,69000 , 30000 , 69000
+Google,L2,SaaS,242000,"San Francisco, CA ",2020-11-23,4 , 4,100000 , 12000 , 130000
+Sumo Logic,Mid Market SMB AE,Security,160000,"Redwood City, CA ",2020-11-01,4 , 4,70000 , N/A , 90000
+LinkedIn,Associate,,157000,"New York, NY ",2020-10-31,1 , 4,120000 , 25000 , 12000
+Adyen,L1,N/A,200000,"San Francisco, CA ",2020-10-30,4 , 4,175000 , 25000 , N/A
+Amazon,L4,eCommerce,120000,"Seattle, WA ",2020-10-13,2 , 4,70000 , 40000 , 10000
+MathWorks,L2,ML / AI,117000,"Natick, MA ",2020-10-12,2 , 4,110000 , N/A , 7000
+Cisco,Grade 10,Sales,247000,"Austin, TX ",2020-09-26,0 , 4,144000 , 7000 , 96000
+Amazon,L5,Advertising,250000,"Seattle, WA ",2020-09-21,4 , 4,85000 , 125000 , 40000
+Indeed,Senior,Account Executive,175000,"New York, NY ",2020-09-21,4 , 4,70000 , 4000 , 100000
+Google,L4,SMB Ad Sales,174000,"New York, NY ",2020-09-17,1 , 4,108000 , 16000 , 49000
+Amazon,L5,iOS,225000,"Seattle, WA ",2020-09-04,4 , 4,105000 , 60000 , 60000
+Google,L3,Ad Sales,153000,"San Francisco, CA ",2020-08-26,4 , 4,88000 , 30000 , 35000
+Oracle,IC2,Enterprise,120000,"San Francisco, CA ",2020-08-24,2 , 4,100000 , N/A , 20000

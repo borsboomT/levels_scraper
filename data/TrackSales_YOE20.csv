@@ -1,0 +1,36 @@
+Company,Level Name,Tag,Total Compensation,Location,Date,YOE At Company,YOE Total,Base Comp,Stock Comp,Bonus Comp
+Amazon,L7,,375000,"New York, NY ",2022-03-08,3 , 20,176000 , 81000 , 118000
+Amazon,L6,,745000,"San Francisco, CA ",2022-03-05,3 , 20,175000 , 350000 , 220000
+Amazon,L6,Strategic large accounts,300000,"New York, NY ",2022-03-04,0 , 20,160000 , 70000 , 70000
+Oracle,IC,Oracle Cloud Infrastructure,400000,"Austin, TX ",2022-02-17,0 , 20,225000 , 75000 , 100000
+Twilio,L3,General,226000,"Chicago, IL ",2022-02-15,1 , 20,135000 , 50000 , 41000
+Cadence Design Systems,L6,Sales,260000,"San Jose, CA ",2022-02-11,8 , 20,225000 , N/A , 35000
+Amazon,L6,General,170000,"Boston, MA ",2022-02-10,3 , 20,135000 , 35000 , N/A
+Lumen,L6,Sales,260000,"Denver, CO ",2022-02-09,5 , 20,170000 , 10000 , 80000
+Google,L3,Sales,163000,"San Jose, CA ",2022-02-06,3 , 20,105000 , 18000 , 40000
+Wipro,D1,Hi-Tech,285000,"Mountain View, CA ",2022-01-12,2 , 20,195000 , N/A , 90000
+Wipro,D,Hi-Tech,292000,"San Francisco, CA ",2022-01-12,2 , 20,192000 , N/A , 100000
+Accenture,L6,FS Sales,285000,"New York, NY ",2022-01-11,0 , 20,210000 , 25000 , 50000
+Comcast,L6,General,235000,"Denver, CO ",2022-01-07,10 , 20,165000 , 40000 , 30000
+Adobe,Senior,General,200000,"Boston, MA ",2021-12-27,7 , 20,155000 , N/A , 45000
+IBM,Band 9,Hybrid,320000,"San Francisco, CA ",2021-12-18,7 , 20,205000 , N/A , 115000
+Cloudflare,L5,general,310000,"Seattle, WA ",2021-11-09,2 , 20,300000 , 10000 , N/A
+Google,L7,Sales Engineer,510000,"Sunnyvale, CA ",2021-11-01,4 , 20,207000 , 83000 , 220000
+Salesforce,Director,Customer Success,272000,"Austin, TX ",2021-10-28,1 , 20,187000 , 25000 , 60000
+Amazon,L6,AWS,315000,"Irvine, CA ",2021-10-21,2 , 20,160000 , 50000 , 105000
+Amazon,L4,Business Development,120000,"Seattle, WA ",2021-10-05,0 , 20,95000 , 25000 , N/A
+Oracle,IC4,Health,220000,"San Francisco, CA ",2021-09-14,1 , 20,155000 , N/A , 65000
+Microsoft,L65,Cloud,399000,"Los Angeles, CA ",2021-07-10,8 , 20,169000 , 30000 , 200000
+Ericsson,JS8,"BSS, Cloud, Core",199000,"Seattle, WA ",2021-06-30,18 , 20,166000 , N/A , 33000
+HCL Technologies,6.2,Sales,265000,"Sunnyvale, CA ",2021-06-15,3 , 20,190000 , N/A , 75000
+Google,L6,GTM,266000,"Seattle, WA ",2021-05-22,1 , 20,170000 , 60000 , 36000
+Microsoft,64,Health,240000,"Seattle, WA ",2021-05-11,5 , 20,165000 , 35000 , 35000
+Microsoft,65,sales,245000,"Seattle, WA ",2020-11-17,20 , 20,190000 , 20000 , 35000
+Cisco,Grade 12,Networking,330000,"New York, NY ",2020-11-12,3 , 20,190000 , 10000 , 130000
+Dell Technologies,s8,Account Executive,279000,"Boston, MA ",2020-10-27,20 , 20,165000 , N/A , 114000
+Globant,Vice president,Growth,345000,"San Francisco, CA ",2020-09-12,0 , 20,215000 , N/A , 130000
+Google,L7,Enterprise,802000,"San Francisco, CA ",2020-08-31,10 , 20,182000 , 120000 , 500000
+Microsoft,67,Full Stack,600000,"Seattle, WA ",2020-08-06,10 , 20,220000 , 200000 , 180000
+Amazon,L7,sales,310000,"Los Angeles, CA ",2020-08-01,7 , 20,160000 , 150000 , N/A
+Arista Networks,L4,Networking,350000,"Santa Clara, CA ",2020-07-21,8 , 20,160000 , 150000 , 40000
+Amazon,IC7,Sales,360000,"Seattle, WA ",2020-04-17,2 , 20,160000 , 120000 , 80000
